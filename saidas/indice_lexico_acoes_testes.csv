@@ -1,0 +1,6 @@
+dimensao,n_termos,termos,ocorrencias,amplitude_rel,tendencia_spearman,p_perm_amplitude,p_perm_tendencia,pct_lexicos_aleatorios_amplitude,pct_lexicos_aleatorios_tendencia
+competitividade e produção,2,"competitividade, diversificação",5,2.24,-0.76,0.979,0.1083,20.6,82.0
+inovação e tecnologia,4,"inovação, tecnologia, modernização, tecnológico",107,1.21,0.37,0.7524,0.4865,59.0,34.1
+inserção internacional,3,"internacional, exportação, comercial",28,1.29,-0.71,1.0,0.1286,27.5,74.3
+trabalho e renda,6,"emprego, qualificação, trabalhador, empregar, trabalho, renda",38,1.78,0.54,0.8727,0.2982,76.1,63.0
+léxico inteiro,15,"comercial, competitividade, diversificação, empregar, emprego, exportação, inovação, internacional, modernização, qualificação, renda, tecnologia, tecnológico, trabalhador, trabalho",178,0.72,0.83,0.9274,0.058,45.6,85.5

@@ -1,0 +1,168 @@
+ods,titulo,termo,tfidf,ocorrencias_nas_metas,ods_em_que_aparece,mantido
+1,Erradicação da pobreza,pobreza,0.387,5,3,1
+1,Erradicação da pobreza,dimensão,0.197,2,1,0
+1,Erradicação da pobreza,viver,0.197,2,1,0
+1,Erradicação da pobreza,propriedade,0.172,2,2,0
+1,Erradicação da pobreza,extremo,0.172,2,2,1
+1,Erradicação da pobreza,lugar,0.155,2,3,0
+1,Erradicação da pobreza,homem,0.155,2,3,0
+1,Erradicação da pobreza,adequar,0.155,2,3,0
+1,Erradicação da pobreza,vulnerável,0.155,2,3,1
+2,Fome zero e agricultura sustentável,agrícola,0.396,6,1,1
+2,Fome zero e agricultura sustentável,alimento,0.345,6,2,1
+2,Fome zero e agricultura sustentável,planta,0.198,3,1,0
+2,Fome zero e agricultura sustentável,produção,0.155,3,3,0
+2,Fome zero e agricultura sustentável,fome,0.132,2,1,1
+2,Fome zero e agricultura sustentável,animal,0.132,2,1,1
+2,Fome zero e agricultura sustentável,semente,0.132,2,1,1
+2,Fome zero e agricultura sustentável,manter,0.132,2,1,0
+2,Fome zero e agricultura sustentável,banco,0.132,2,1,0
+2,Fome zero e agricultura sustentável,exportação,0.115,2,2,0
+2,Fome zero e agricultura sustentável,produtividade,0.115,2,2,0
+2,Fome zero e agricultura sustentável,genético,0.115,2,2,1
+2,Fome zero e agricultura sustentável,ajudar,0.115,2,2,0
+2,Fome zero e agricultura sustentável,ano,0.103,2,3,0
+3,Saúde e Bem-Estar,doença,0.357,6,1,1
+3,Saúde e Bem-Estar,transmissível,0.238,4,1,1
+3,Saúde e Bem-Estar,medicamento,0.238,4,1,1
+3,Saúde e Bem-Estar,morte,0.208,4,2,1
+3,Saúde e Bem-Estar,mortalidade,0.208,4,2,1
+3,Saúde e Bem-Estar,vivo,0.179,3,1,0
+3,Saúde e Bem-Estar,nascido,0.179,3,1,1
+3,Saúde e Bem-Estar,vacina,0.179,3,1,1
+3,Saúde e Bem-Estar,essencial,0.156,3,2,0
+3,Saúde e Bem-Estar,risco,0.14,3,3,0
+3,Saúde e Bem-Estar,abuso,0.104,2,2,1
+3,Saúde e Bem-Estar,reprodutivo,0.104,2,2,1
+3,Saúde e Bem-Estar,prevenção,0.093,2,3,1
+3,Saúde e Bem-Estar,ano,0.093,2,3,0
+4,Educação de qualidade,profissional,0.273,4,1,1
+4,Educação de qualidade,ensino,0.205,3,1,1
+4,Educação de qualidade,aprendizagem,0.205,3,1,1
+4,Educação de qualidade,técnico,0.16,3,3,1
+4,Educação de qualidade,formação,0.16,3,3,1
+4,Educação de qualidade,professor,0.136,2,1,1
+4,Educação de qualidade,adulto,0.136,2,1,1
+4,Educação de qualidade,primário,0.136,2,1,1
+4,Educação de qualidade,menino,0.136,2,1,1
+4,Educação de qualidade,habilidade,0.136,2,1,1
+4,Educação de qualidade,jovem,0.107,2,3,1
+4,Educação de qualidade,menina,0.107,2,3,1
+5,Igualdade de gênero,menina,0.3,4,3,1
+5,Igualdade de gênero,empoderamento,0.192,2,1,1
+5,Igualdade de gênero,reprodutivo,0.167,2,2,1
+5,Igualdade de gênero,sexual,0.167,2,2,1
+5,Igualdade de gênero,propriedade,0.167,2,2,0
+6,Água potável e saneamento,saneamento,0.316,4,1,1
+6,Água potável e saneamento,escassez,0.158,2,1,1
+6,Água potável e saneamento,reciclagem,0.138,2,2,1
+7,Energia limpa e acessível,energia,0.724,8,1,1
+7,Energia limpa e acessível,energético,0.272,3,1,1
+7,Energia limpa e acessível,moderno,0.237,3,2,0
+7,Energia limpa e acessível,renovável,0.181,2,1,1
+7,Energia limpa e acessível,limpo,0.158,2,2,1
+7,Energia limpa e acessível,confiável,0.142,2,3,0
+8,Trabalho decente e crescimento econômico,trabalho,0.383,7,3,1
+8,Trabalho decente e crescimento econômico,crescimento,0.305,5,2,1
+8,Trabalho decente e crescimento econômico,decente,0.183,3,2,1
+8,Trabalho decente e crescimento econômico,produtivo,0.164,3,3,0
+8,Trabalho decente e crescimento econômico,jovem,0.164,3,3,1
+8,Trabalho decente e crescimento econômico,infantil,0.14,2,1,1
+8,Trabalho decente e crescimento econômico,pleno,0.122,2,2,1
+8,Trabalho decente e crescimento econômico,trabalhador,0.122,2,2,1
+8,Trabalho decente e crescimento econômico,sustentar,0.122,2,2,0
+8,Trabalho decente e crescimento econômico,migrante,0.122,2,2,1
+8,Trabalho decente e crescimento econômico,setor,0.109,2,3,0
+8,Trabalho decente e crescimento econômico,inovação,0.109,2,3,0
+9,"Indústria, inovação e infraestrutura",indústria,0.247,3,1,1
+9,"Indústria, inovação e infraestrutura",industrial,0.247,3,1,1
+9,"Indústria, inovação e infraestrutura",tecnológico,0.193,3,3,1
+9,"Indústria, inovação e infraestrutura",resiliente,0.193,3,3,1
+9,"Indústria, inovação e infraestrutura",inovação,0.193,3,3,0
+9,"Indústria, inovação e infraestrutura",industrialização,0.164,2,1,1
+9,"Indústria, inovação e infraestrutura",setor,0.129,2,3,0
+10,Redução das desigualdades,instituição,0.225,3,3,0
+10,Redução das desigualdades,regulamentação,0.192,2,1,0
+10,Redução das desigualdades,migração,0.192,2,1,1
+10,Redução das desigualdades,remessa,0.192,2,1,1
+10,Redução das desigualdades,custo,0.192,2,1,0
+10,Redução das desigualdades,desigualdade,0.192,2,1,1
+10,Redução das desigualdades,responsável,0.167,2,2,0
+11,Cidades e comunidades sustentáveis,assentamento,0.245,3,1,1
+11,Cidades e comunidades sustentáveis,cidade,0.245,3,1,1
+11,Cidades e comunidades sustentáveis,desastr,0.192,3,3,1
+11,Cidades e comunidades sustentáveis,transporte,0.163,2,1,1
+11,Cidades e comunidades sustentáveis,atenção,0.142,2,2,0
+11,Cidades e comunidades sustentáveis,idoso,0.142,2,2,1
+11,Cidades e comunidades sustentáveis,resiliente,0.128,2,3,1
+12,Consumo e produção responsáveis,consumo,0.218,3,2,1
+12,Consumo e produção responsáveis,produção,0.195,3,3,0
+12,Consumo e produção responsáveis,ciclo,0.166,2,1,1
+12,Consumo e produção responsáveis,padrão,0.166,2,1,0
+12,Consumo e produção responsáveis,resíduo,0.145,2,2,1
+12,Consumo e produção responsáveis,alimento,0.145,2,2,1
+12,Consumo e produção responsáveis,perda,0.13,2,3,1
+12,Consumo e produção responsáveis,subsídio,0.13,2,3,0
+12,Consumo e produção responsáveis,empresa,0.13,2,3,0
+12,Consumo e produção responsáveis,longo,0.13,2,3,0
+12,Consumo e produção responsáveis,minimizar,0.13,2,3,1
+12,Consumo e produção responsáveis,conta,0.13,2,3,0
+13,Ação contra a mudança global do clima,clima,0.432,4,2,1
+13,Ação contra a mudança global do clima,mudança,0.387,4,3,0
+13,Ação contra a mudança global do clima,mitigação,0.216,2,2,1
+13,Ação contra a mudança global do clima,adaptação,0.194,2,3,1
+14,Vida na água,marinho,0.522,9,1,1
+14,Vida na água,oceano,0.348,6,1,1
+14,Vida na água,pesca,0.29,5,1,1
+14,Vida na água,subsídio,0.182,4,3,0
+14,Vida na água,conservação,0.152,3,2,0
+14,Vida na água,reportar,0.116,2,1,0
+14,Vida na água,regulamentar,0.116,2,1,0
+14,Vida na água,sobrepesca,0.116,2,1,1
+14,Vida na água,costeiro,0.116,2,1,1
+14,Vida na água,poluição,0.091,2,3,1
+14,Vida na água,reforço,0.091,2,3,0
+14,Vida na água,ilegal,0.091,2,3,0
+14,Vida na água,base,0.091,2,3,0
+15,Vida terrestre,espécie,0.265,5,2,1
+15,Vida terrestre,biodiversidade,0.265,5,2,1
+15,Vida terrestre,deter,0.242,4,1,0
+15,Vida terrestre,floresta,0.212,4,2,1
+15,Vida terrestre,conservação,0.212,4,2,0
+15,Vida terrestre,desertificação,0.182,3,1,1
+15,Vida terrestre,terrestr,0.159,3,2,1
+15,Vida terrestre,degradação,0.159,3,2,1
+15,Vida terrestre,ilegal,0.142,3,3,0
+15,Vida terrestre,degradar,0.121,2,1,0
+15,Vida terrestre,florestal,0.121,2,1,1
+15,Vida terrestre,caça,0.121,2,1,1
+15,Vida terrestre,reflorestamento,0.121,2,1,1
+15,Vida terrestre,manejo,0.106,2,2,1
+15,Vida terrestre,genético,0.106,2,2,1
+15,Vida terrestre,urgente,0.106,2,2,1
+16,"Paz, Justiça e Instituições Eficazes",instituição,0.323,4,3,0
+16,"Paz, Justiça e Instituições Eficazes",violência,0.242,3,3,1
+16,"Paz, Justiça e Instituições Eficazes",crime,0.206,2,1,1
+16,"Paz, Justiça e Instituições Eficazes",justiça,0.206,2,1,1
+16,"Paz, Justiça e Instituições Eficazes",responsável,0.18,2,2,0
+17,Parcerias e meios de implementação,parceria,0.247,5,1,1
+17,Parcerias e meios de implementação,capacitação,0.216,5,2,0
+17,Parcerias e meios de implementação,dívida,0.148,3,1,1
+17,Parcerias e meios de implementação,objetivo,0.148,3,1,0
+17,Parcerias e meios de implementação,mecanismo,0.13,3,2,0
+17,Parcerias e meios de implementação,renda,0.116,3,3,0
+17,Parcerias e meios de implementação,bruto,0.116,3,3,0
+17,Parcerias e meios de implementação,preferencial,0.099,2,1,0
+17,Parcerias e meios de implementação,existente,0.099,2,1,0
+17,Parcerias e meios de implementação,coerência,0.099,2,1,1
+17,Parcerias e meios de implementação,coordenação,0.099,2,1,0
+17,Parcerias e meios de implementação,âmbito,0.099,2,1,0
+17,Parcerias e meios de implementação,complementar,0.099,2,1,0
+17,Parcerias e meios de implementação,ciência,0.099,2,1,0
+17,Parcerias e meios de implementação,triangular,0.099,2,1,1
+17,Parcerias e meios de implementação,regra,0.099,2,1,0
+17,Parcerias e meios de implementação,mobilização,0.086,2,2,1
+17,Parcerias e meios de implementação,fornecer,0.086,2,2,0
+17,Parcerias e meios de implementação,exportação,0.086,2,2,0
+17,Parcerias e meios de implementação,interno,0.077,2,3,0
+17,Parcerias e meios de implementação,inovação,0.077,2,3,0

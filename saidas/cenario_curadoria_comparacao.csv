@@ -1,0 +1,59 @@
+bloco,item,antes,depois
+programas,2004-2007,9.0,9.0
+programas,2008-2011,4.0,5.0
+programas,2012-2015,8.0,10.0
+programas,2016-2019,7.0,10.0
+programas,2020-2023,7.0,8.0
+programas,2024-2027,7.0,8.0
+circularidade: p de permutação,inovação (lexical),0.7205,0.7197
+circularidade: p de permutação,inovação (semantica),0.8052,0.4785
+circularidade: p de permutação,competitividade (lexical),0.0018,0.0026
+circularidade: p de permutação,competitividade (semantica),0.1362,0.1868
+circularidade: p de permutação,digital (lexical),0.2064,0.2198
+circularidade: p de permutação,digital (semantica),0.008,0.079
+circularidade: p de permutação,internacional (lexical),0.8888,0.8748
+circularidade: p de permutação,internacional (semantica),0.7013,0.7784
+circularidade: p de permutação,emprego (lexical),0.7323,0.7576
+circularidade: p de permutação,emprego (semantica),0.3647,0.8854
+dimensão: p de permutação,competitividade e produção,0.0037,0.0037
+dimensão: % léxicos aleatórios superados,competitividade e produção,99.7,98.4
+dimensão: p de permutação,digital,0.6431,0.7308
+dimensão: % léxicos aleatórios superados,digital,36.8,35.5
+dimensão: p de permutação,inovação e tecnologia,0.9194,0.968
+dimensão: % léxicos aleatórios superados,inovação e tecnologia,43.7,30.9
+dimensão: p de permutação,inserção internacional,0.8577,0.8291
+dimensão: % léxicos aleatórios superados,inserção internacional,53.7,51.7
+dimensão: p de permutação,trabalho e renda,0.8264,0.889
+dimensão: % léxicos aleatórios superados,trabalho e renda,72.4,67.2
+dimensão: p de permutação,léxico inteiro,0.7418,0.6208
+dimensão: % léxicos aleatórios superados,léxico inteiro,33.7,41.6
+taxa por mil lemas: competitividade e produção,2004-2007,0.0,0.0
+taxa por mil lemas: competitividade e produção,2008-2011,13.7,12.05
+taxa por mil lemas: competitividade e produção,2012-2015,22.08,22.99
+taxa por mil lemas: competitividade e produção,2016-2019,20.13,19.89
+taxa por mil lemas: competitividade e produção,2020-2023,18.4,20.77
+taxa por mil lemas: competitividade e produção,2024-2027,43.64,42.25
+taxa por mil lemas: trabalho e renda,2004-2007,17.86,17.86
+taxa por mil lemas: trabalho e renda,2008-2011,20.55,36.14
+taxa por mil lemas: trabalho e renda,2012-2015,15.77,28.74
+taxa por mil lemas: trabalho e renda,2016-2019,13.42,25.57
+taxa por mil lemas: trabalho e renda,2020-2023,12.27,11.87
+taxa por mil lemas: trabalho e renda,2024-2027,43.64,42.25
+taxa por mil lemas: inserção internacional,2004-2007,17.86,17.86
+taxa por mil lemas: inserção internacional,2008-2011,20.55,18.07
+taxa por mil lemas: inserção internacional,2012-2015,22.08,20.11
+taxa por mil lemas: inserção internacional,2016-2019,26.85,31.25
+taxa por mil lemas: inserção internacional,2020-2023,39.88,38.58
+taxa por mil lemas: inserção internacional,2024-2027,14.55,14.08
+% do PPA: programas selecionados,2004-2007,3.07,3.07
+% do PPA: crédito,2004-2007,0.81,0.81
+% do PPA: programas selecionados,2008-2011,3.16,4.2
+% do PPA: crédito,2008-2011,1.27,2.24
+% do PPA: programas selecionados,2012-2015,2.08,5.5
+% do PPA: crédito,2012-2015,1.12,1.82
+% do PPA: programas selecionados,2016-2019,1.78,3.26
+% do PPA: crédito,2016-2019,0.98,0.98
+% do PPA: programas selecionados,2020-2023,2.41,2.81
+% do PPA: crédito,2020-2023,0.71,0.71
+% do PPA: programas selecionados,2024-2027,2.5,2.52
+% do PPA: crédito,2024-2027,0.43,0.43

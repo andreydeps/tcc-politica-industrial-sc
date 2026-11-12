@@ -1,0 +1,119 @@
+codigo,nome,orgao,tipo,periodo
+0110,Apoio Administrativo,Secretaria de Estado do Planejamento,Apoio Administrativo,2004-2007
+0120,Primeira Chance,Secretaria de Estado da Administração,Finalístico,2004-2007
+0130,Valorização do Servidor Público e Gestão de Recursos Humanos,Secretaria de Estado da Administração,Gestão de Políticas Públicas,2004-2007
+0140,Gestão Documental do Arquivo Público do Estado,Secretaria de Estado da Administração,Finalístico,2004-2007
+0160,Pagamento de Pensões Especiais,Secretaria de Estado da Administração,Apoio Administrativo,2004-2007
+0170,Modernização da Gestão de Materiais e Serviços,Secretaria de Estado da Administração,Apoio Administrativo,2004-2007
+0180,Assistência Previdenciária,Secretaria de Estado da Administração,Apoio Administrativo,2004-2007
+0185,Santa Catarina Saúde - Valorizar o Servidor Público,Secretaria de Estado da Administração,Apoio Administrativo,2004-2007
+0190,Modernização da Gestão de Atos Oficiais,Secretaria de Estado da Administração,Apoio Administrativo,2004-2007
+0200,Agrorredes,Secretaria de Estado da Agricultura e Desenvolvimento Rural,Finalístico,2004-2007
+0210,Gestão da Política Pública de Desenvolvimento Rural,Secretaria de Estado da Agricultura e Desenvolvimento Rural,Finalístico,2004-2007
+0212,Arranjos Produtivos da Aqüicultura e Pesca - Boa Pesca,Secretaria de Estado da Agricultura e Desenvolvimento Rural,Finalístico,2004-2007
+0214,Informatização no Campo e na Pesca - Beija Flor,Secretaria de Estado da Agricultura e Desenvolvimento Rural,Finalístico,2004-2007
+0215,Desenvolvimento Florestal - Florestar,Secretaria de Estado da Agricultura e Desenvolvimento Rural,Finalístico,2004-2007
+0218,Armazenar - Armazenagem no Meio Rural,Secretaria de Estado da Agricultura e Desenvolvimento Rural,Finalístico,2004-2007
+0225,"Desenvolvimento Regional, da Agricultura Familiar e da Pesca",Secretaria de Estado da Agricultura e Desenvolvimento Rural,Finalístico,2004-2007
+0226,Leite e Carne em Pastagem Melhorada,Secretaria de Estado da Agricultura e Desenvolvimento Rural,Finalístico,2004-2007
+0230,"Pesquisa Agropecuária e Aqüícola, Assistência Técnica e Extensão Rural e Pesqueira",Secretaria de Estado da Agricultura e Desenvolvimento Rural,Finalístico,2004-2007
+0233,Melhoria de Sistemas de Abastecimento de Água - Água no Meio Rural,Secretaria de Estado da Agricultura e Desenvolvimento Rural,Finalístico,2004-2007
+0234,Distribuição de Insumos Básicos aos Pequenos Produtores Rurais - Terra Boa,Secretaria de Estado da Agricultura e Desenvolvimento Rural,Finalístico,2004-2007
+0235,Excelência Sanitária,Secretaria de Estado da Agricultura e Desenvolvimento Rural,Finalístico,2004-2007
+0240,Planejamento e Informações Estratégicas para o Setor Rural e Pesqueiro,Secretaria de Estado da Agricultura e Desenvolvimento Rural,Finalístico,2004-2007
+0250,Acesso à Terra no Meio Rural,Secretaria de Estado da Agricultura e Desenvolvimento Rural,Finalístico,2004-2007
+0255,Melhoria da Infra-estrutura Rural e Pesqueira,Secretaria de Estado da Agricultura e Desenvolvimento Rural,Finalístico,2004-2007
+0260,Recuperação Ambiental e Apoio ao Pequeno Produtor Rural - Prapem/Microbacias 2,Secretaria de Estado da Agricultura e Desenvolvimento Rural,Finalístico,2004-2007
+0265,Abastecimento Urbano,Secretaria de Estado do Desenvolvimento Regional - SDR - Grande Florianópolis,Finalístico,2004-2007
+0270,Ambiente Rural Sustentável,Secretaria de Estado da Agricultura e Desenvolvimento Rural,Finalístico,2004-2007
+0280,Controle de Metrologia e da Qualidade,Secretaria de Estado do Planejamento,Finalístico,2004-2007
+0299,Abastecimento de Água e Esgoto Sanitário,Companhia Catarinense de Águas e Saneamento,Finalístico,2004-2007
+0300,"Preservação, Conservação e Recuperação do Meio Ambiente",Secretaria de Estado do Desenvolvimento Sustentável,Finalístico,2004-2007
+0310,Gestão de Recursos Hídricos,Secretaria de Estado do Desenvolvimento Sustentável,Finalístico,2004-2007
+0311,Gerenciamento de Recursos Hídricos,Secretaria de Estado do Desenvolvimento Sustentável,Gestão de Políticas Públicas,2004-2007
+0320,Ordenamento da Ocupação Territorial,Secretaria de Estado do Desenvolvimento Sustentável,Finalístico,2004-2007
+0330,"Estudo, Informação e Controle Ambiental",Secretaria de Estado do Desenvolvimento Sustentável,Gestão de Políticas Públicas,2004-2007
+0340,Programa Nova Casa,"Secretaria de Estado do Desenvolvimento Social, Trabalho e Renda",Finalístico,2004-2007
+0350,Programa Vila Cidadã,"Secretaria de Estado do Desenvolvimento Social, Trabalho e Renda",Finalístico,2004-2007
+0360,Gestão da Política Habitacional,"Secretaria de Estado do Desenvolvimento Social, Trabalho e Renda",Gestão de Políticas Públicas,2004-2007
+0370,Gestão Estadual da Política de Assistência Social,"Secretaria de Estado do Desenvolvimento Social, Trabalho e Renda",Gestão de Políticas Públicas,2004-2007
+0372,Serviços de Proteção Social Básica,"Secretaria de Estado do Desenvolvimento Social, Trabalho e Renda",Finalístico,2004-2007
+0373,Proteção à Criança e ao Adolescente,"Secretaria de Estado do Desenvolvimento Social, Trabalho e Renda",Finalístico,2004-2007
+0375,Serviços de Proteção Social Especial,"Secretaria de Estado do Desenvolvimento Social, Trabalho e Renda",Finalístico,2004-2007
+0380,Ambial-Educação Ambiental e Alimentar,"Secretaria de Estado da Educação, Ciência e Tecnologia",Finalístico,2004-2007
+0390,Assistência à Familia,"Secretaria de Estado do Desenvolvimento Social, Trabalho e Renda",Finalístico,2004-2007
+0410,Inclusão Digital,"Secretaria de Estado da Educação, Ciência e Tecnologia",Apoio Administrativo,2004-2007
+0415,Santa Catarina Alfabetizada - SED,"Secretaria de Estado da Educação, Ciência e Tecnologia",Finalístico,2004-2007
+0420,Recursos Materiais e Equipamento para Educação,"Secretaria de Estado da Educação, Ciência e Tecnologia",Apoio Administrativo,2004-2007
+0430,Estrutura Física da Educação,"Secretaria de Estado da Educação, Ciência e Tecnologia",Apoio Administrativo,2004-2007
+0440,Capacitação e Formação dos Profissionais da Educação Catarinense,"Secretaria de Estado da Educação, Ciência e Tecnologia",Finalístico,2004-2007
+0450,Assumindo a Diversidade,"Secretaria de Estado da Educação, Ciência e Tecnologia",Finalístico,2004-2007
+0460,Apoio à Modernização Tecnológica do Governo,"Secretaria de Estado da Educação, Ciência e Tecnologia",Gestão de Políticas Públicas,2004-2007
+0470,"Gestão Administrativa, Financeira, Pedagógica e de Pessoal da Educação","Secretaria de Estado da Educação, Ciência e Tecnologia",Finalístico,2004-2007
+0480,Descentralização Financeira e Física da Educação,"Secretaria de Estado da Educação, Ciência e Tecnologia",Finalístico,2004-2007
+0490,"Fomento à Pesquisa, Tecnologia e Inovação","Secretaria de Estado da Educação, Ciência e Tecnologia",Serviço ao Estado,2004-2007
+0495,Escola em Tempo Integral,"Secretaria de Estado da Educação, Ciência e Tecnologia",Finalístico,2004-2007
+0498,Gestão da Fundação UDESC,"Secretaria de Estado da Educação, Ciência e Tecnologia",Finalístico,2004-2007
+0500,Sociedade Inclusiva Catarinense,Secretaria de Estado da Fazenda,Finalístico,2004-2007
+0502,Gestão da Tecnologia da Informação e Comunicação,Secretaria de Estado da Fazenda,Finalístico,2004-2007
+0505,"Fiscalização, Normatização e Regulamentação dos Serviços Públicos Concedidos",Secretaria de Estado do Planejamento,Finalístico,2004-2007
+0508,Gerar Investimentos no Território Catarinense,"Secretaria de Estado da Cultura, Turismo e Esporte",Gestão de Políticas Públicas,2004-2007
+0510,Gerenciamento de Informações para o Desenvolvimento Catarinense,Secretaria de Estado do Planejamento,Finalístico,2004-2007
+0520,"Gestão de Publicidade, Propaganda e Marketing do Governo de Santa Catarina",Secretaria de Estado de Comunicação,Finalístico,2004-2007
+0530,Geração de Emprego e Renda,"Secretaria de Estado do Desenvolvimento Social, Trabalho e Renda",Finalístico,2004-2007
+0540,Desenvolvimento da Micro e Pequena Empresa Catarinense - Pró-Emprego,Secretaria de Estado da Fazenda,Gestão de Políticas Públicas,2004-2007
+0550,Fortalecimento da Função Planejamento e Gestão do Estado,Secretaria de Estado do Planejamento,Gestão de Políticas Públicas,2004-2007
+0560,Programa Nacional de Apoio à Modernização da Gestão e do Planejamento de SC - PNAGE,Secretaria de Estado da Administração,Gestão de Políticas Públicas,2004-2007
+0570,Comércio Exterior e Relações Internacionais,Gabinete do Governador do Estado,Finalístico,2004-2007
+0580,Promoção da Competitividade da Economia Catarinense,Secretaria de Estado do Planejamento,Finalístico,2004-2007
+0590,Modernização da Administração Fazendária,Secretaria de Estado da Fazenda,Finalístico,2004-2007
+0595,Gestão do Fundo Social,Secretaria de Estado da Fazenda,Gestão de Políticas Públicas,2004-2007
+0600,Apoio Administrativo - Celesc,Centrais Elétricas de Santa Catarina S.A.,Apoio Administrativo,2004-2007
+0610,Conservação e Segurança Rodoviária,Departamento de Infra-Estrutura,Finalístico,2004-2007
+0615,Melhoria da Infra-estrutura do Transporte Intermunicipal de Passageiros,Secretaria de Estado da Infra-Estrutura,Finalístico,2004-2007
+0619,Desenvolvimento de Estudos e Projetos de Infra-estrutura,Secretaria de Estado da Infra-Estrutura,Finalístico,2004-2007
+0620,Construção de Obras Rodoviárias,Departamento de Infra-Estrutura,Finalístico,2004-2007
+0623,Reforma e Aumento de Capacidade de Rodovias,Departamento de Infra-Estrutura,Finalístico,2004-2007
+0627,Eletrificação Rural,Centrais Elétricas de Santa Catarina S.A.,Finalístico,2004-2007
+0628,"Construção, Manutenção e Conservação de Barragens",Departamento de Infra-Estrutura,Finalístico,2004-2007
+0629,"Construção, Recuperação e Adequação de Obras Hidráulicas",Departamento de Infra-Estrutura,Finalístico,2004-2007
+0630,Apoio aos Sistemas Viários Municipais,Secretaria de Estado da Infra-Estrutura,Finalístico,2004-2007
+0665,Melhoria do Sistema Intermunicipal de Passageiros,Secretaria de Estado da Infra-Estrutura,Finalístico,2004-2007
+0670,Implantação do Sistema Ferroviário de Santa Catarina,Secretaria de Estado da Infra-Estrutura,Finalístico,2004-2007
+0675,Construção e Adequação da Infra-estrutura Aeroportuária de Santa Catarina,Secretaria de Estado da Infra-Estrutura,Finalístico,2004-2007
+0680,Modernização do Porto de São Francisco do Sul,Secretaria de Estado do Desenvolvimento Regional - SDR - Joinville,Finalístico,2004-2007
+0685,Geração de Energia Elétrica,Centrais Elétricas de Santa Catarina S.A.,Finalístico,2004-2007
+0690,Distribuição de Energia Elétrica,Centrais Elétricas de Santa Catarina S.A.,Finalístico,2004-2007
+0695,Expansão do Gás Natural,Secretaria de Estado da Infra-Estrutura,Finalístico,2004-2007
+0710,Desenvolvimento do Turismo - Prodetur/SC,"Secretaria de Estado da Cultura, Turismo e Esporte",Finalístico,2004-2007
+0720,Marketing Turístico Catarinense,"Secretaria de Estado da Cultura, Turismo e Esporte",Finalístico,2004-2007
+0730,Fomento ao Desporto Catarinense,"Secretaria de Estado da Cultura, Turismo e Esporte",Finalístico,2004-2007
+0740,Inclusão pelo Esporte,"Secretaria de Estado da Cultura, Turismo e Esporte",Finalístico,2004-2007
+0750,"Melhoria da Infra-estrutura Cultural, Esportiva e Turística","Secretaria de Estado da Cultura, Turismo e Esporte",Finalístico,2004-2007
+0759,Desenvolvimento de Atividades Especiais de Lazer,"Secretaria de Estado da Cultura, Turismo e Esporte",Finalístico,2004-2007
+0770,Tecnologia da Informação para a Promoção do Lazer,"Secretaria de Estado da Cultura, Turismo e Esporte",Finalístico,2004-2007
+0780,Fomento da Atividade Turística em Santa Catarina,"Secretaria de Estado da Cultura, Turismo e Esporte",Finalístico,2004-2007
+0785,Fomento à Cultura,"Secretaria de Estado da Cultura, Turismo e Esporte",Finalístico,2004-2007
+0798,Portais do Lazer,"Secretaria de Estado da Cultura, Turismo e Esporte",Finalístico,2004-2007
+0810,Desenvolvimento de Recursos Humanos - SUS,Secretaria de Estado da Saúde,Finalístico,2004-2007
+0820,Autonomia Gerencial da Rede Assistencial - SES,Secretaria de Estado da Saúde,Finalístico,2004-2007
+0830,Fortalecimento da Gestão - SUS,Secretaria de Estado da Saúde,Finalístico,2004-2007
+0835,Regionalização da Assistência da Saúde,Secretaria de Estado da Saúde,Finalístico,2004-2007
+0840,Vigilância em Saúde,Secretaria de Estado da Saúde,Finalístico,2004-2007
+0845,Adequação Física e Tecnológica da Saúde,Secretaria de Estado da Saúde,Finalístico,2004-2007
+0850,Melhoria da Infra-estrutura da Segurança Pública,Secretaria de Estado da Segurança Pública e Defesa do Cidadão,Finalístico,2004-2007
+0860,Melhoria do Quadro de Profissionais da Segurança Pública,Secretaria de Estado da Segurança Pública e Defesa do Cidadão,Finalístico,2004-2007
+0870,Melhoria da Segurança Pública,Secretaria de Estado da Segurança Pública e Defesa do Cidadão,Finalístico,2004-2007
+0880,Assistência Farmacêutica,Secretaria de Estado da Saúde,Finalístico,2004-2007
+0899,Apoio Administrativo - Ministério Público,Ministério Público,Apoio Administrativo,2004-2007
+0900,Gestão Estratégica - Ministério Público,Ministério Público,Apoio Administrativo,2004-2007
+0910,Defesa dos Interesses Sociais,Ministério Público,Finalístico,2004-2007
+0919,Apoio Administrativo - Poder Legislativo,Assembléia Legislativa do Estado,Apoio Administrativo,2004-2007
+0920,"Fiscalização Cont., Financ., Orç., Operacional e Patrimonial dos Municípios de SC",Tribunal de Contas do Estado,Finalístico,2004-2007
+0929,Apoio Administrativo - Poder Judiciário,Tribunal de Justiça do Estado,Apoio Administrativo,2004-2007
+0930,"Construção, Ampliação e Reforma de Prédios",Tribunal de Justiça do Estado,Finalístico,2004-2007
+0940,Modernização e Qualificação do Processo Legislativo,Assembléia Legislativa do Estado,Gestão de Políticas Públicas,2004-2007
+0950,Comunicação e Interação do Poder Legislativo com a Sociedade,Assembléia Legislativa do Estado,Gestão de Políticas Públicas,2004-2007
+0960,Encargos Especiais,Secretaria de Estado da Fazenda,Serviço ao Estado,2004-2007
+0970,Desenvolvimento Regional e Municipal,Secretaria de Estado do Planejamento,Finalístico,2004-2007
+0999,Reserva de Contingência,Gabinete do Governador do Estado,Apoio Administrativo,2004-2007

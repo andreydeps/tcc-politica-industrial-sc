@@ -1,0 +1,39 @@
+termo,origem,proposta,dimensao,decisao
+inovação,semente,entra,inovação e tecnologia,entra
+competitividade,semente,entra,competitividade e produção,entra
+internacional,semente,entra,inserção internacional,entra
+emprego,semente,entra,trabalho e renda,entra
+digital,semente,talvez,digital,talvez
+produtividade,candidato,entra,competitividade e produção,entra
+competitivo,candidato,variante,competitividade e produção,variante
+economia,candidato,não entra,,não entra
+qualidade,candidato,talvez,competitividade e produção,talvez
+qualificação,candidato,entra,trabalho e renda,entra
+exportação,candidato,entra,inserção internacional,entra
+mercado,candidato,talvez,inserção internacional,talvez
+computador,candidato,variante,digital,variante
+micro,candidato,não entra,,não entra
+provedora,candidato,não entra,,não entra
+trabalhador,candidato,entra,trabalho e renda,entra
+empregar,candidato,variante,trabalho e renda,variante
+trabalho,candidato,entra,trabalho e renda,entra
+renda,candidato,entra,trabalho e renda,entra
+negócio,candidato,talvez,competitividade e produção,talvez
+investimento,candidato,talvez,competitividade e produção,talvez
+sustentabilidade,candidato,não entra,,não entra
+diversificação,candidato,entra,competitividade e produção,entra
+tecnologia,candidato,entra,inovação e tecnologia,entra
+desenvolvimento,candidato,não entra,,não entra
+modernização,candidato,entra,inovação e tecnologia,entra
+criação,candidato,não entra,,não entra
+tecnológico,candidato,variante,inovação e tecnologia,variante
+cooperação,candidato,talvez,inovação e tecnologia,talvez
+empresarial,candidato,talvez,competitividade e produção,talvez
+empresa,candidato,não entra,,não entra
+setor,candidato,talvez,competitividade e produção,talvez
+nacional,candidato,não entra,,não entra
+mundial,candidato,entra,inserção internacional,entra
+regional,candidato,talvez,,talvez
+global,candidato,entra,inserção internacional,entra
+governamental,candidato,não entra,,não entra
+comercial,candidato,entra,inserção internacional,entra

@@ -1,0 +1,39 @@
+termo,origem,proposta,dimensao
+inovação,semente,entra,inovação e tecnologia
+competitividade,semente,entra,competitividade e produção
+internacional,semente,entra,inserção internacional
+emprego,semente,entra,trabalho e renda
+digital,semente,talvez,digital
+produtividade,candidato,entra,competitividade e produção
+competitivo,candidato,variante,competitividade e produção
+economia,candidato,não entra,
+qualidade,candidato,talvez,competitividade e produção
+qualificação,candidato,entra,trabalho e renda
+exportação,candidato,entra,inserção internacional
+mercado,candidato,talvez,inserção internacional
+computador,candidato,variante,digital
+micro,candidato,não entra,
+provedora,candidato,não entra,
+trabalhador,candidato,entra,trabalho e renda
+empregar,candidato,variante,trabalho e renda
+trabalho,candidato,entra,trabalho e renda
+renda,candidato,entra,trabalho e renda
+negócio,candidato,talvez,competitividade e produção
+investimento,candidato,talvez,competitividade e produção
+sustentabilidade,candidato,não entra,
+diversificação,candidato,entra,competitividade e produção
+tecnologia,candidato,entra,inovação e tecnologia
+desenvolvimento,candidato,não entra,
+modernização,candidato,entra,inovação e tecnologia
+criação,candidato,não entra,
+tecnológico,candidato,variante,inovação e tecnologia
+cooperação,candidato,talvez,inovação e tecnologia
+empresarial,candidato,talvez,competitividade e produção
+empresa,candidato,não entra,
+setor,candidato,talvez,competitividade e produção
+nacional,candidato,não entra,
+mundial,candidato,entra,inserção internacional
+regional,candidato,talvez,
+global,candidato,entra,inserção internacional
+governamental,candidato,não entra,
+comercial,candidato,entra,inserção internacional

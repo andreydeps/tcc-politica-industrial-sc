@@ -1,0 +1,29 @@
+candidato,n_sementes,pmi_max,pmi_medio,coocorrencias,freq_no_corpus,sementes
+melhorar,3,3.02,2.58,15,6,"competitividade, inovação, internacional"
+nacional,3,2.79,1.81,18,11,"competitividade, inovação, internacional"
+ambiente,3,2.15,1.88,11,7,"competitividade, inovação, internacional"
+catarinense,3,1.67,0.65,20,28,"competitividade, inovação, internacional"
+acesso,2,3.01,1.82,8,12,"emprego, inovação"
+favorável,2,2.02,1.98,6,6,"competitividade, internacional"
+base,2,1.49,1.32,8,11,"competitividade, inovação"
+condição,2,1.46,1.45,7,9,"competitividade, inovação"
+empresa,2,1.1,0.74,9,19,"competitividade, inovação"
+renda,1,4.08,4.08,7,8,emprego
+ampliar,1,3.54,3.54,6,10,emprego
+aumento,1,2.7,2.7,4,5,competitividade
+vista,1,2.7,2.7,4,5,competitividade
+buscar,1,2.31,2.31,4,5,inovação
+empresarial,1,2.31,2.31,4,5,inovação
+produção,1,2.05,2.05,4,6,inovação
+mercado,1,1.93,1.93,3,6,internacional
+visar,1,1.93,1.93,3,6,internacional
+individual,1,1.8,1.8,3,7,competitividade
+pequeno,1,1.8,1.8,3,7,competitividade
+comércio,1,1.7,1.7,3,7,internacional
+necessário,1,1.61,1.61,3,8,competitividade
+negócio,1,1.51,1.51,3,8,internacional
+serviço,1,1.49,1.49,5,11,inovação
+tecnológico,1,1.24,1.24,8,21,inovação
+cooperação,1,1.22,1.22,3,8,inovação
+tecnologia,1,0.91,0.91,3,13,competitividade
+economia,1,0.77,0.77,4,19,competitividade

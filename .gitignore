@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+saidas/TCC_executado.ipynb
+.claude/
+CLAUDE.md
+
+# artigos de terceiros (direitos autorais): não vão para o repositório público
+dados/artigos/
+
+# cópia antiga dos PDFs (os usados ficam em dados/ppa/)
+/PPA/
+
+# versões antigas dos documentos e arquivos temporários do Word
+saidas/estado_do_trabalho_2026-11-12.docx
+saidas/estado_do_trabalho_2026-11-12_v[2-6]*.docx
+saidas/relatorio_andamento_*.docx
+~$*

@@ -1,0 +1,557 @@
+corpus,periodo,codigo,nome,ods_mais_proximo,cosseno
+PPA inteiro,2004-2007,0110,Apoio Administrativo,16,-0.101
+PPA inteiro,2004-2007,0120,Primeira Chance,4,0.457
+PPA inteiro,2004-2007,0130,Valorização do Servidor Público e Gestão de Recursos Humanos,16,-0.022
+PPA inteiro,2004-2007,0140,Gestão Documental do Arquivo Público do Estado,5,0.122
+PPA inteiro,2004-2007,0160,Pagamento de Pensões Especiais,5,0.2
+PPA inteiro,2004-2007,0170,Modernização da Gestão de Materiais e Serviços,7,0.44
+PPA inteiro,2004-2007,0180,Assistência Previdenciária,10,0.2
+PPA inteiro,2004-2007,0185,Santa Catarina Saúde - Valorizar o Servidor Público,3,0.043
+PPA inteiro,2004-2007,0190,Modernização da Gestão de Atos Oficiais,5,0.098
+PPA inteiro,2004-2007,0200,Agrorredes,8,0.322
+PPA inteiro,2004-2007,0210,Gestão da Política Pública de Desenvolvimento Rural,8,0.174
+PPA inteiro,2004-2007,0212,Arranjos Produtivos da Aqüicultura e Pesca - Boa Pesca,2,0.58
+PPA inteiro,2004-2007,0214,Informatização no Campo e na Pesca - Beija Flor,2,0.418
+PPA inteiro,2004-2007,0215,Desenvolvimento Florestal - Florestar,2,0.598
+PPA inteiro,2004-2007,0218,Armazenar - Armazenagem no Meio Rural,2,0.658
+PPA inteiro,2004-2007,0225,"Desenvolvimento Regional, da Agricultura Familiar e da Pesca",17,0.3
+PPA inteiro,2004-2007,0226,Leite e Carne em Pastagem Melhorada,2,0.645
+PPA inteiro,2004-2007,0230,"Pesquisa Agropecuária e Aqüícola, Assistência Técnica e Extensão Rural e Pesquei",9,0.375
+PPA inteiro,2004-2007,0233,Melhoria de Sistemas de Abastecimento de Água - Água no Meio Rural,6,0.8
+PPA inteiro,2004-2007,0234,Distribuição de Insumos Básicos aos Pequenos Produtores Rurais - Terra Boa,2,0.536
+PPA inteiro,2004-2007,0235,Excelência Sanitária,2,0.394
+PPA inteiro,2004-2007,0240,Planejamento e Informações Estratégicas para o Setor Rural e Pesqueiro,17,0.306
+PPA inteiro,2004-2007,0250,Acesso à Terra no Meio Rural,2,0.506
+PPA inteiro,2004-2007,0255,Melhoria da Infra-estrutura Rural e Pesqueira,6,0.202
+PPA inteiro,2004-2007,0260,Recuperação Ambiental e Apoio ao Pequeno Produtor Rural - Prapem/Microbacias 2,13,0.361
+PPA inteiro,2004-2007,0265,Abastecimento Urbano,9,0.378
+PPA inteiro,2004-2007,0270,Ambiente Rural Sustentável,6,0.696
+PPA inteiro,2004-2007,0280,Controle de Metrologia e da Qualidade,7,-0.066
+PPA inteiro,2004-2007,0299,Abastecimento de Água e Esgoto Sanitário,6,0.779
+PPA inteiro,2004-2007,0300,"Preservação, Conservação e Recuperação do Meio Ambiente",15,0.329
+PPA inteiro,2004-2007,0310,Gestão de Recursos Hídricos,6,0.397
+PPA inteiro,2004-2007,0311,Gerenciamento de Recursos Hídricos,6,0.686
+PPA inteiro,2004-2007,0320,Ordenamento da Ocupação Territorial,15,0.561
+PPA inteiro,2004-2007,0330,"Estudo, Informação e Controle Ambiental",5,0.189
+PPA inteiro,2004-2007,0340,Programa Nova Casa,1,0.649
+PPA inteiro,2004-2007,0350,Programa Vila Cidadã,1,0.517
+PPA inteiro,2004-2007,0360,Gestão da Política Habitacional,10,0.435
+PPA inteiro,2004-2007,0370,Gestão Estadual da Política de Assistência Social,5,0.138
+PPA inteiro,2004-2007,0372,Serviços de Proteção Social Básica,17,0.068
+PPA inteiro,2004-2007,0373,Proteção à Criança e ao Adolescente,5,0.376
+PPA inteiro,2004-2007,0375,Serviços de Proteção Social Especial,17,-0.053
+PPA inteiro,2004-2007,0380,Ambial-Educação Ambiental e Alimentar,4,0.429
+PPA inteiro,2004-2007,0390,Assistência à Familia,10,0.42
+PPA inteiro,2004-2007,0410,Inclusão Digital,4,0.171
+PPA inteiro,2004-2007,0415,Santa Catarina Alfabetizada - SED,16,0.092
+PPA inteiro,2004-2007,0420,Recursos Materiais e Equipamento para Educação,7,-0.105
+PPA inteiro,2004-2007,0430,Estrutura Física da Educação,16,-0.166
+PPA inteiro,2004-2007,0440,Capacitação e Formação dos Profissionais da Educação Catarinense,4,-0.037
+PPA inteiro,2004-2007,0450,Assumindo a Diversidade,11,0.122
+PPA inteiro,2004-2007,0460,Apoio à Modernização Tecnológica do Governo,5,0.159
+PPA inteiro,2004-2007,0470,"Gestão Administrativa, Financeira, Pedagógica e de Pessoal da Educação",4,0.013
+PPA inteiro,2004-2007,0480,Descentralização Financeira e Física da Educação,4,-0.092
+PPA inteiro,2004-2007,0490,"Fomento à Pesquisa, Tecnologia e Inovação",12,0.305
+PPA inteiro,2004-2007,0495,Escola em Tempo Integral,4,0.469
+PPA inteiro,2004-2007,0498,Gestão da Fundação UDESC,4,0.419
+PPA inteiro,2004-2007,0500,Sociedade Inclusiva Catarinense,16,0.295
+PPA inteiro,2004-2007,0502,Gestão da Tecnologia da Informação e Comunicação,16,0.111
+PPA inteiro,2004-2007,0505,"Fiscalização, Normatização e Regulamentação dos Serviços Públicos Concedidos",7,-0.083
+PPA inteiro,2004-2007,0508,Gerar Investimentos no Território Catarinense,9,0.173
+PPA inteiro,2004-2007,0510,Gerenciamento de Informações para o Desenvolvimento Catarinense,9,0.273
+PPA inteiro,2004-2007,0520,"Gestão de Publicidade, Propaganda e Marketing do Governo de Santa Catarina",5,0.363
+PPA inteiro,2004-2007,0530,Geração de Emprego e Renda,8,0.456
+PPA inteiro,2004-2007,0540,Desenvolvimento da Micro e Pequena Empresa Catarinense - Pró-Emprego,9,0.137
+PPA inteiro,2004-2007,0550,Fortalecimento da Função Planejamento e Gestão do Estado,13,0.173
+PPA inteiro,2004-2007,0560,Programa Nacional de Apoio à Modernização da Gestão e do Planejamento de SC - PN,16,-0.005
+PPA inteiro,2004-2007,0570,Comércio Exterior e Relações Internacionais,17,0.428
+PPA inteiro,2004-2007,0580,Promoção da Competitividade da Economia Catarinense,9,0.282
+PPA inteiro,2004-2007,0590,Modernização da Administração Fazendária,10,0.177
+PPA inteiro,2004-2007,0595,Gestão do Fundo Social,8,0.293
+PPA inteiro,2004-2007,0600,Apoio Administrativo - Celesc,7,0.069
+PPA inteiro,2004-2007,0610,Conservação e Segurança Rodoviária,6,0.331
+PPA inteiro,2004-2007,0615,Melhoria da Infra-estrutura do Transporte Intermunicipal de Passageiros,11,0.319
+PPA inteiro,2004-2007,0619,Desenvolvimento de Estudos e Projetos de Infra-estrutura,4,0.029
+PPA inteiro,2004-2007,0620,Construção de Obras Rodoviárias,6,0.373
+PPA inteiro,2004-2007,0623,Reforma e Aumento de Capacidade de Rodovias,6,0.268
+PPA inteiro,2004-2007,0627,Eletrificação Rural,11,0.324
+PPA inteiro,2004-2007,0628,"Construção, Manutenção e Conservação de Barragens",6,0.511
+PPA inteiro,2004-2007,0629,"Construção, Recuperação e Adequação de Obras Hidráulicas",6,0.536
+PPA inteiro,2004-2007,0630,Apoio aos Sistemas Viários Municipais,6,0.399
+PPA inteiro,2004-2007,0665,Melhoria do Sistema Intermunicipal de Passageiros,11,0.238
+PPA inteiro,2004-2007,0670,Implantação do Sistema Ferroviário de Santa Catarina,7,0.474
+PPA inteiro,2004-2007,0675,Construção e Adequação da Infra-estrutura Aeroportuária de Santa Catarina,7,0.38
+PPA inteiro,2004-2007,0680,Modernização do Porto de São Francisco do Sul,7,0.53
+PPA inteiro,2004-2007,0685,Geração de Energia Elétrica,7,0.641
+PPA inteiro,2004-2007,0690,Distribuição de Energia Elétrica,7,0.517
+PPA inteiro,2004-2007,0695,Expansão do Gás Natural,7,0.639
+PPA inteiro,2004-2007,0710,Desenvolvimento do Turismo - Prodetur/SC,17,0.455
+PPA inteiro,2004-2007,0720,Marketing Turístico Catarinense,7,0.356
+PPA inteiro,2004-2007,0730,Fomento ao Desporto Catarinense,4,0.291
+PPA inteiro,2004-2007,0740,Inclusão pelo Esporte,5,0.603
+PPA inteiro,2004-2007,0750,"Melhoria da Infra-estrutura Cultural, Esportiva e Turística",11,0.231
+PPA inteiro,2004-2007,0759,Desenvolvimento de Atividades Especiais de Lazer,9,0.048
+PPA inteiro,2004-2007,0770,Tecnologia da Informação para a Promoção do Lazer,4,0.172
+PPA inteiro,2004-2007,0780,Fomento da Atividade Turística em Santa Catarina,9,0.429
+PPA inteiro,2004-2007,0785,Fomento à Cultura,4,0.456
+PPA inteiro,2004-2007,0798,Portais do Lazer,4,0.26
+PPA inteiro,2004-2007,0810,Desenvolvimento de Recursos Humanos - SUS,3,0.089
+PPA inteiro,2004-2007,0820,Autonomia Gerencial da Rede Assistencial - SES,5,0.151
+PPA inteiro,2004-2007,0830,Fortalecimento da Gestão - SUS,9,-0.125
+PPA inteiro,2004-2007,0835,Regionalização da Assistência da Saúde,16,0.021
+PPA inteiro,2004-2007,0840,Vigilância em Saúde,3,0.695
+PPA inteiro,2004-2007,0845,Adequação Física e Tecnológica da Saúde,17,0.02
+PPA inteiro,2004-2007,0850,Melhoria da Infra-estrutura da Segurança Pública,16,0.21
+PPA inteiro,2004-2007,0860,Melhoria do Quadro de Profissionais da Segurança Pública,5,0.027
+PPA inteiro,2004-2007,0870,Melhoria da Segurança Pública,1,0.479
+PPA inteiro,2004-2007,0880,Assistência Farmacêutica,3,0.313
+PPA inteiro,2004-2007,0899,Apoio Administrativo - Ministério Público,16,-0.101
+PPA inteiro,2004-2007,0900,Gestão Estratégica - Ministério Público,16,0.05
+PPA inteiro,2004-2007,0910,Defesa dos Interesses Sociais,16,0.333
+PPA inteiro,2004-2007,0919,Apoio Administrativo - Poder Legislativo,16,-0.101
+PPA inteiro,2004-2007,0920,"Fiscalização Cont., Financ., Orç., Operacional e Patrimonial dos Municípios de S",14,0.146
+PPA inteiro,2004-2007,0929,Apoio Administrativo - Poder Judiciário,16,-0.101
+PPA inteiro,2004-2007,0930,"Construção, Ampliação e Reforma de Prédios",6,0.068
+PPA inteiro,2004-2007,0940,Modernização e Qualificação do Processo Legislativo,16,0.14
+PPA inteiro,2004-2007,0950,Comunicação e Interação do Poder Legislativo com a Sociedade,1,0.195
+PPA inteiro,2004-2007,0960,Encargos Especiais,5,0.073
+PPA inteiro,2004-2007,0970,Desenvolvimento Regional e Municipal,17,0.096
+PPA inteiro,2004-2007,0999,Reserva de Contingência,5,0.14
+PPA inteiro,2008-2011,0100,ProPav Rural,11,0.166
+PPA inteiro,2008-2011,0105,ProPav Urbano,6,0.18
+PPA inteiro,2008-2011,0110,ProPav Rodoviário,11,0.275
+PPA inteiro,2008-2011,0120,Integração Logística,7,0.615
+PPA inteiro,2008-2011,0130,Conservação e Segurança Rodoviária,6,0.392
+PPA inteiro,2008-2011,0140,Reabilitação e Aumento de Capacidade de Rodovias,6,0.255
+PPA inteiro,2008-2011,0150,Modernização Portuária,7,0.51
+PPA inteiro,2008-2011,0160,Geração de Energia Elétrica,7,0.522
+PPA inteiro,2008-2011,0170,Luz para Todos,11,0.324
+PPA inteiro,2008-2011,0180,Ampliação das Redes de Distribuição de Energia,7,0.539
+PPA inteiro,2008-2011,0190,Expansão do Gás Natural,7,0.563
+PPA inteiro,2008-2011,0200,Competitividade e Excelência Econômica,8,0.619
+PPA inteiro,2008-2011,0205,Ação Conjunta de Revitalização e Desenvolvimento - ACORDE,13,0.144
+PPA inteiro,2008-2011,0210,"Estudos, Projetos e Informações Estratégicas",17,0.193
+PPA inteiro,2008-2011,0230,Inovar - Fomento à Pesquisa ao Desenvolvimento e à Inovação,9,0.546
+PPA inteiro,2008-2011,0240,Prodetur/SC - Fomento e Desenvolvimento do Turismo,9,0.319
+PPA inteiro,2008-2011,0250,Inclusão Digital,11,0.296
+PPA inteiro,2008-2011,0300,Qualidade de Vida no Campo e na Cidade,2,0.385
+PPA inteiro,2008-2011,0310,Agronegócio Competitivo,9,0.487
+PPA inteiro,2008-2011,0320,Agricultura Familiar,9,0.358
+PPA inteiro,2008-2011,0335,Santa Catarina Rural - Microbacias 3,15,0.186
+PPA inteiro,2008-2011,0340,Desenvolvimento Ambiental Sustentável,4,0.328
+PPA inteiro,2008-2011,0350,Gestão dos Recursos Hídricos,6,0.74
+PPA inteiro,2008-2011,0360,Abastecimento de Água e Esgoto Sanitário,6,0.728
+PPA inteiro,2008-2011,0410,Vigilância em Saúde,3,0.597
+PPA inteiro,2008-2011,0430,Descentralização da Média e Alta Complexidade,7,-0.013
+PPA inteiro,2008-2011,0510,Proteção Social Básica e Especial,17,0.047
+PPA inteiro,2008-2011,0520,Cidadania e Diversidade,5,0.399
+PPA inteiro,2008-2011,0530,Pró-Emprego e Renda,8,0.485
+PPA inteiro,2008-2011,0540,Nova Casa,1,0.512
+PPA inteiro,2008-2011,0550,Erradicação da Fome em Santa Catarina,3,0.464
+PPA inteiro,2008-2011,0600,Novos Valores,4,0.43
+PPA inteiro,2008-2011,0620,Pró Ensino Médio,4,0.56
+PPA inteiro,2008-2011,0640,Pró-Turismo,9,0.358
+PPA inteiro,2008-2011,0650,Pró-Esporte,9,0.325
+PPA inteiro,2008-2011,0660,Pró-Cultura,9,0.338
+PPA inteiro,2008-2011,0710,Melhoria da Segurança Pública,9,0.12
+PPA inteiro,2008-2011,0720,Segurança Cidadã,16,0.506
+PPA inteiro,2008-2011,0730,Prevenção em Situações de Risco e Salvamento,5,0.371
+PPA inteiro,2008-2011,0740,Reestruturação do Sistema Prisional,2,0.184
+PPA inteiro,2008-2011,0800,Ordenamento e Controle Territorial,15,0.561
+PPA inteiro,2008-2011,0810,Comunicação do Poder Executivo,5,0.363
+PPA inteiro,2008-2011,0820,Comunicação do Poder Legislativo,5,0.339
+PPA inteiro,2008-2011,0830,Modernização da Administração Pública,16,-0.025
+PPA inteiro,2008-2011,0850,Qualificação e Valorização dos Servidores Públicos,16,0.032
+PPA inteiro,2008-2011,0860,Gestão Previdenciária,10,0.221
+PPA inteiro,2008-2011,0940,Gestão Estratégica - Ministério Público,16,0.05
+PPA inteiro,2008-2011,0950,Defesa dos Interesses Sociais,16,0.333
+PPA inteiro,2008-2011,0960,Modernização do Processo Legislativo,17,0.116
+PPA inteiro,2008-2011,0970,Infra-Estrutura do Judiciário,6,0.068
+PPA inteiro,2012-2015,0220,Governança Eletrônica,7,0.069
+PPA inteiro,2012-2015,0600,Novos Valores,4,0.43
+PPA inteiro,2012-2015,0810,Comunicação do Poder Executivo,5,0.411
+PPA inteiro,2012-2015,0825,Formação de Gestores Públicos,4,0.14
+PPA inteiro,2012-2015,0830,Modernização da Administração Fazendária,16,-0.094
+PPA inteiro,2012-2015,0840,PNAGE - Programa Nacional de Apoio à Modernização da Gestão e do,17,0.13
+PPA inteiro,2012-2015,0850,Gestão de Pessoas,16,0.032
+PPA inteiro,2012-2015,0855,Saúde Ocupacional,3,-0.102
+PPA inteiro,2012-2015,0870,Pensões Especiais,5,0.2
+PPA inteiro,2012-2015,0900,Gestão Administrativa - Poder Executivo,16,-0.034
+PPA inteiro,2012-2015,0990,Encargos Especiais,5,0.049
+PPA inteiro,2012-2015,0100,Caminhos do Desenvolvimento,9,0.01
+PPA inteiro,2012-2015,0101,Acelera Santa Catarina,13,0.149
+PPA inteiro,2012-2015,0105,Mobilidade Urbana,13,0.283
+PPA inteiro,2012-2015,0110,Construção de Rodovias,2,0.39
+PPA inteiro,2012-2015,0115,Gestão do Sistema de Transporte Intermunicipal de Pessoas,6,0.223
+PPA inteiro,2012-2015,0120,Integração Logística,7,0.615
+PPA inteiro,2012-2015,0130,Conservação e Segurança Rodoviária,6,0.407
+PPA inteiro,2012-2015,0140,Reabilitação e Aumento de Capacidade de Rodovias,6,0.255
+PPA inteiro,2012-2015,0145,Elaboração de Projetos e Estudos de Infraestrutura,7,0.338
+PPA inteiro,2012-2015,0150,Modernização Portuária,7,0.491
+PPA inteiro,2012-2015,0180,Expansão do Sistema de Distribuição de Energia Elétrica,7,0.539
+PPA inteiro,2012-2015,0188,Participações e Parcerias Público-Privadas,9,0.418
+PPA inteiro,2012-2015,0200,Competitividade e Excelência Econômica,8,0.619
+PPA inteiro,2012-2015,0210,"Estudos, Projetos e Informações Estratégicas",17,0.193
+PPA inteiro,2012-2015,0212,Estratégias de Comércio Exterior e Relações Internacionais,9,0.527
+PPA inteiro,2012-2015,0230,"INOVAR - Fomento à Pesquisa, ao Desenvolvimento e à Inovação",9,0.515
+PPA inteiro,2012-2015,0250,Inclusão Digital,11,0.296
+PPA inteiro,2012-2015,0300,Qualidade de Vida no Campo e na Cidade,2,0.385
+PPA inteiro,2012-2015,0310,Agronegócio Competitivo,9,0.487
+PPA inteiro,2012-2015,0315,Defesa Sanitária Agropecuária,2,0.709
+PPA inteiro,2012-2015,0320,Agricultura Familiar,9,0.358
+PPA inteiro,2012-2015,0335,Santa Catarina Rural - MICROBACIAS 3,15,0.186
+PPA inteiro,2012-2015,0340,Desenvolvimento Ambiental Sustentável,4,0.328
+PPA inteiro,2012-2015,0342,Revitalização da Economia Catarinense - PREC,8,0.52
+PPA inteiro,2012-2015,0346,Tecnologia e Inovação para o Desenvolvimento Sustentável,9,0.51
+PPA inteiro,2012-2015,0348,Gestão Ambiental Estratégica,15,0.529
+PPA inteiro,2012-2015,0350,Gestão dos Recursos Hídricos,6,0.74
+PPA inteiro,2012-2015,0360,Abastecimento de Água,6,0.69
+PPA inteiro,2012-2015,0365,Esgoto Sanitário,6,0.678
+PPA inteiro,2012-2015,0410,Vigilância em Saúde,3,0.464
+PPA inteiro,2012-2015,0420,Atenção Básica,16,-0.038
+PPA inteiro,2012-2015,0510,Proteção Social Básica e Especial,10,0.229
+PPA inteiro,2012-2015,0520,Cidadania e Diversidade,5,0.399
+PPA inteiro,2012-2015,0530,Pró-Emprego e Renda,8,0.504
+PPA inteiro,2012-2015,0540,Nova Casa,1,0.512
+PPA inteiro,2012-2015,0610,Educação Básica,4,0.363
+PPA inteiro,2012-2015,0615,Gestão do Ensino Profissional,4,0.489
+PPA inteiro,2012-2015,0616,Valorização do Ensino,4,0.352
+PPA inteiro,2012-2015,0618,Ensino Médio Pedagógico,4,0.33
+PPA inteiro,2012-2015,0622,Municipalização do Ensino Fundamental,4,0.065
+PPA inteiro,2012-2015,0630,Gestão do Ensino Superior,4,0.35
+PPA inteiro,2012-2015,0640,Promoção do Turismo Catarinense,9,0.363
+PPA inteiro,2012-2015,0650,Desenvolvimento e Fortalecimento do Esporte e do Lazer,17,0.215
+PPA inteiro,2012-2015,0660,Pró-Cultura,9,0.344
+PPA inteiro,2012-2015,0700,Modernização e Integração da Inteligência e Gestão do Conhecimento em,16,0.129
+PPA inteiro,2012-2015,0712,Formação e Qualificação dos Profissionais da Segurança Pública,4,0.282
+PPA inteiro,2012-2015,0715,Reequipamento e Apoio Operacional da Segurança Pública,16,-0.184
+PPA inteiro,2012-2015,0720,Santa Catarina Segura,5,0.517
+PPA inteiro,2012-2015,0730,Prevenção e Preparação para Desastres,3,0.367
+PPA inteiro,2012-2015,0735,Respostas aos Desastres e Recuperação,3,0.47
+PPA inteiro,2012-2015,0740,Gestão do Sistema Prisional e Socioeducativo,16,0.145
+PPA inteiro,2012-2015,0745,Cidadania e Direitos Humanos,5,0.618
+PPA inteiro,2012-2015,0750,Expansão e Modernização do Sistema Prisional e Socioeducativo,3,0.192
+PPA inteiro,2012-2015,0760,Ressocialização dos Apenados e dos Adolescentes Infratores,5,0.401
+PPA inteiro,2012-2015,0950,Defesa dos Interesses Sociais,16,0.06
+PPA inteiro,2012-2015,0999,Reserva de Contingência,1,0.0
+PPA inteiro,2012-2015,0860,Gestão Previdenciária,10,0.221
+PPA inteiro,2012-2015,0400,Gestão do SUS,16,0.114
+PPA inteiro,2012-2015,0430,Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar,16,-0.044
+PPA inteiro,2012-2015,0440,Assistência Farmacêutica,3,0.019
+PPA inteiro,2012-2015,0550,Erradicação da Fome em Santa Catarina,3,0.464
+PPA inteiro,2012-2015,0160,Geração de Energia Elétrica,7,0.522
+PPA inteiro,2012-2015,0186,"Comercialização, Eficientização e Medição de Energia Elétrica",7,0.38
+PPA inteiro,2012-2015,0187,Adequação e Melhoria da Estrutura Empresarial - CELESC,7,0.176
+PPA inteiro,2012-2015,0190,Expansão do Gás Natural,7,0.563
+PPA inteiro,2012-2015,0920,Gestão Administrativa - Poder Legislativo,16,-0.071
+PPA inteiro,2012-2015,0935,Gestão Administrativa - Tribunal de Contas,16,-0.071
+PPA inteiro,2012-2015,0936,Modernização do Sistema de Controle Externo,16,0.178
+PPA inteiro,2012-2015,0820,Comunicação do Poder Legislativo,5,0.301
+PPA inteiro,2012-2015,0925,Modernização do Processo Legislativo,17,0.116
+PPA inteiro,2012-2015,0930,Gestão Administrativa - Poder Judiciário,16,-0.071
+PPA inteiro,2012-2015,0931,Infraestrutura do Judiciário,6,0.068
+PPA inteiro,2012-2015,0910,Gestão Administrativa - Ministério Público,16,-0.071
+PPA inteiro,2012-2015,0915,Gestão Estratégica - Ministério Público,16,0.034
+PPA inteiro,2016-2019,0810,Comunicação do Poder Executivo,5,0.411
+PPA inteiro,2016-2019,0825,Formação de Gestores Públicos,4,0.3
+PPA inteiro,2016-2019,0830,Modernização da Administração Fazendária,16,-0.094
+PPA inteiro,2016-2019,0850,Gestão de Pessoas,16,0.032
+PPA inteiro,2016-2019,0855,Saúde Ocupacional,3,-0.102
+PPA inteiro,2016-2019,0870,Pensões Especiais,5,0.2
+PPA inteiro,2016-2019,0900,Gestão Administrativa - Poder Executivo,16,-0.034
+PPA inteiro,2016-2019,0990,Encargos Especiais,5,0.049
+PPA inteiro,2016-2019,0100,Caminhos do Desenvolvimento,9,0.01
+PPA inteiro,2016-2019,0101,Acelera Santa Catarina,13,0.149
+PPA inteiro,2016-2019,0105,Mobilidade Urbana,13,0.283
+PPA inteiro,2016-2019,0110,Construção de Rodovias,2,0.39
+PPA inteiro,2016-2019,0115,Gestão do Sistema de Transporte Intermunicipal de Pessoas,6,0.223
+PPA inteiro,2016-2019,0120,Integração Logística,7,0.615
+PPA inteiro,2016-2019,0130,Conservação e Segurança Rodoviária,6,0.407
+PPA inteiro,2016-2019,0140,Reabilitação e Aumento de Capacidade de Rodovias,6,0.255
+PPA inteiro,2016-2019,0145,Elaboração de Projetos e Estudos de Infraestrutura,7,0.338
+PPA inteiro,2016-2019,0150,Modernização Portuária,7,0.491
+PPA inteiro,2016-2019,0188,Participações e Parcerias Público-Privadas,9,0.418
+PPA inteiro,2016-2019,0200,Competitividade e Excelência Econômica,8,0.619
+PPA inteiro,2016-2019,0204,"Missões, Recepções e Eventos Internacionais",17,0.297
+PPA inteiro,2016-2019,0208,Planejamento Estratégico e Gestão de Informações,17,0.116
+PPA inteiro,2016-2019,0209,Desenvolvimento e Redução das Desigualdades Regionais,10,0.185
+PPA inteiro,2016-2019,0210,"Estudos, Projetos e Informações Estratégicas",17,0.193
+PPA inteiro,2016-2019,0212,Promoção Comercial e Cooperação Internacional,9,0.656
+PPA inteiro,2016-2019,0230,"INOVAR - Fomento à Pesquisa, ao Desenvolvimento e à Inovação",9,0.486
+PPA inteiro,2016-2019,0250,Inclusão Digital,11,0.296
+PPA inteiro,2016-2019,0300,Qualidade de Vida no Campo e na Cidade,2,0.385
+PPA inteiro,2016-2019,0310,Agronegócio Competitivo,9,0.487
+PPA inteiro,2016-2019,0315,Defesa Sanitária Agropecuária,2,0.709
+PPA inteiro,2016-2019,0320,Agricultura Familiar,9,0.362
+PPA inteiro,2016-2019,0335,Santa Catarina Rural - MICROBACIAS 3,15,0.186
+PPA inteiro,2016-2019,0340,Desenvolvimento Ambiental Sustentável,4,0.328
+PPA inteiro,2016-2019,0342,Revitalização da Economia Catarinense - PREC,8,0.52
+PPA inteiro,2016-2019,0346,Tecnologia e Inovação para o Desenvolvimento Sustentável,9,0.51
+PPA inteiro,2016-2019,0348,Gestão Ambiental Estratégica,15,0.529
+PPA inteiro,2016-2019,0350,Gestão dos Recursos Hídricos,6,0.74
+PPA inteiro,2016-2019,0360,Abastecimento de Água,6,0.69
+PPA inteiro,2016-2019,0510,Sistema Único de Assistência Social - SUAS,16,0.041
+PPA inteiro,2016-2019,0520,Cidadania e Diversidade,5,0.399
+PPA inteiro,2016-2019,0530,Pró-Emprego e Renda,8,0.504
+PPA inteiro,2016-2019,0540,Nova Casa,1,0.512
+PPA inteiro,2016-2019,0610,Educação Básica,4,0.363
+PPA inteiro,2016-2019,0615,Gestão do Ensino Profissional,4,0.489
+PPA inteiro,2016-2019,0616,Valorização do Ensino,4,0.352
+PPA inteiro,2016-2019,0623,Autonomia de gestão escolar - SED,16,0.097
+PPA inteiro,2016-2019,0624,Cooperação Estado e Municípios - SED,16,0.206
+PPA inteiro,2016-2019,0630,Gestão do Ensino Superior,4,0.35
+PPA inteiro,2016-2019,0640,Promoção do Turismo Catarinense,9,0.363
+PPA inteiro,2016-2019,0650,Desenvolvimento e Fortalecimento do Esporte e do Lazer,17,0.215
+PPA inteiro,2016-2019,0660,Pró-Cultura,9,0.344
+PPA inteiro,2016-2019,0705,Segurança Cidadã,16,0.336
+PPA inteiro,2016-2019,0706,De Olho no Crime,16,0.477
+PPA inteiro,2016-2019,0707,Suporte Institucional Integrado,16,0.109
+PPA inteiro,2016-2019,0708,Valorização do Servidor - Segurança Pública,4,0.111
+PPA inteiro,2016-2019,0715,Reequipamento e Apoio Operacional da Segurança Pública,16,-0.184
+PPA inteiro,2016-2019,0730,Prevenção e Preparação para Desastres,3,0.367
+PPA inteiro,2016-2019,0731,Gestão de Riscos e Redução de Desastres,3,0.236
+PPA inteiro,2016-2019,0735,Respostas aos Desastres e Recuperação,3,0.47
+PPA inteiro,2016-2019,0740,Gestão do Sistema Prisional e Socioeducativo,16,0.145
+PPA inteiro,2016-2019,0745,Cidadania e Direitos Humanos,5,0.618
+PPA inteiro,2016-2019,0750,Expansão e Modernização do Sistema Prisional e Socioeducativo,3,0.192
+PPA inteiro,2016-2019,0760,Ressocialização dos Apenados e dos Adolescentes Infratores,5,0.401
+PPA inteiro,2016-2019,0950,Defesa dos Interesses Sociais,16,0.06
+PPA inteiro,2016-2019,0860,Gestão Previdenciária,10,0.221
+PPA inteiro,2016-2019,0400,Gestão do SUS,16,0.114
+PPA inteiro,2016-2019,0410,Vigilância em Saúde,3,0.464
+PPA inteiro,2016-2019,0420,Atenção Básica,16,-0.038
+PPA inteiro,2016-2019,0430,Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar,16,-0.044
+PPA inteiro,2016-2019,0440,Assistência Farmacêutica,3,0.019
+PPA inteiro,2016-2019,0550,Erradicação da Fome em Santa Catarina,3,0.464
+PPA inteiro,2016-2019,0160,Geração de Energia Elétrica,7,0.522
+PPA inteiro,2016-2019,0180,Expansão do Sistema de Distribuição de Energia Elétrica,7,0.539
+PPA inteiro,2016-2019,0186,"Comercialização, Eficientização e Medição de Energia Elétrica",7,0.38
+PPA inteiro,2016-2019,0187,Adequação e Melhoria da Estrutura Empresarial - CELESC,7,0.176
+PPA inteiro,2016-2019,0190,Expansão do Gás Natural,7,0.563
+PPA inteiro,2016-2019,0220,Governança Eletrônica,7,0.069
+PPA inteiro,2016-2019,0365,Esgoto Sanitário,6,0.678
+PPA inteiro,2016-2019,0370,Modernização da CASAN,9,0.14
+PPA inteiro,2016-2019,0920,Gestão Administrativa - Poder Legislativo,16,-0.071
+PPA inteiro,2016-2019,0935,Gestão Administrativa - Tribunal de Contas,16,-0.071
+PPA inteiro,2016-2019,0820,Comunicação do Poder Legislativo,5,0.301
+PPA inteiro,2016-2019,0925,Modernização do Processo Legislativo,17,0.116
+PPA inteiro,2016-2019,0930,Gestão Administrativa - Poder Judiciário,16,-0.071
+PPA inteiro,2016-2019,0931,Infraestrutura do Judiciário,6,0.068
+PPA inteiro,2016-2019,0910,Gestão Administrativa - Ministério Público,16,-0.071
+PPA inteiro,2016-2019,0915,Gestão Estratégica - Ministério Público,16,0.034
+PPA inteiro,2020-2023,0810,Comunicação do Poder Executivo,5,0.411
+PPA inteiro,2020-2023,0825,Qualificação dos Agentes Públicos,5,0.104
+PPA inteiro,2020-2023,0830,Gestão Fiscal e Financeira,7,0.059
+PPA inteiro,2020-2023,0850,Gestão de Pessoas,16,0.171
+PPA inteiro,2020-2023,0855,Saúde Ocupacional,3,0.498
+PPA inteiro,2020-2023,0860,Gestão Previdenciária,10,0.22
+PPA inteiro,2020-2023,0870,Pensões Especiais,5,0.515
+PPA inteiro,2020-2023,0900,Gestão Administrativa - Poder Executivo,16,-0.034
+PPA inteiro,2020-2023,0990,Encargos Especiais,10,0.037
+PPA inteiro,2020-2023,0999,Reserva de Contingência,1,0.0
+PPA inteiro,2020-2023,0100,Caminhos do Desenvolvimento,9,0.01
+PPA inteiro,2020-2023,0101,Acelera Santa Catarina,13,0.149
+PPA inteiro,2020-2023,0105,Mobilidade Urbana,13,0.271
+PPA inteiro,2020-2023,0110,Construção de Rodovias,2,0.349
+PPA inteiro,2020-2023,0115,Gestão do Sistema de Transporte Intermunicipal de Pessoas,7,0.19
+PPA inteiro,2020-2023,0120,Integração Logística,7,0.577
+PPA inteiro,2020-2023,0130,Conservação e Segurança Rodoviária,11,0.405
+PPA inteiro,2020-2023,0140,Reabilitação e Aumento de Capacidade de Rodovias,6,0.341
+PPA inteiro,2020-2023,0145,"Elaboração de Planos, Estudos e Projetos de Infraestrutura",7,0.338
+PPA inteiro,2020-2023,0160,Geração de Energia Elétrica,7,0.576
+PPA inteiro,2020-2023,0188,"Concessões, Participações e Parcerias Público-Privadas",9,0.36
+PPA inteiro,2020-2023,0200,Competitividade e Excelência Econômica,9,0.537
+PPA inteiro,2020-2023,0210,Estudos e Projetos para o Desenvolvimento Regional,17,0.243
+PPA inteiro,2020-2023,0211,Metrologia e Qualidade de Produtos e Serviços,2,0.315
+PPA inteiro,2020-2023,0212,Promoção e Articulação das Relações Internacionais,17,0.477
+PPA inteiro,2020-2023,0230,"CTI - Fomento à Ciência, Tecnologia e Inovação",17,0.381
+PPA inteiro,2020-2023,0300,Qualidade de Vida no Campo e na Cidade,2,0.215
+PPA inteiro,2020-2023,0310,Desenvolvimento Agropecuário e Pesqueiro,9,0.552
+PPA inteiro,2020-2023,0315,Defesa Sanitária Agropecuária,2,0.736
+PPA inteiro,2020-2023,0320,Agricultura Familiar,9,0.274
+PPA inteiro,2020-2023,0340,Desenvolvimento Ambiental Sustentável,12,0.397
+PPA inteiro,2020-2023,0342,Revitalização da Economia Catarinense - PREC,8,0.5
+PPA inteiro,2020-2023,0343,Fomento à Economia Solidária,9,0.268
+PPA inteiro,2020-2023,0346,Tecnologia e Inovação para o Desenvolvimento Sustentável,9,0.51
+PPA inteiro,2020-2023,0348,Gestão Ambiental Estratégica,15,0.529
+PPA inteiro,2020-2023,0350,Gestão dos Recursos Hídricos,6,0.74
+PPA inteiro,2020-2023,0360,Abastecimento de Água,6,0.69
+PPA inteiro,2020-2023,0520,Inclusão Social - Identificação e Eliminação de Barreiras,5,0.415
+PPA inteiro,2020-2023,0560,Proteção e Desenvolvimento Social Sustentável,1,0.545
+PPA inteiro,2020-2023,0610,Educação Básica com Qualidade e Equidade,4,0.38
+PPA inteiro,2020-2023,0623,Gestão Democrática da Educação,16,0.363
+PPA inteiro,2020-2023,0624,Cooperação Estado e Municípios - SED,16,0.206
+PPA inteiro,2020-2023,0625,Valorização dos Profissionais da Educação,4,0.433
+PPA inteiro,2020-2023,0626,Redução das Desigualdades e Valorização da Diversidade,16,0.284
+PPA inteiro,2020-2023,0627,Acesso à Educação Superior,4,0.267
+PPA inteiro,2020-2023,0630,Gestão do Ensino Superior,4,0.417
+PPA inteiro,2020-2023,0635,Desenvolvimento do Desporto Educacional,4,0.414
+PPA inteiro,2020-2023,0640,Desenvolvimento e Promoção do Turismo Catarinense,9,0.355
+PPA inteiro,2020-2023,0650,Desenvolvimento e Fortalecimento do Esporte e do Lazer,4,0.259
+PPA inteiro,2020-2023,0660,Arte e Cultura,4,0.314
+PPA inteiro,2020-2023,0665,Patrimônio Cultural,1,0.438
+PPA inteiro,2020-2023,0701,Redução da Criminalidade,1,0.526
+PPA inteiro,2020-2023,0702,Aumento da Operacionalidade,16,0.052
+PPA inteiro,2020-2023,0703,Promoção da Integração,16,0.229
+PPA inteiro,2020-2023,0704,Melhoria Estrutural da Segurança Pública,4,0.078
+PPA inteiro,2020-2023,0730,Gestão de Riscos,13,0.14
+PPA inteiro,2020-2023,0735,Gestão de Desastres,1,0.448
+PPA inteiro,2020-2023,0736,Gestão de Educação em Defesa Civil,13,0.453
+PPA inteiro,2020-2023,0745,Fortalecendo Direitos,5,0.593
+PPA inteiro,2020-2023,0750,Expansão e Modernização do Sistema Prisional e Socioeducativo,5,0.323
+PPA inteiro,2020-2023,0760,Ressocialização dos Apenados e dos Adolescentes em Conflito com a Lei,5,0.421
+PPA inteiro,2020-2023,0770,DETRAN Digital - Modernização dos serviços prestados,5,0.114
+PPA inteiro,2020-2023,0835,Modernização do Arquivo Público,16,0.193
+PPA inteiro,2020-2023,0845,Gestão do Programa de Integridade e Compliance,13,0.236
+PPA inteiro,2020-2023,0875,Advocacia do Estado de Santa Catarina,16,0.207
+PPA inteiro,2020-2023,0880,"Santa Catarina Eficiente, Ética e Transparente",16,0.284
+PPA inteiro,2020-2023,0890,Defesa dos Interesses Sociais,12,0.109
+PPA inteiro,2020-2023,0400,Gestão do SUS,3,0.094
+PPA inteiro,2020-2023,0410,Vigilância em Saúde,3,0.447
+PPA inteiro,2020-2023,0420,Atenção Primária à Saúde,6,-0.004
+PPA inteiro,2020-2023,0430,Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar,7,0.129
+PPA inteiro,2020-2023,0440,Assistência Farmacêutica,3,0.138
+PPA inteiro,2020-2023,0450,Gestão das Redes Temáticas,3,0.095
+PPA inteiro,2020-2023,0150,Modernização Portuária,7,0.488
+PPA inteiro,2020-2023,0182,Energia Elétrica Distribuída,7,0.622
+PPA inteiro,2020-2023,0190,Expansão do Gás Natural,9,0.449
+PPA inteiro,2020-2023,0220,Governança Eletrônica,7,0.11
+PPA inteiro,2020-2023,0365,Esgoto Sanitário,6,0.678
+PPA inteiro,2020-2023,0370,Modernização da CASAN,9,0.141
+PPA inteiro,2020-2023,0920,Gestão Administrativa - Poder Legislativo,16,-0.071
+PPA inteiro,2020-2023,0925,Modernização do Processo Legislativo,17,0.116
+PPA inteiro,2020-2023,0935,Gestão Administrativa - Tribunal de Contas,16,-0.071
+PPA inteiro,2020-2023,0921,Comunicação do Poder Legislativo,5,0.301
+PPA inteiro,2020-2023,0922,Gestão e Desenvolvimento Sustentável,13,0.208
+PPA inteiro,2020-2023,0930,Gestão Administrativa - Poder Judiciário,16,-0.071
+PPA inteiro,2020-2023,0931,Gestão Estratégica e Modernização do Poder Judiciário,6,0.001
+PPA inteiro,2020-2023,0910,Gestão Administrativa - Ministério Público,7,0.041
+PPA inteiro,2020-2023,0915,Gestão Estratégica - Ministério Público,5,0.469
+PPA inteiro,2024-2027,0810,Comunicação do Poder Executivo,5,0.411
+PPA inteiro,2024-2027,0825,Qualificação dos Agentes Públicos,5,0.104
+PPA inteiro,2024-2027,0830,Gestão Fiscal e Financeira,7,0.059
+PPA inteiro,2024-2027,0850,Gestão de Pessoas,16,0.171
+PPA inteiro,2024-2027,0855,Saúde Ocupacional,3,0.503
+PPA inteiro,2024-2027,0870,Pensões Especiais,5,0.515
+PPA inteiro,2024-2027,0900,Gestão Administrativa - Poder Executivo,16,-0.034
+PPA inteiro,2024-2027,0990,Encargos Especiais,10,0.037
+PPA inteiro,2024-2027,0999,Reserva de Contingência,1,0.0
+PPA inteiro,2024-2027,0100,Caminhos do Desenvolvimento,9,0.01
+PPA inteiro,2024-2027,0101,Acelera Santa Catarina,4,0.245
+PPA inteiro,2024-2027,0105,Mobilidade Urbana - Estrada Boa,13,0.271
+PPA inteiro,2024-2027,0110,Construção de Rodovias - Estrada Boa,2,0.349
+PPA inteiro,2024-2027,0115,Gestão do Sistema de Transporte Intermunicipal de Pessoas,7,0.19
+PPA inteiro,2024-2027,0120,Integração Logística,7,0.495
+PPA inteiro,2024-2027,0130,Conservação e Segurança Rodoviária - Estrada Boa,11,0.405
+PPA inteiro,2024-2027,0140,Reabilitação e Aumento de Capacidade de Rodovias - Estrada Boa,6,0.341
+PPA inteiro,2024-2027,0145,"Elaboração de Planos, Estudos e Projetos de Infraestrutura",7,0.338
+PPA inteiro,2024-2027,0160,Geração de Energia Elétrica,7,0.576
+PPA inteiro,2024-2027,0188,"Concessões, Participações e Parcerias Público-Privadas",9,0.364
+PPA inteiro,2024-2027,0200,Competitividade e Excelência Econômica,9,0.611
+PPA inteiro,2024-2027,0210,Desenvolvimento Regional Integrado,16,-0.015
+PPA inteiro,2024-2027,0211,Metrologia e Qualidade de Produtos e Serviços,2,0.315
+PPA inteiro,2024-2027,0230,"CTI - Fomento à Ciência, Tecnologia e Inovação",17,0.425
+PPA inteiro,2024-2027,0310,Desenvolvimento Agropecuário e Pesqueiro,14,0.471
+PPA inteiro,2024-2027,0315,Defesa Sanitária Agropecuária,2,0.713
+PPA inteiro,2024-2027,0320,Agricultura e Pesca Catarinense,9,0.258
+PPA inteiro,2024-2027,0340,Desenvolvimento Ambiental Sustentável,12,0.397
+PPA inteiro,2024-2027,0342,Revitalização da Economia Catarinense - PREC,8,0.504
+PPA inteiro,2024-2027,0343,Fomento à Economia Solidária,9,0.268
+PPA inteiro,2024-2027,0348,Gestão Ambiental Estratégica,15,0.529
+PPA inteiro,2024-2027,0350,Gestão dos Recursos Hídricos,6,0.74
+PPA inteiro,2024-2027,0353,"Incentivo à Competitividade da Indústria, do Comércio e do Serviço",9,0.651
+PPA inteiro,2024-2027,0354,"Promoção de Políticas de Trabalho, Emprego e Renda",8,0.46
+PPA inteiro,2024-2027,0360,Abastecimento de Água,6,0.69
+PPA inteiro,2024-2027,0520,Inclusão Social - Identificação e Eliminação de Barreiras,5,0.415
+PPA inteiro,2024-2027,0521,"Disseminação do Conhecimento - Pesquisa, Capacitação e Assessorias",4,0.235
+PPA inteiro,2024-2027,0560,Proteção e Desenvolvimento Social,5,0.652
+PPA inteiro,2024-2027,0610,Educação Básica com Qualidade e Equidade,4,0.38
+PPA inteiro,2024-2027,0623,Gestão Democrática da Educação,16,0.363
+PPA inteiro,2024-2027,0625,Valorização dos Profissionais da Educação,4,0.433
+PPA inteiro,2024-2027,0626,Redução das Desigualdades,16,0.317
+PPA inteiro,2024-2027,0627,Acesso à Educação Superior,4,0.267
+PPA inteiro,2024-2027,0630,Gestão do Ensino Superior,4,0.437
+PPA inteiro,2024-2027,0635,Desenvolvimento do Desporto Educacional,4,0.414
+PPA inteiro,2024-2027,0640,Desenvolvimento e Promoção do Turismo Catarinense,9,0.355
+PPA inteiro,2024-2027,0650,Desenvolvimento e Fortalecimento do Esporte e do Lazer,4,0.259
+PPA inteiro,2024-2027,0660,Arte e Cultura,9,0.279
+PPA inteiro,2024-2027,0661,Cultura Criativa,17,0.37
+PPA inteiro,2024-2027,0665,Patrimônio Cultural,1,0.275
+PPA inteiro,2024-2027,0701,Redução da Criminalidade,1,0.526
+PPA inteiro,2024-2027,0702,Aumento da Operacionalidade,16,0.052
+PPA inteiro,2024-2027,0703,Promoção da Integração,16,0.229
+PPA inteiro,2024-2027,0704,Melhoria Estrutural da Segurança Pública,4,0.078
+PPA inteiro,2024-2027,0730,Gestão de Riscos,13,0.14
+PPA inteiro,2024-2027,0735,Gestão de Desastres,1,0.448
+PPA inteiro,2024-2027,0745,Fortalecendo Direitos,5,0.593
+PPA inteiro,2024-2027,0750,Expansão e Modernização do Sistema Prisional e Socioeducativo,5,0.323
+PPA inteiro,2024-2027,0760,Ressocialização dos Apenados e dos Adolescentes em Conflito com a Lei,5,0.421
+PPA inteiro,2024-2027,0770,DETRAN Digital,2,0.292
+PPA inteiro,2024-2027,0845,Gestão do Programa de Integridade e Compliance,13,0.263
+PPA inteiro,2024-2027,0875,Advocacia do Estado de Santa Catarina,16,0.207
+PPA inteiro,2024-2027,0880,"Santa Catarina Eficiente, Ética e Transparente",16,0.284
+PPA inteiro,2024-2027,0860,Gestão Previdenciária,10,0.22
+PPA inteiro,2024-2027,0400,Gestão Estratégica e Inovação,13,0.024
+PPA inteiro,2024-2027,0410,Vigilância em Saúde,3,0.021
+PPA inteiro,2024-2027,0420,Atenção Primária à Saúde,3,0.254
+PPA inteiro,2024-2027,0430,Atenção Especializada à Saúde,3,0.138
+PPA inteiro,2024-2027,0150,Modernização Portuária,7,0.488
+PPA inteiro,2024-2027,0182,Energia Elétrica Distribuída,7,0.622
+PPA inteiro,2024-2027,0190,Expansão do Gás Natural,9,0.436
+PPA inteiro,2024-2027,0220,Transformação Digital,7,0.11
+PPA inteiro,2024-2027,0365,Esgoto Sanitário,6,0.678
+PPA inteiro,2024-2027,0370,Modernização da CASAN,9,0.141
+PPA inteiro,2024-2027,0920,Gestão Administrativa - Poder Legislativo,16,-0.071
+PPA inteiro,2024-2027,0925,Modernização do Processo Legislativo,17,0.116
+PPA inteiro,2024-2027,0935,Gestão Administrativa - Tribunal de Contas,16,-0.071
+PPA inteiro,2024-2027,0921,Comunicação do Poder Legislativo,5,0.301
+PPA inteiro,2024-2027,0922,Gestão e Desenvolvimento Sustentável,13,0.208
+PPA inteiro,2024-2027,0926,Manutenção da Prestação Jurisdicional,16,0.019
+PPA inteiro,2024-2027,0927,Desjudicialização e Aprimoramento da Prestação Jurisdicional,16,0.257
+PPA inteiro,2024-2027,0928,Infraestrutura para o Novo Modelo de Justiça,7,0.177
+PPA inteiro,2024-2027,0929,"Governança, Responsabilidade Ambiental e Social",16,0.143
+PPA inteiro,2024-2027,0932,Transformação Digital - TJ,16,0.001
+PPA inteiro,2024-2027,0910,Gestão Administrativa - Ministério Público,7,0.041
+PPA inteiro,2024-2027,0915,Gestão Estratégica - Ministério Público,5,0.458
+política industrial,2004-2007,0230,"Pesquisa Agropecuária e Aqüícola, Assistência Técnica e Extensão Rural e Pesquei",11,0.262
+política industrial,2004-2007,0410,Inclusão Digital,4,0.227
+política industrial,2004-2007,0490,"Fomento à Pesquisa, Tecnologia e Inovação",12,0.271
+política industrial,2004-2007,0510,Gerenciamento de Informações para o Desenvolvimento Catarinense,14,0.163
+política industrial,2004-2007,0530,Geração de Emprego e Renda,8,0.532
+política industrial,2004-2007,0540,Desenvolvimento da Micro e Pequena Empresa Catarinense - Pró-Emprego,6,0.025
+política industrial,2004-2007,0570,Comércio Exterior e Relações Internacionais,5,0.112
+política industrial,2004-2007,0580,Promoção da Competitividade da Economia Catarinense,8,0.128
+política industrial,2004-2007,0970,Desenvolvimento Regional e Municipal,16,0.089
+política industrial,2008-2011,0200,Competitividade e Excelência Econômica,7,0.439
+política industrial,2008-2011,0210,"Estudos, Projetos e Informações Estratégicas",16,0.304
+política industrial,2008-2011,0230,Inovar - Fomento à Pesquisa ao Desenvolvimento e à Inovação,7,0.131
+política industrial,2008-2011,0250,Inclusão Digital,11,0.376
+política industrial,2012-2015,0200,Competitividade e Excelência Econômica,2,0.399
+política industrial,2012-2015,0210,"Estudos, Projetos e Informações Estratégicas",16,0.304
+política industrial,2012-2015,0212,Estratégias de Comércio Exterior e Relações Internacionais,8,0.106
+política industrial,2012-2015,0230,"INOVAR - Fomento à Pesquisa, ao Desenvolvimento e à Inovação",4,0.15
+política industrial,2012-2015,0250,Inclusão Digital,11,0.376
+política industrial,2012-2015,0310,Agronegócio Competitivo,12,0.381
+política industrial,2012-2015,0342,Revitalização da Economia Catarinense - PREC,2,0.273
+política industrial,2012-2015,0346,Tecnologia e Inovação para o Desenvolvimento Sustentável,9,-0.097
+política industrial,2016-2019,0200,Competitividade e Excelência Econômica,7,0.419
+política industrial,2016-2019,0210,"Estudos, Projetos e Informações Estratégicas",16,0.304
+política industrial,2016-2019,0212,Promoção Comercial e Cooperação Internacional,9,0.376
+política industrial,2016-2019,0230,"INOVAR - Fomento à Pesquisa, ao Desenvolvimento e à Inovação",4,0.208
+política industrial,2016-2019,0310,Agronegócio Competitivo,12,0.381
+política industrial,2016-2019,0342,Revitalização da Economia Catarinense - PREC,2,0.273
+política industrial,2016-2019,0346,Tecnologia e Inovação para o Desenvolvimento Sustentável,9,-0.097
+política industrial,2020-2023,0200,Competitividade e Excelência Econômica,8,0.251
+política industrial,2020-2023,0210,Estudos e Projetos para o Desenvolvimento Regional,17,0.073
+política industrial,2020-2023,0212,Promoção e Articulação das Relações Internacionais,10,0.159
+política industrial,2020-2023,0230,"CTI - Fomento à Ciência, Tecnologia e Inovação",4,0.252
+política industrial,2020-2023,0310,Desenvolvimento Agropecuário e Pesqueiro,12,0.334
+política industrial,2020-2023,0342,Revitalização da Economia Catarinense - PREC,2,0.223
+política industrial,2020-2023,0346,Tecnologia e Inovação para o Desenvolvimento Sustentável,9,-0.097
+política industrial,2024-2027,0200,Competitividade e Excelência Econômica,9,0.215
+política industrial,2024-2027,0210,Desenvolvimento Regional Integrado,16,0.17
+política industrial,2024-2027,0230,"CTI - Fomento à Ciência, Tecnologia e Inovação",16,0.154
+política industrial,2024-2027,0310,Desenvolvimento Agropecuário e Pesqueiro,14,0.455
+política industrial,2024-2027,0342,Revitalização da Economia Catarinense - PREC,2,0.256
+política industrial,2024-2027,0353,"Incentivo à Competitividade da Indústria, do Comércio e do Serviço",9,0.316
+política industrial,2024-2027,0354,"Promoção de Políticas de Trabalho, Emprego e Renda",8,0.262

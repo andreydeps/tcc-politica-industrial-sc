@@ -1,0 +1,11 @@
+termo,medida,freq_corpus,amplitude,p_perm_amplitude,tendencia_abs,p_perm_tendencia,pct_acima_controles_amplitude,pct_acima_controles_tendencia
+inovação,lexical,31,1.537,0.7197,0.257,0.6539,48.0,40.0
+inovação,semantica,31,0.184,0.4785,0.829,0.0628,100.0,84.0
+competitividade,lexical,21,2.452,0.0026,0.943,0.016,96.0,100.0
+competitividade,semantica,21,0.236,0.1868,0.771,0.1206,100.0,80.0
+digital,lexical,4,4.062,0.2198,0.439,0.4813,96.0,40.0
+digital,semantica,4,0.156,0.079,0.829,0.0612,92.0,88.0
+internacional,lexical,21,1.56,0.8748,0.657,0.1732,52.0,88.0
+internacional,semantica,21,0.114,0.7784,0.2,0.7231,56.0,36.0
+emprego,lexical,12,1.435,0.7576,0.086,0.91,28.0,16.0
+emprego,semantica,12,0.105,0.8854,0.029,1.0,60.0,8.0

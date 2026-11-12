@@ -1,0 +1,12 @@
+pandas
+numpy
+pdfplumber
+spacy
+scikit-learn
+matplotlib
+wordcloud
+pillow
+openpyxl
+jupyter
+ipykernel
+nbconvert
