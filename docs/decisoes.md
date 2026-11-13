@@ -2,6 +2,28 @@
 
 Registro curto do que foi decidido e por quê. Adicionar novas entradas no topo.
 
+## 2026-11-13 (pós-reunião com o Dominik)
+Decidido na reunião: medida principal passa a ser contagem e % sobre o total de lemas, sem TF-IDF; nada por CNAE. Análise do PPA inteiro em `notebooks/analise_ppa_inteiro.ipynb`; regras em `scripts/ppa_inteiro_listas.py`.
+
+Aprovado pelo Andrey antes de rodar:
+- Educação: versão "núcleo" (educação, ensino, estudante, escolar, escola, professor, educacional, aprendizagem, aluno, universidade, curso, educativo). Fora: formação, capacitação, qualificação, técnico, conhecimento, pesquisa.
+- Indústria: versão "ampliada" (indústria, industrial, agroindústria, agroindustrial + produtivo, cadeia, setorial). Empresa: empresa, empresarial, empreendedor, empreendimento, microempresa, empresário, empreendedorismo.
+- Público-alvo: só as 7 categorias propostas pelo Andrey (empresas, micro e pequenas empresas, trabalhadores, produtores rurais, municípios, instituições de pesquisa, sociedade em geral) + "outros".
+- Regras de subações de inovação e de indústria e empresa (com exclusões) e áreas por órgão (oferta no público-alvo e temas do orçamento).
+
+Decisões do assistente (todas APROVADAS pelo Andrey em 13/11/2026, "tá tudo autorizado"; revisáveis depois):
+1. Extração de 2008-2011: o `padrao_2008` pega 50 dos 65 programas do PDF (falha com "Tipo" de várias palavras e nome/órgão em duas linhas). Nos scripts novos o 2008-2011 usa o `padrao_2004`, que pega os 65 (os 50 antigos saem idênticos; os 15 novos não são selecionados). APLICADO no `TCC.ipynb` (`padrao_2008 = padrao_2004`); rodados de novo o notebook, blocos_programas, corpus_acoes, indice_lexico (ações), valores_acoes, orcamento_ajustado, classificador, cenario_curadoria, robustez_competitividade, ods, figuras_doc, a v7 e os dois notebooks. Efeito nos resultados antigos: a parcela dos selecionados em 2008-2011 cai de 3,16% para 2,16% do PPA (subações do 0220 e outros eram somadas ao 0210). Número de controle passa a ser "2008-2011 com 65 blocos".
+2. Ajustes nas regras aprovadas depois de ver os casos: público "empresas" sem `client` (pegava 13 programas da Celesc, consumidores de energia) e sem `\bpj\b` (pegava "pf, pj sem fins lucrativos"); `polpula` acrescentado (erro de digitação do PDF). Subações: `\bciencia` (sem a fronteira casava "deficiência" e "eficiência") e `subvenc\w* econom` ("subvenc" pegava subvenção a organizações sociais da saúde e a bombeiros).
+3. Temas "inovação" e "competitividade" do item 1 = dimensões do léxico atual (4 termos cada); "política industrial" = léxico inteiro (20 termos). No item 2 foram usadas as palavras soltas "competitividade" e "inovação".
+4. Texto copiado (item 5): frases cortadas por pontuação; similaridade SequenceMatcher sobre texto sem acento e pontuação; "quase igual" = 0,9 ou mais; comparação com qualquer frase do PPA anterior (não só do mesmo programa); 2004-2007 conta como texto novo.
+5. Tipo de transição: 2007 e 2015 reeleição; 2011, 2019 e 2023 troca de governador (tudo [verificar]; 2011 trata Colombo como troca, embora possa ser continuidade de coalizão).
+6. Áreas por órgão: primeira regra que casa vale. Casos de fronteira: Metrologia e SC Participações em desenvolvimento econômico; DETRAN em segurança; Agência de Regulação em infraestrutura; SUDESC e SDRs em gestão; Fundação Escola de Governo em gestão; UDESC em educação.
+7. Orçamento por área sem pessoal e emendas: mesmos padrões de `orcamento_ajustado.py`, retirados do numerador e do denominador. Dívida não foi separada (não havia regra aprovada); fica dentro de "gestão".
+8. Teste de permutação (3.000 sorteios) acrescentado ao item 1, não pedido.
+9. Bigramas: lemas vizinhos dentro da frase depois de tirar stopwords. Coocorrência: nº de frases, top 6. Treemap: 25 lemas mais frequentes, sem filtro de palavras genéricas. Similaridade: cosseno das contagens brutas por PPA.
+10. Mudança de subações dentro do programa: comparação pelo código de 6 dígitos (subestima continuidade se houver renumeração). Unidade responsável: sigla no fim do nome da subação (cobertura de 33% a 62% das subações).
+11. Fichas: "o que não faz" deixado em branco para a leitura qualitativa.
+
 ## 2026-11-12
 - Orientação corrigida: Dominik Hartmann é o orientador e Lukas Pezzini o coorientador (Marcelo Arend não é o orientador).
 - Léxico validado pelo Andrey seguindo a proposta do assistente: 20 termos aceitos (16 entram + 4 variantes) em 5 dimensões; 9 "talvez" e 9 "não entra" ficam fora. Arquivo: `saidas/lexico_validado.csv`.
@@ -36,7 +58,7 @@ Registro curto do que foi decidido e por quê. Adicionar novas entradas no topo.
 
 ## Setembro de 2026 (construção do pipeline)
 - Extração por regex por período em vez de NLP: o problema é parsing de documento semi-estruturado.
-- 2008-2011 com regex próprio (`padrao_2008`), nome e órgão travados em uma linha para não vazar para tabelas de ações. Resultado: 50 blocos limpos.
+- 2008-2011 com regex próprio (`padrao_2008`), nome e órgão travados em uma linha para não vazar para tabelas de ações. Resultado: 50 blocos limpos. (Corrigido em 13/11/2026: eram 65 programas; ver entrada daquele dia.)
 - Limpeza de cabeçalho/rodapé do 2008-2011 (`rodape_2008`) antes da extração. Contaminação zerada.
 - 2020-2023: abandonado o recorte de colunas; usada versão alternativa do PDF em coluna única (`ppa_2020_2023_v2.pdf`), 108 blocos limpos.
 - Curadoria de `codigos_industria` para os 5 períodos. Incluídos por julgamento: 0212 (comércio exterior) e 0354 (emprego). Excluídos: 0211, 0343, 0220. 0250 pendente de confirmação.

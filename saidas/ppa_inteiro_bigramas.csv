@@ -1,0 +1,121 @@
+recorte,periodo,posição,bigrama,n
+PPA inteiro,2004-2007,1,qualidade vida,7
+PPA inteiro,2004-2007,2,melhoria qualidade,6
+PPA inteiro,2004-2007,3,município catarinense,6
+PPA inteiro,2004-2007,4,central gerência,6
+PPA inteiro,2004-2007,5,gerência regional,6
+PPA inteiro,2004-2007,6,segurança público,6
+PPA inteiro,2004-2007,7,custo transporte,6
+PPA inteiro,2004-2007,8,melhorar condição,5
+PPA inteiro,2004-2007,9,reduzir custo,5
+PPA inteiro,2004-2007,10,rural pesqueiro,5
+PPA inteiro,2008-2011,1,bom condição,6
+PPA inteiro,2008-2011,2,sociedade catarinense,5
+PPA inteiro,2008-2011,3,promover desenvolvimento,5
+PPA inteiro,2008-2011,4,população catarinense,5
+PPA inteiro,2008-2011,5,segurança público,5
+PPA inteiro,2008-2011,6,custo transporte,4
+PPA inteiro,2008-2011,7,qualidade vida,4
+PPA inteiro,2008-2011,8,serviço prestar,4
+PPA inteiro,2008-2011,9,gerir administrativo,4
+PPA inteiro,2008-2011,10,necessidade programar,4
+PPA inteiro,2012-2015,1,sociedade catarinense,8
+PPA inteiro,2012-2015,2,promover desenvolvimento,7
+PPA inteiro,2012-2015,3,qualidade vida,7
+PPA inteiro,2012-2015,4,nº janeiro,6
+PPA inteiro,2012-2015,5,necessidade programar,6
+PPA inteiro,2012-2015,6,programar recurso,6
+PPA inteiro,2012-2015,7,ação governamental,5
+PPA inteiro,2012-2015,8,gerir administrativo,5
+PPA inteiro,2012-2015,9,recurso gestão,5
+PPA inteiro,2012-2015,10,gestão órgão,5
+PPA inteiro,2016-2019,1,qualidade vida,8
+PPA inteiro,2016-2019,2,sociedade catarinense,7
+PPA inteiro,2016-2019,3,promover desenvolvimento,7
+PPA inteiro,2016-2019,4,nº janeiro,6
+PPA inteiro,2016-2019,5,ação governamental,5
+PPA inteiro,2016-2019,6,serviço prestar,5
+PPA inteiro,2016-2019,7,gerir administrativo,5
+PPA inteiro,2016-2019,8,necessidade programar,5
+PPA inteiro,2016-2019,9,programar recurso,5
+PPA inteiro,2016-2019,10,recurso gestão,5
+PPA inteiro,2020-2023,1,política público,10
+PPA inteiro,2020-2023,2,qualidade vida,9
+PPA inteiro,2020-2023,3,serviço público,8
+PPA inteiro,2020-2023,4,energia elétrico,8
+PPA inteiro,2020-2023,5,recurso humano,6
+PPA inteiro,2020-2023,6,segurança público,6
+PPA inteiro,2020-2023,7,atender demanda,5
+PPA inteiro,2020-2023,8,recurso gestão,5
+PPA inteiro,2020-2023,9,acesso informação,4
+PPA inteiro,2020-2023,10,gerir administrativo,4
+PPA inteiro,2024-2027,1,serviço público,10
+PPA inteiro,2024-2027,2,política público,9
+PPA inteiro,2024-2027,3,qualidade vida,9
+PPA inteiro,2024-2027,4,energia elétrico,8
+PPA inteiro,2024-2027,5,desenvolvimento econômico,7
+PPA inteiro,2024-2027,6,promover desenvolvimento,6
+PPA inteiro,2024-2027,7,segurança público,6
+PPA inteiro,2024-2027,8,recurso humano,5
+PPA inteiro,2024-2027,9,melhoria qualidade,4
+PPA inteiro,2024-2027,10,gerir administrativo,4
+selecionados,2004-2007,1,rural pesqueiro,2
+selecionados,2004-2007,2,social econômico,2
+selecionados,2004-2007,3,desenvolvimento regional,2
+selecionados,2004-2007,4,disponibilizar agricultor,1
+selecionados,2004-2007,5,agricultor aqüicultor,1
+selecionados,2004-2007,6,aqüicultor pescador,1
+selecionados,2004-2007,7,pescador tecnologia,1
+selecionados,2004-2007,8,tecnologia produto,1
+selecionados,2004-2007,9,produto serviço,1
+selecionados,2004-2007,10,serviço prestação,1
+selecionados,2008-2011,1,base tecnológico,2
+selecionados,2008-2011,2,rural pescador,2
+selecionados,2008-2011,3,população rural,2
+selecionados,2008-2011,4,fomentar atividade,1
+selecionados,2008-2011,5,atividade produtivo,1
+selecionados,2008-2011,6,produtivo promover,1
+selecionados,2008-2011,7,promover diversificação,1
+selecionados,2008-2011,8,diversificação padrão,1
+selecionados,2008-2011,9,padrão tecnológico,1
+selecionados,2008-2011,10,tecnológico produção,1
+selecionados,2012-2015,1,fomentar atividade,2
+selecionados,2012-2015,2,economia mundial,2
+selecionados,2012-2015,3,ampliar acesso,2
+selecionados,2012-2015,4,comércio exterior,2
+selecionados,2012-2015,5,investimento internacional,2
+selecionados,2012-2015,6,ambiente acadêmico,2
+selecionados,2012-2015,7,acadêmico empresarial,2
+selecionados,2012-2015,8,rural pescador,2
+selecionados,2012-2015,9,população rural,2
+selecionados,2012-2015,10,empresa empreendedor,2
+selecionados,2016-2019,1,economia mundial,2
+selecionados,2016-2019,2,ampliar acesso,2
+selecionados,2016-2019,3,científico tecnológico,2
+selecionados,2016-2019,4,empresa empreendedor,2
+selecionados,2016-2019,5,empreendedor individual,2
+selecionados,2016-2019,6,condição necessário,2
+selecionados,2016-2019,7,economia catarinense,2
+selecionados,2016-2019,8,pequeno empresa,2
+selecionados,2016-2019,9,inovação tecnológico,2
+selecionados,2016-2019,10,fomentar atividade,1
+selecionados,2020-2023,1,científico tecnológico,3
+selecionados,2020-2023,2,nacional internacional,2
+selecionados,2020-2023,3,ampliar acesso,2
+selecionados,2020-2023,4,desenvolvimento regional,2
+selecionados,2020-2023,5,internacional missão,2
+selecionados,2020-2023,6,missão promoção,2
+selecionados,2020-2023,7,promoção comercial,2
+selecionados,2020-2023,8,comercial cooperação,2
+selecionados,2020-2023,9,cooperação internacional,2
+selecionados,2020-2023,10,internacional área,2
+selecionados,2024-2027,1,desenvolvimento econômico,4
+selecionados,2024-2027,2,nacional internacional,2
+selecionados,2024-2027,3,empresa catarinense,2
+selecionados,2024-2027,4,competitividade economia,2
+selecionados,2024-2027,5,geração emprego,2
+selecionados,2024-2027,6,emprego qualificar,2
+selecionados,2024-2027,7,promover desenvolvimento,2
+selecionados,2024-2027,8,empreendedor individual,2
+selecionados,2024-2027,9,aumento competitividade,2
+selecionados,2024-2027,10,economia catarinense,2

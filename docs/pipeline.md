@@ -38,7 +38,9 @@ padrao = re.compile(
 )
 ```
 
-Regex 2008-2011 (sem a palavra PROGRAMA, rótulos em Título Case):
+Regex 2008-2011 (sem a palavra PROGRAMA, rótulos em Título Case).
+
+**Substituído em 13/11/2026:** o regex abaixo pegava só 50 dos 65 programas (falha com "Tipo" de várias palavras, como "Gestão de Políticas Públicas", e com nome ou órgão em duas linhas). O notebook agora faz `padrao_2008 = padrao_2004` (regex do 2004-2007, mais abaixo), que pega os 65; os 50 antigos saem idênticos. O `rodape_2008` continua igual. Versão antiga, só para registro:
 
 ```python
 padrao_2008 = re.compile(

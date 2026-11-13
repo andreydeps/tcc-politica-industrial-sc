@@ -263,10 +263,10 @@ doc.add_heading("4. ODS: o vocabulário da Agenda 2030 não aparece nos PPAs", l
 p("A primeira checagem procurou só a sigla (\"ODS\", \"Agenda 2030\") e achou zero. A segunda procurou o conteúdo: a "
   "partir do texto oficial dos 17 objetivos e das 169 metas (ONU Brasil), cada ODS ganhou um conjunto com os termos "
   "mais característicos das suas metas (sem os genéricos, como \"empresa\" ou \"conservação\"), medido em todo o PPA "
-  "(514 programas) e nos 42 pares de política industrial, comparando 2004-2015 com 2016-2027.")
+  "(529 programas) e nos 42 pares de política industrial, comparando 2004-2015 com 2016-2027.")
 b(" nenhum ODS cresce de forma significativa depois de 2015, nem no PPA inteiro nem nos programas de política "
   "industrial. O vocabulário somado dos 17 ODS vai de 42 para 46 por mil lemas (p = 0,34).", "Resultado:")
-b(" o ODS 9 (indústria e inovação) vai de 2,7 para 4,8 por mil (p = 0,09), mas, com 17 testes, isso não chega a "
+b(" o ODS 9 (indústria e inovação) vai de 2,6 para 4,8 por mil (p = 0,07), mas, com 17 testes, isso não chega a "
   "ser tendência; o mesmo vale para os ODS 10 e 17. Clima (ODS 13) só aparece a partir de 2020 e com 2 ocorrências; "
   "igualdade de gênero (ODS 5) tem zero em 20 anos.", "Variações pequenas:")
 b(" os temas que coincidem com os ODS (educação, cidades e transporte, trabalho, energia) já estavam nos PPAs antes "

@@ -1,37 +1,37 @@
 corpus,ods,titulo,ocorrencias,taxa_2004_2015,taxa_2016_2027,diferenca,p_perm
-PPA inteiro,1,Erradicação da pobreza,13,1.0,0.72,-0.29,0.5968
-PPA inteiro,2,Fome zero e agricultura sustentável,20,1.29,1.31,0.03,0.974
-PPA inteiro,3,Saúde e Bem-Estar,54,3.0,3.94,0.93,0.5178
-PPA inteiro,4,Educação de qualidade,159,10.73,10.02,-0.71,0.7951
+PPA inteiro,1,Erradicação da pobreza,13,0.96,0.72,-0.24,0.6185
+PPA inteiro,2,Fome zero e agricultura sustentável,20,1.23,1.31,0.08,0.909
+PPA inteiro,3,Saúde e Bem-Estar,55,3.01,3.94,0.93,0.5078
+PPA inteiro,4,Educação de qualidade,164,10.95,10.02,-0.93,0.7261
 PPA inteiro,5,Igualdade de gênero,0,0.0,0.0,0.0,1.0
-PPA inteiro,6,Água potável e saneamento,13,0.86,0.84,-0.02,0.999
-PPA inteiro,7,Energia limpa e acessível,62,4.58,3.58,-1.0,0.6031
-PPA inteiro,8,Trabalho decente e crescimento econômico,98,5.72,6.92,1.2,0.4329
-PPA inteiro,9,"Indústria, inovação e infraestrutura",59,2.72,4.77,2.06,0.0923
-PPA inteiro,10,Redução das desigualdades,12,0.29,1.19,0.91,0.0716
-PPA inteiro,11,Cidades e comunidades sustentáveis,112,7.15,7.4,0.25,0.898
-PPA inteiro,12,Consumo e produção responsáveis,22,1.43,1.43,0.0,0.997
-PPA inteiro,13,Ação contra a mudança global do clima,2,0.0,0.24,0.24,0.4915
-PPA inteiro,14,Vida na água,18,1.57,0.84,-0.74,0.2096
-PPA inteiro,15,Vida terrestre,15,1.43,0.6,-0.83,0.1819
-PPA inteiro,16,"Paz, Justiça e Instituições Eficazes",15,0.72,1.19,0.48,0.5345
-PPA inteiro,17,Parcerias e meios de implementação,19,0.72,1.67,0.96,0.082
-PPA inteiro,todos os ODS,,685,42.35,46.42,4.07,0.3446
+PPA inteiro,6,Água potável e saneamento,13,0.82,0.84,0.01,0.9993
+PPA inteiro,7,Energia limpa e acessível,62,4.38,3.58,-0.8,0.6701
+PPA inteiro,8,Trabalho decente e crescimento econômico,102,6.02,6.92,0.9,0.5745
+PPA inteiro,9,"Indústria, inovação e infraestrutura",59,2.6,4.77,2.17,0.0703
+PPA inteiro,10,Redução das desigualdades,12,0.27,1.19,0.92,0.0743
+PPA inteiro,11,Cidades e comunidades sustentáveis,115,7.26,7.4,0.14,0.9394
+PPA inteiro,12,Consumo e produção responsáveis,22,1.37,1.43,0.06,0.8914
+PPA inteiro,13,Ação contra a mudança global do clima,2,0.0,0.24,0.24,0.4988
+PPA inteiro,14,Vida na água,18,1.51,0.84,-0.67,0.2602
+PPA inteiro,15,Vida terrestre,15,1.37,0.6,-0.77,0.2023
+PPA inteiro,16,"Paz, Justiça e Instituições Eficazes",15,0.68,1.19,0.51,0.5272
+PPA inteiro,17,Parcerias e meios de implementação,20,0.82,1.67,0.85,0.1166
+PPA inteiro,todos os ODS,,699,42.44,46.42,3.98,0.3469
 política industrial,1,Erradicação da pobreza,0,0.0,0.0,0.0,1.0
 política industrial,2,Fome zero e agricultura sustentável,0,0.0,0.0,0.0,1.0
 política industrial,3,Saúde e Bem-Estar,0,0.0,0.0,0.0,1.0
-política industrial,4,Educação de qualidade,11,7.92,6.67,-1.25,0.7887
+política industrial,4,Educação de qualidade,11,7.92,6.67,-1.25,0.7981
 política industrial,5,Igualdade de gênero,0,0.0,0.0,0.0,1.0
 política industrial,6,Água potável e saneamento,0,0.0,0.0,0.0,1.0
-política industrial,7,Energia limpa e acessível,3,3.17,1.11,-2.06,0.2406
-política industrial,8,Trabalho decente e crescimento econômico,9,3.17,7.79,4.62,0.2433
-política industrial,9,"Indústria, inovação e infraestrutura",31,20.6,20.02,-0.58,0.9457
+política industrial,7,Energia limpa e acessível,3,3.17,1.11,-2.06,0.2183
+política industrial,8,Trabalho decente e crescimento econômico,9,3.17,7.79,4.62,0.2566
+política industrial,9,"Indústria, inovação e infraestrutura",31,20.6,20.02,-0.58,0.9354
 política industrial,10,Redução das desigualdades,0,0.0,0.0,0.0,1.0
 política industrial,11,Cidades e comunidades sustentáveis,0,0.0,0.0,0.0,1.0
 política industrial,12,Consumo e produção responsáveis,0,0.0,0.0,0.0,1.0
 política industrial,13,Ação contra a mudança global do clima,0,0.0,0.0,0.0,1.0
-política industrial,14,Vida na água,2,1.58,1.11,-0.47,0.4962
+política industrial,14,Vida na água,2,1.58,1.11,-0.47,0.4878
 política industrial,15,Vida terrestre,0,0.0,0.0,0.0,1.0
 política industrial,16,"Paz, Justiça e Instituições Eficazes",0,0.0,0.0,0.0,1.0
-política industrial,17,Parcerias e meios de implementação,3,0.0,3.34,3.34,0.2279
-política industrial,todos os ODS,,59,36.45,40.04,3.59,0.6411
+política industrial,17,Parcerias e meios de implementação,3,0.0,3.34,3.34,0.2289
+política industrial,todos os ODS,,59,36.45,40.04,3.59,0.6488
