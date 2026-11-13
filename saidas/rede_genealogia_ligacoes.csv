@@ -1,0 +1,463 @@
+periodo,codigo,origem,w_txt,w_sub,periodo_origem,w,forte,orgao,orgao_origem,mesmo_dono
+2008-2011,0150,0680,0.5806451612903226,0.0,2004-2007,0.5806451612903226,True,Secretaria de Estado da Infraestrutura,Secretaria de Estado do Desenvolvimento Regional - SDR - Joinville,False
+2008-2011,0160,0685,0.3870967741935484,0.0,2004-2007,0.3870967741935484,True,Centrais Elétricas de Santa Catarina S.A.,Centrais Elétricas de Santa Catarina S.A.,True
+2008-2011,0170,0627,1.0,0.0,2004-2007,1.0,True,Centrais Elétricas de Santa Catarina S.A.,Centrais Elétricas de Santa Catarina S.A.,True
+2008-2011,0180,0690,0.6451612903225806,0.0,2004-2007,0.6451612903225806,True,Centrais Elétricas de Santa Catarina S.A.,Centrais Elétricas de Santa Catarina S.A.,True
+2008-2011,0180,0850,0.0,1.1253996654339848e-05,2004-2007,1.1253996654339848e-05,False,Centrais Elétricas de Santa Catarina S.A.,Secretaria de Estado da Segurança Pública e Defesa do Cidadão,False
+2008-2011,0210,0240,0.5652173913043478,0.0,2004-2007,0.5652173913043478,True,Secretaria de Estado do Planejamento,Secretaria de Estado da Agricultura e Desenvolvimento Rural,False
+2008-2011,0220,0410,0.0,0.050490743237191806,2004-2007,0.050490743237191806,False,Secretaria de Estado da Administração,"Secretaria de Estado da Educação, Ciência e Tecnologia",False
+2008-2011,0220,0502,0.3333333333333333,0.04064312117833493,2004-2007,0.3333333333333333,True,Secretaria de Estado da Administração,Secretaria de Estado da Fazenda,False
+2008-2011,0250,0214,0.5151515151515151,0.0,2004-2007,0.5151515151515151,True,Secretaria de Estado da Educação,Secretaria de Estado da Agricultura e Desenvolvimento Rural,False
+2008-2011,0340,0300,0.0,0.025975556841474345,2004-2007,0.025975556841474345,False,Secretaria de Estado do Desenvolvimento Econômico Sustentável,Secretaria de Estado do Desenvolvimento Sustentável,True
+2008-2011,0350,0311,0.7192982456140351,0.0,2004-2007,0.7192982456140351,True,Secretaria de Estado do Desenvolvimento Econômico Sustentável,Secretaria de Estado do Desenvolvimento Sustentável,True
+2008-2011,0360,0233,0.0,0.0007898414460275655,2004-2007,0.0007898414460275655,False,Companhia Catarinense de Águas e Saneamento,Secretaria de Estado da Agricultura e Desenvolvimento Rural,False
+2008-2011,0360,0299,0.4230769230769231,0.0,2004-2007,0.4230769230769231,True,Companhia Catarinense de Águas e Saneamento,Companhia Catarinense de Águas e Saneamento,True
+2008-2011,0410,0750,0.0,0.0032275139105849547,2004-2007,0.0032275139105849547,False,Secretaria de Estado da Saúde,"Secretaria de Estado da Cultura, Turismo e Esporte",False
+2008-2011,0410,0785,0.0,0.00016137569552924773,2004-2007,0.00016137569552924773,False,Secretaria de Estado da Saúde,"Secretaria de Estado da Cultura, Turismo e Esporte",False
+2008-2011,0420,0929,0.0,0.00530734638804459,2004-2007,0.00530734638804459,False,Secretaria de Estado da Saúde,Tribunal de Justiça do Estado,False
+2008-2011,0440,0470,0.0,0.0028417740558873516,2004-2007,0.0028417740558873516,False,Secretaria de Estado da Saúde,"Secretaria de Estado da Educação, Ciência e Tecnologia",False
+2008-2011,0500,0590,0.0,0.0815450643776824,2004-2007,0.0815450643776824,False,"Secretaria de Estado da Assistência Social, Trabalho e Habitação",Secretaria de Estado da Fazenda,False
+2008-2011,0510,0590,0.0,0.005734757553490033,2004-2007,0.005734757553490033,False,"Secretaria de Estado da Assistência Social, Trabalho e Habitação",Secretaria de Estado da Fazenda,False
+2008-2011,0540,0200,0.0,0.0011360759099123263,2004-2007,0.0011360759099123263,False,"Secretaria de Estado da Assistência Social, Trabalho e Habitação",Secretaria de Estado da Agricultura e Desenvolvimento Rural,False
+2008-2011,0600,0120,0.26666666666666666,0.012001059693570942,2004-2007,0.26666666666666666,True,Secretaria de Estado da Administração,Secretaria de Estado da Administração,True
+2008-2011,0610,0420,0.0,2.720776467812787e-06,2004-2007,2.720776467812787e-06,False,Secretaria de Estado da Educação,"Secretaria de Estado da Educação, Ciência e Tecnologia",True
+2008-2011,0610,0720,0.0,9.522717637344756e-05,2004-2007,9.522717637344756e-05,False,Secretaria de Estado da Educação,"Secretaria de Estado da Cultura, Turismo e Esporte",False
+2008-2011,0630,0498,0.84,0.0,2004-2007,0.84,True,Secretaria de Estado da Educação,"Secretaria de Estado da Educação, Ciência e Tecnologia",True
+2008-2011,0800,0320,1.0,0.0,2004-2007,1.0,True,Secretaria de Estado do Planejamento,Secretaria de Estado do Desenvolvimento Sustentável,False
+2008-2011,0810,0520,1.0,0.0,2004-2007,1.0,True,Secretaria de Estado da Comunicação,Secretaria de Estado de Comunicação,True
+2008-2011,0820,0950,0.375,0.0,2004-2007,0.375,True,Assembléia Legislativa do Estado,Assembléia Legislativa do Estado,True
+2008-2011,0840,0550,0.24390243902439024,0.0,2004-2007,0.24390243902439024,True,Secretaria de Estado da Administração,Secretaria de Estado do Planejamento,False
+2008-2011,0850,0130,0.0,0.00014937356996839356,2004-2007,0.00014937356996839356,False,Secretaria de Estado do Planejamento,Secretaria de Estado da Administração,False
+2008-2011,0870,0160,1.0,0.0,2004-2007,1.0,True,Secretaria de Estado da Administração,Secretaria de Estado da Administração,True
+2008-2011,0900,0110,0.625,0.0008580617557829106,2004-2007,0.625,True,Secretaria de Estado da Administração,Secretaria de Estado do Planejamento,False
+2008-2011,0900,0218,0.0,0.0002447311937808169,2004-2007,0.0002447311937808169,False,Secretaria de Estado da Administração,Secretaria de Estado da Agricultura e Desenvolvimento Rural,False
+2008-2011,0900,0430,0.0,0.00027532259300341904,2004-2007,0.00027532259300341904,False,Secretaria de Estado da Administração,"Secretaria de Estado da Educação, Ciência e Tecnologia",False
+2008-2011,0900,0502,0.0,0.0033005420520079804,2004-2007,0.0033005420520079804,False,Secretaria de Estado da Administração,Secretaria de Estado da Fazenda,False
+2008-2011,0905,0600,0.3333333333333333,0.0,2004-2007,0.3333333333333333,True,Centrais Elétricas de Santa Catarina S.A.,Centrais Elétricas de Santa Catarina S.A.,True
+2008-2011,0910,0110,0.7142857142857143,0.0,2004-2007,0.7142857142857143,True,Ministério Público,Secretaria de Estado do Planejamento,False
+2008-2011,0920,0110,0.625,0.0,2004-2007,0.625,True,Assembléia Legislativa do Estado,Secretaria de Estado do Planejamento,False
+2008-2011,0930,0110,0.7142857142857143,0.0,2004-2007,0.7142857142857143,True,Tribunal de Justiça do Estado,Secretaria de Estado do Planejamento,False
+2008-2011,0940,0900,1.0,0.0,2004-2007,1.0,True,Ministério Público,Ministério Público,True
+2008-2011,0950,0910,1.0,0.0,2004-2007,1.0,True,Ministério Público,Ministério Público,True
+2008-2011,0960,0940,0.2222222222222222,0.0,2004-2007,0.2222222222222222,True,Assembléia Legislativa do Estado,Assembléia Legislativa do Estado,True
+2008-2011,0970,0930,0.6923076923076923,0.0,2004-2007,0.6923076923076923,True,Tribunal de Justiça do Estado,Tribunal de Justiça do Estado,True
+2012-2015,0100,0130,0.0,0.18877767447547883,2008-2011,0.18877767447547883,False,Secretaria de Estado da Fazenda,Departamento de Infraestrutura,False
+2012-2015,0101,0105,0.0,0.05300300673606211,2008-2011,0.05300300673606211,False,Secretaria de Estado da Fazenda,Secretaria de Estado da Infraestrutura,False
+2012-2015,0101,0140,0.0,0.07527054211038407,2008-2011,0.07527054211038407,False,Secretaria de Estado da Fazenda,Departamento de Infraestrutura,False
+2012-2015,0101,0430,0.0,0.0015681362939663347,2008-2011,0.0015681362939663347,False,Secretaria de Estado da Fazenda,Secretaria de Estado da Saúde,False
+2012-2015,0105,0100,0.0,0.06445135592235825,2008-2011,0.06445135592235825,False,Secretaria de Estado da Infraestrutura,Secretaria de Estado da Infraestrutura,True
+2012-2015,0105,0105,0.0,0.0516624463072272,2008-2011,0.0516624463072272,False,Secretaria de Estado da Infraestrutura,Secretaria de Estado da Infraestrutura,True
+2012-2015,0105,0110,0.0,0.17940526335550175,2008-2011,0.17940526335550175,False,Secretaria de Estado da Infraestrutura,Departamento de Infraestrutura,True
+2012-2015,0110,0110,0.6097560975609756,0.08384683016610735,2008-2011,0.6097560975609756,True,Secretaria de Estado da Infraestrutura,Departamento de Infraestrutura,True
+2012-2015,0110,0140,0.0,0.04288546845262957,2008-2011,0.04288546845262957,False,Secretaria de Estado da Infraestrutura,Departamento de Infraestrutura,True
+2012-2015,0115,0115,1.0,0.8537666717970557,2008-2011,1.0,True,Secretaria de Estado da Infraestrutura,Secretaria de Estado da Infraestrutura,True
+2012-2015,0120,0120,1.0,0.25892712299604503,2008-2011,1.0,True,Secretaria de Estado da Infraestrutura,Secretaria de Estado da Infraestrutura,True
+2012-2015,0130,0130,0.6,0.9348284159137065,2008-2011,0.9348284159137065,True,Secretaria de Estado da Infraestrutura,Departamento de Infraestrutura,True
+2012-2015,0140,0140,1.0,0.0976312973219353,2008-2011,1.0,True,Secretaria de Estado da Infraestrutura,Departamento de Infraestrutura,True
+2012-2015,0145,0210,0.0,0.9445384460057196,2008-2011,0.9445384460057196,True,Secretaria de Estado da Infraestrutura,Secretaria de Estado do Planejamento,False
+2012-2015,0150,0150,1.0,0.14989404665834571,2008-2011,1.0,True,Secretaria de Estado da Infraestrutura,Secretaria de Estado da Infraestrutura,True
+2012-2015,0160,0160,1.0,0.4385409396845124,2008-2011,1.0,True,Centrais Elétricas de Santa Catarina S.A.,Centrais Elétricas de Santa Catarina S.A.,True
+2012-2015,0180,0180,1.0,0.9909091174255642,2008-2011,1.0,True,Centrais Elétricas de Santa Catarina S.A.,Centrais Elétricas de Santa Catarina S.A.,True
+2012-2015,0186,0180,0.0,0.9711933599104603,2008-2011,0.9711933599104603,True,Centrais Elétricas de Santa Catarina S.A.,Centrais Elétricas de Santa Catarina S.A.,True
+2012-2015,0187,0905,0.0,0.9649637047612295,2008-2011,0.9649637047612295,True,Centrais Elétricas de Santa Catarina S.A.,Centrais Elétricas de Santa Catarina S.A.,True
+2012-2015,0190,0190,1.0,0.0,2008-2011,1.0,True,Gabinete do Governador do Estado,Companhia de Gás de Santa Catarina S/A,False
+2012-2015,0200,0200,1.0,0.9924882549098769,2008-2011,1.0,True,Secretaria de Estado do Desenvolvimento Econômico Sustentável,Secretaria de Estado do Desenvolvimento Econômico Sustentável,True
+2012-2015,0200,0500,0.0,0.0001980209249505156,2008-2011,0.0001980209249505156,False,Secretaria de Estado do Desenvolvimento Econômico Sustentável,"Secretaria de Estado da Assistência Social, Trabalho e Habitação",False
+2012-2015,0200,0800,0.0,0.0066935578264922845,2008-2011,0.0066935578264922845,False,Secretaria de Estado do Desenvolvimento Econômico Sustentável,Secretaria de Estado do Planejamento,False
+2012-2015,0210,0210,1.0,0.00027458807476750337,2008-2011,1.0,True,Secretaria de Estado do Planejamento,Secretaria de Estado do Planejamento,True
+2012-2015,0220,0220,0.42,0.09573587581302273,2008-2011,0.42,True,Secretaria de Estado da Administração,Secretaria de Estado da Administração,True
+2012-2015,0230,0230,0.0,0.24365432371062792,2008-2011,0.24365432371062792,True,Secretaria de Estado do Desenvolvimento Econômico Sustentável,Secretaria de Estado do Desenvolvimento Econômico Sustentável,True
+2012-2015,0250,0250,1.0,0.592793766814827,2008-2011,1.0,True,Secretaria de Estado da Educação,Secretaria de Estado da Educação,True
+2012-2015,0300,0300,1.0,0.0,2008-2011,1.0,True,Secretaria de Estado da Agricultura e da Pesca,Secretaria de Estado da Agricultura e Desenvolvimento Rural,True
+2012-2015,0310,0310,1.0,0.3323142459404381,2008-2011,1.0,True,Secretaria de Estado da Agricultura e da Pesca,Secretaria de Estado da Agricultura e Desenvolvimento Rural,True
+2012-2015,0315,0310,0.0,0.897753197185149,2008-2011,0.897753197185149,True,Secretaria de Estado da Agricultura e da Pesca,Secretaria de Estado da Agricultura e Desenvolvimento Rural,True
+2012-2015,0320,0320,1.0,0.0,2008-2011,1.0,True,Secretaria de Estado da Agricultura e da Pesca,Secretaria de Estado da Agricultura e Desenvolvimento Rural,True
+2012-2015,0335,0335,1.0,0.7655841973724302,2008-2011,1.0,True,Secretaria de Estado da Agricultura e da Pesca,Secretaria de Estado da Agricultura e Desenvolvimento Rural,True
+2012-2015,0340,0340,1.0,0.38180562929642814,2008-2011,1.0,True,Secretaria de Estado do Desenvolvimento Econômico Sustentável,Secretaria de Estado do Desenvolvimento Econômico Sustentável,True
+2012-2015,0346,0230,0.0,0.014751615380817491,2008-2011,0.014751615380817491,False,Secretaria de Estado do Desenvolvimento Econômico Sustentável,Secretaria de Estado do Desenvolvimento Econômico Sustentável,True
+2012-2015,0348,0340,0.0,0.2886256054044296,2008-2011,0.2886256054044296,True,Secretaria de Estado do Desenvolvimento Econômico Sustentável,Secretaria de Estado do Desenvolvimento Econômico Sustentável,True
+2012-2015,0350,0350,1.0,0.8642173731279196,2008-2011,1.0,True,Secretaria de Estado do Desenvolvimento Econômico Sustentável,Secretaria de Estado do Desenvolvimento Econômico Sustentável,True
+2012-2015,0360,0350,0.0,0.071560331624891,2008-2011,0.071560331624891,False,Gabinete do Governador do Estado,Secretaria de Estado do Desenvolvimento Econômico Sustentável,False
+2012-2015,0360,0360,0.0,0.31899919807483557,2008-2011,0.31899919807483557,True,Gabinete do Governador do Estado,Companhia Catarinense de Águas e Saneamento,False
+2012-2015,0365,0360,0.6111111111111112,0.051898762417013584,2008-2011,0.6111111111111112,True,Gabinete do Governador do Estado,Companhia Catarinense de Águas e Saneamento,False
+2012-2015,0400,0430,0.0,0.3784754487359584,2008-2011,0.3784754487359584,True,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2012-2015,0430,0430,0.0,0.05291058174741047,2008-2011,0.05291058174741047,False,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2012-2015,0510,0500,0.0,0.027669185736994107,2008-2011,0.027669185736994107,False,"Secretaria de Estado da Assistência Social, Trabalho e Habitação","Secretaria de Estado da Assistência Social, Trabalho e Habitação",True
+2012-2015,0510,0510,0.3170731707317073,0.17785804738285446,2008-2011,0.3170731707317073,True,"Secretaria de Estado da Assistência Social, Trabalho e Habitação","Secretaria de Estado da Assistência Social, Trabalho e Habitação",True
+2012-2015,0520,0520,1.0,0.029372608264587024,2008-2011,1.0,True,Secretaria de Estado da Educação,Secretaria de Estado da Educação,True
+2012-2015,0530,0530,0.3,0.6597154805835861,2008-2011,0.6597154805835861,True,"Secretaria de Estado da Assistência Social, Trabalho e Habitação","Secretaria de Estado da Assistência Social, Trabalho e Habitação",True
+2012-2015,0530,0620,0.0,0.0427760603527987,2008-2011,0.0427760603527987,False,"Secretaria de Estado da Assistência Social, Trabalho e Habitação",Secretaria de Estado da Educação,False
+2012-2015,0540,0540,1.0,0.3103364840677599,2008-2011,1.0,True,"Secretaria de Estado da Assistência Social, Trabalho e Habitação","Secretaria de Estado da Assistência Social, Trabalho e Habitação",True
+2012-2015,0550,0550,1.0,0.2642979730473193,2008-2011,1.0,True,"Secretaria de Estado da Assistência Social, Trabalho e Habitação","Secretaria de Estado da Assistência Social, Trabalho e Habitação",True
+2012-2015,0600,0600,1.0,0.020257901019138436,2008-2011,1.0,True,Secretaria de Estado da Administração,Secretaria de Estado da Administração,True
+2012-2015,0610,0610,0.0,0.18690145185370532,2008-2011,0.18690145185370532,False,Secretaria de Estado da Educação,Secretaria de Estado da Educação,True
+2012-2015,0610,0720,0.0,0.000385726002277776,2008-2011,0.000385726002277776,False,Secretaria de Estado da Educação,Secretaria de Estado da Segurança Pública e Defesa do Cidadão,False
+2012-2015,0610,0900,0.0,0.008214227581533505,2008-2011,0.008214227581533505,False,Secretaria de Estado da Educação,Secretaria de Estado da Administração,False
+2012-2015,0615,0620,0.0,0.3592461437526205,2008-2011,0.3592461437526205,True,Secretaria de Estado da Educação,Secretaria de Estado da Educação,True
+2012-2015,0630,0630,1.0,0.9196951354967173,2008-2011,1.0,True,Secretaria de Estado da Educação,Secretaria de Estado da Educação,True
+2012-2015,0640,0640,1.0,0.05437254515601573,2008-2011,1.0,True,"Secretaria de Estado de Turismo, Cultura e Esporte","Secretaria de Estado do Turismo, Cultura e Esporte",True
+2012-2015,0650,0650,0.0,0.05659364926148765,2008-2011,0.05659364926148765,False,"Secretaria de Estado de Turismo, Cultura e Esporte","Secretaria de Estado do Turismo, Cultura e Esporte",True
+2012-2015,0660,0660,1.0,0.2798759982788131,2008-2011,1.0,True,"Secretaria de Estado de Turismo, Cultura e Esporte","Secretaria de Estado do Turismo, Cultura e Esporte",True
+2012-2015,0720,0720,0.0,0.011988978185423575,2008-2011,0.011988978185423575,False,Secretaria de Estado da Segurança Pública,Secretaria de Estado da Segurança Pública e Defesa do Cidadão,True
+2012-2015,0745,0510,0.0,0.02080950751933406,2008-2011,0.02080950751933406,False,Secretaria de Estado da Justiça e Cidadania,"Secretaria de Estado da Assistência Social, Trabalho e Habitação",False
+2012-2015,0750,0740,0.6896551724137931,0.0,2008-2011,0.6896551724137931,True,Secretaria de Estado da Justiça e Cidadania,Secretaria de Estado da Segurança Pública e Defesa do Cidadão,False
+2012-2015,0810,0810,0.38095238095238093,0.9203050415195951,2008-2011,0.9203050415195951,True,Gabinete do Governador do Estado,Secretaria de Estado da Comunicação,False
+2012-2015,0820,0820,0.2777777777777778,1.0,2008-2011,1.0,True,Assembleia Legislativa do Estado,Assembléia Legislativa do Estado,True
+2012-2015,0830,0830,1.0,0.8550754770430585,2008-2011,1.0,True,Secretaria de Estado da Fazenda,Secretaria de Estado da Fazenda,True
+2012-2015,0840,0840,1.0,1.0,2008-2011,1.0,True,Secretaria de Estado da Administração Planejamento de SC,Secretaria de Estado da Administração,True
+2012-2015,0850,0660,0.0,8.510905278750393e-06,2008-2011,8.510905278750393e-06,False,Secretaria de Estado da Administração,"Secretaria de Estado do Turismo, Cultura e Esporte",False
+2012-2015,0850,0850,1.0,0.06576784909698649,2008-2011,1.0,True,Secretaria de Estado da Administração,Secretaria de Estado do Planejamento,False
+2012-2015,0850,0900,0.0,0.7207383143297176,2008-2011,0.7207383143297176,True,Secretaria de Estado da Administração,Secretaria de Estado da Administração,True
+2012-2015,0860,0860,1.0,0.9030676182277111,2008-2011,1.0,True,Secretaria de Estado da Administração,Secretaria de Estado da Administração,True
+2012-2015,0860,0910,0.0,0.018520056671729707,2008-2011,0.018520056671729707,False,Secretaria de Estado da Administração,Ministério Público,False
+2012-2015,0860,0920,0.0,0.03556903812426216,2008-2011,0.03556903812426216,False,Secretaria de Estado da Administração,Assembléia Legislativa do Estado,False
+2012-2015,0860,0930,0.0,0.042843286976297065,2008-2011,0.042843286976297065,False,Secretaria de Estado da Administração,Tribunal de Justiça do Estado,False
+2012-2015,0870,0870,1.0,0.9963529123906208,2008-2011,1.0,True,Secretaria de Estado da Administração,Secretaria de Estado da Administração,True
+2012-2015,0900,0900,1.0,0.26520338084154277,2008-2011,1.0,True,Secretaria de Estado da Administração,Secretaria de Estado da Administração,True
+2012-2015,0910,0900,0.7142857142857143,0.0,2008-2011,0.7142857142857143,True,Ministério Público,Secretaria de Estado da Administração,False
+2012-2015,0910,0910,0.2857142857142857,0.8677869040097684,2008-2011,0.8677869040097684,True,Ministério Público,Ministério Público,True
+2012-2015,0910,0940,0.0,0.008663570678964845,2008-2011,0.008663570678964845,False,Ministério Público,Ministério Público,True
+2012-2015,0915,0940,1.0,0.9738124569641883,2008-2011,1.0,True,Ministério Público,Ministério Público,True
+2012-2015,0915,0950,0.0,0.011511032780231781,2008-2011,0.011511032780231781,False,Ministério Público,Ministério Público,True
+2012-2015,0920,0900,0.625,0.0,2008-2011,0.625,True,Assembleia Legislativa do Estado,Secretaria de Estado da Administração,False
+2012-2015,0920,0920,0.375,1.0,2008-2011,1.0,True,Assembleia Legislativa do Estado,Assembléia Legislativa do Estado,True
+2012-2015,0925,0960,1.0,1.0,2008-2011,1.0,True,Assembleia Legislativa do Estado,Assembléia Legislativa do Estado,True
+2012-2015,0930,0900,0.7142857142857143,0.0,2008-2011,0.7142857142857143,True,Tribunal de Justiça do Estado,Secretaria de Estado da Administração,False
+2012-2015,0930,0930,0.2857142857142857,0.9144265898479352,2008-2011,0.9144265898479352,True,Tribunal de Justiça do Estado,Tribunal de Justiça do Estado,True
+2012-2015,0930,0990,0.0,0.08557341015206478,2008-2011,0.08557341015206478,False,Tribunal de Justiça do Estado,Secretaria de Estado da Fazenda,False
+2012-2015,0931,0970,1.0,0.3957153175109102,2008-2011,1.0,True,Tribunal de Justiça do Estado,Tribunal de Justiça do Estado,True
+2012-2015,0935,0900,0.7142857142857143,0.0,2008-2011,0.7142857142857143,True,Tribunal de Contas do Estado,Secretaria de Estado da Administração,False
+2012-2015,0935,0920,0.0,0.22420170466655984,2008-2011,0.22420170466655984,True,Tribunal de Contas do Estado,Assembléia Legislativa do Estado,False
+2012-2015,0936,0920,0.0,1.0,2008-2011,1.0,True,Tribunal de Contas do Estado,Assembléia Legislativa do Estado,False
+2012-2015,0990,0990,1.0,1.0,2008-2011,1.0,True,Secretaria de Estado da Fazenda,Secretaria de Estado da Fazenda,True
+2016-2019,0100,0100,1.0,0.9522188524412084,2012-2015,1.0,True,Secretaria de Estado da Fazenda,Secretaria de Estado da Fazenda,True
+2016-2019,0100,0101,0.0,0.03401517461742051,2012-2015,0.03401517461742051,False,Secretaria de Estado da Fazenda,Secretaria de Estado da Fazenda,True
+2016-2019,0101,0100,0.0,0.0,2012-2015,0.0,False,Secretaria de Estado da Fazenda,Secretaria de Estado da Fazenda,True
+2016-2019,0101,0101,1.0,0.9048556646509193,2012-2015,1.0,True,Secretaria de Estado da Fazenda,Secretaria de Estado da Fazenda,True
+2016-2019,0105,0105,1.0,0.7653999331173628,2012-2015,1.0,True,Secretaria de Estado da Infraestrutura,Secretaria de Estado da Infraestrutura,True
+2016-2019,0110,0105,0.0,0.2851104579557223,2012-2015,0.2851104579557223,True,Secretaria de Estado da Infraestrutura,Secretaria de Estado da Infraestrutura,True
+2016-2019,0110,0110,1.0,0.7089941402236012,2012-2015,1.0,True,Secretaria de Estado da Infraestrutura,Secretaria de Estado da Infraestrutura,True
+2016-2019,0110,0140,0.0,0.00019651339402254844,2012-2015,0.00019651339402254844,False,Secretaria de Estado da Infraestrutura,Secretaria de Estado da Infraestrutura,True
+2016-2019,0115,0115,1.0,0.7995900801708031,2012-2015,1.0,True,Secretaria de Estado da Infraestrutura,Secretaria de Estado da Infraestrutura,True
+2016-2019,0120,0120,1.0,0.4972427656600266,2012-2015,1.0,True,Secretaria de Estado da Infraestrutura,Secretaria de Estado da Infraestrutura,True
+2016-2019,0130,0130,1.0,0.9965332530111167,2012-2015,1.0,True,Secretaria de Estado da Infraestrutura,Secretaria de Estado da Infraestrutura,True
+2016-2019,0140,0140,1.0,0.9961780031340375,2012-2015,1.0,True,Secretaria de Estado da Infraestrutura,Secretaria de Estado da Infraestrutura,True
+2016-2019,0145,0145,1.0,0.9515116942384484,2012-2015,1.0,True,Secretaria de Estado da Infraestrutura,Secretaria de Estado da Infraestrutura,True
+2016-2019,0150,0150,1.0,0.6413190168514444,2012-2015,1.0,True,Secretaria de Estado da Infraestrutura,Secretaria de Estado da Infraestrutura,True
+2016-2019,0160,0160,1.0,0.30791712238054275,2012-2015,1.0,True,Centrais Elétricas de Santa Catarina S.A.,Centrais Elétricas de Santa Catarina S.A.,True
+2016-2019,0180,0180,1.0,0.9958081108439899,2012-2015,1.0,True,Centrais Elétricas de Santa Catarina S.A.,Centrais Elétricas de Santa Catarina S.A.,True
+2016-2019,0186,0186,1.0,1.0,2012-2015,1.0,True,Centrais Elétricas de Santa Catarina S.A.,Centrais Elétricas de Santa Catarina S.A.,True
+2016-2019,0187,0187,1.0,1.0,2012-2015,1.0,True,Centrais Elétricas de Santa Catarina S.A.,Centrais Elétricas de Santa Catarina S.A.,True
+2016-2019,0188,0188,1.0,0.9695041568493422,2012-2015,1.0,True,Gabinete do Governador do Estado,Gabinete do Governador do Estado,True
+2016-2019,0190,0190,1.0,0.05786492029492023,2012-2015,1.0,True,Gabinete do Governador do Estado,Gabinete do Governador do Estado,True
+2016-2019,0200,0200,1.0,0.9304581519461674,2012-2015,1.0,True,Secretaria de Estado do Desenvolvimento Econômico Sustentável,Secretaria de Estado do Desenvolvimento Econômico Sustentável,True
+2016-2019,0208,0210,0.0,0.17855723523605088,2012-2015,0.17855723523605088,False,Secretaria de Estado do Planejamento,Secretaria de Estado do Planejamento,True
+2016-2019,0210,0210,1.0,0.9627791563275434,2012-2015,1.0,True,Secretaria de Estado do Planejamento,Secretaria de Estado do Planejamento,True
+2016-2019,0220,0220,1.0,0.0,2012-2015,1.0,True,Secretaria de Estado da Administração,Secretaria de Estado da Administração,True
+2016-2019,0230,0230,0.6226415094339622,0.5589735850818381,2012-2015,0.6226415094339622,True,Secretaria de Estado do Desenvolvimento Econômico Sustentável,Secretaria de Estado do Desenvolvimento Econômico Sustentável,True
+2016-2019,0250,0250,1.0,0.4225352112676056,2012-2015,1.0,True,Secretaria de Estado da Educação,Secretaria de Estado da Educação,True
+2016-2019,0300,0300,1.0,0.7421101734764799,2012-2015,1.0,True,Secretaria de Estado da Agricultura e da Pesca,Secretaria de Estado da Agricultura e da Pesca,True
+2016-2019,0310,0310,1.0,0.6335619269828208,2012-2015,1.0,True,Secretaria de Estado da Agricultura e da Pesca,Secretaria de Estado da Agricultura e da Pesca,True
+2016-2019,0315,0315,1.0,0.9913711199755596,2012-2015,1.0,True,Secretaria de Estado da Agricultura e da Pesca,Secretaria de Estado da Agricultura e da Pesca,True
+2016-2019,0320,0320,1.0,0.18181818181818182,2012-2015,1.0,True,Secretaria de Estado da Agricultura e da Pesca,Secretaria de Estado da Agricultura e da Pesca,True
+2016-2019,0335,0335,1.0,0.5689949246555888,2012-2015,1.0,True,Secretaria de Estado da Agricultura e da Pesca,Secretaria de Estado da Agricultura e da Pesca,True
+2016-2019,0340,0340,1.0,0.8685402234994715,2012-2015,1.0,True,Secretaria de Estado do Desenvolvimento Econômico Sustentável,Secretaria de Estado do Desenvolvimento Econômico Sustentável,True
+2016-2019,0342,0342,1.0,0.15942028985507245,2012-2015,1.0,True,Secretaria de Estado do Desenvolvimento Econômico Sustentável,Secretaria de Estado do Desenvolvimento Econômico Sustentável,True
+2016-2019,0346,0346,1.0,0.011299435028248588,2012-2015,1.0,True,Secretaria de Estado do Desenvolvimento Econômico Sustentável,Secretaria de Estado do Desenvolvimento Econômico Sustentável,True
+2016-2019,0348,0348,1.0,0.20052680771518397,2012-2015,1.0,True,Secretaria de Estado do Desenvolvimento Econômico Sustentável,Secretaria de Estado do Desenvolvimento Econômico Sustentável,True
+2016-2019,0350,0350,1.0,0.9938149724064985,2012-2015,1.0,True,Secretaria de Estado do Desenvolvimento Econômico Sustentável,Secretaria de Estado do Desenvolvimento Econômico Sustentável,True
+2016-2019,0360,0360,1.0,0.43279797501793,2012-2015,1.0,True,Gabinete do Governador do Estado,Gabinete do Governador do Estado,True
+2016-2019,0365,0365,1.0,0.9824343198197869,2012-2015,1.0,True,Gabinete do Governador do Estado,Gabinete do Governador do Estado,True
+2016-2019,0370,0360,0.0,0.293374705048591,2012-2015,0.293374705048591,True,Gabinete do Governador do Estado,Gabinete do Governador do Estado,True
+2016-2019,0400,0400,0.43333333333333335,0.6863327002800814,2012-2015,0.6863327002800814,True,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2016-2019,0400,0410,0.5666666666666667,0.0,2012-2015,0.5666666666666667,True,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2016-2019,0400,0430,0.0,8.211133274335713e-06,2012-2015,8.211133274335713e-06,False,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2016-2019,0410,0410,1.0,0.7353843139805598,2012-2015,1.0,True,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2016-2019,0420,0410,0.6071428571428571,0.0,2012-2015,0.6071428571428571,True,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2016-2019,0420,0420,0.39285714285714285,0.987717929993781,2012-2015,0.987717929993781,True,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2016-2019,0430,0400,0.0,0.0002900023363856979,2012-2015,0.0002900023363856979,False,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2016-2019,0430,0410,0.5862068965517241,0.0,2012-2015,0.5862068965517241,True,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2016-2019,0430,0430,0.41379310344827586,0.9644524760510951,2012-2015,0.9644524760510951,True,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2016-2019,0440,0410,0.6538461538461539,0.0,2012-2015,0.6538461538461539,True,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2016-2019,0440,0440,0.34615384615384615,0.9988163490666169,2012-2015,0.9988163490666169,True,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2016-2019,0510,0510,0.0,0.9023777813697182,2012-2015,0.9023777813697182,True,"Secretaria de Estado da Assistência Social, Trabalho e Habitação","Secretaria de Estado da Assistência Social, Trabalho e Habitação",True
+2016-2019,0510,0745,0.0,0.004499768877808658,2012-2015,0.004499768877808658,False,"Secretaria de Estado da Assistência Social, Trabalho e Habitação",Secretaria de Estado da Justiça e Cidadania,False
+2016-2019,0520,0520,1.0,0.7055472165453277,2012-2015,1.0,True,Secretaria de Estado da Educação,Secretaria de Estado da Educação,True
+2016-2019,0530,0530,1.0,0.1079824268427408,2012-2015,1.0,True,"Secretaria de Estado da Assistência Social, Trabalho e Habitação","Secretaria de Estado da Assistência Social, Trabalho e Habitação",True
+2016-2019,0540,0540,1.0,0.9231035677173537,2012-2015,1.0,True,"Secretaria de Estado da Assistência Social, Trabalho e Habitação","Secretaria de Estado da Assistência Social, Trabalho e Habitação",True
+2016-2019,0550,0550,1.0,0.13582785720689028,2012-2015,1.0,True,"Secretaria de Estado da Assistência Social, Trabalho e Habitação","Secretaria de Estado da Assistência Social, Trabalho e Habitação",True
+2016-2019,0610,0610,1.0,0.9610981549220862,2012-2015,1.0,True,Secretaria de Estado da Educação,Secretaria de Estado da Educação,True
+2016-2019,0615,0615,1.0,0.9978469670467003,2012-2015,1.0,True,Secretaria de Estado da Educação,Secretaria de Estado da Educação,True
+2016-2019,0616,0616,1.0,1.0,2012-2015,1.0,True,Secretaria de Estado da Educação,Secretaria de Estado da Educação,True
+2016-2019,0623,0610,0.0,1.0,2012-2015,1.0,True,Secretaria de Estado da Educação,Secretaria de Estado da Educação,True
+2016-2019,0630,0630,1.0,0.9991063202495354,2012-2015,1.0,True,Secretaria de Estado da Educação,Secretaria de Estado da Educação,True
+2016-2019,0640,0640,1.0,0.9879065437959146,2012-2015,1.0,True,"Secretaria de Estado de Turismo, Cultura e Esporte","Secretaria de Estado de Turismo, Cultura e Esporte",True
+2016-2019,0650,0650,1.0,0.9933078469376105,2012-2015,1.0,True,"Secretaria de Estado de Turismo, Cultura e Esporte","Secretaria de Estado de Turismo, Cultura e Esporte",True
+2016-2019,0660,0660,1.0,0.7255443275341181,2012-2015,1.0,True,"Secretaria de Estado de Turismo, Cultura e Esporte","Secretaria de Estado de Turismo, Cultura e Esporte",True
+2016-2019,0705,0720,0.0,0.3612300748548591,2012-2015,0.3612300748548591,True,Secretaria de Estado da Segurança Pública,Secretaria de Estado da Segurança Pública,True
+2016-2019,0706,0340,0.0,0.0023677791314018447,2012-2015,0.0023677791314018447,False,Secretaria de Estado da Segurança Pública,Secretaria de Estado do Desenvolvimento Econômico Sustentável,False
+2016-2019,0706,0700,0.0,5.313389355179455e-05,2012-2015,5.313389355179455e-05,False,Secretaria de Estado da Segurança Pública,Secretaria de Estado da Segurança Pública Segurança Pública,True
+2016-2019,0706,0720,0.0,0.010294691875660194,2012-2015,0.010294691875660194,False,Secretaria de Estado da Segurança Pública,Secretaria de Estado da Segurança Pública,True
+2016-2019,0706,0850,0.0,0.9659985378061694,2012-2015,0.9659985378061694,True,Secretaria de Estado da Segurança Pública,Secretaria de Estado da Administração,False
+2016-2019,0707,0600,0.0,0.010668535452337116,2012-2015,0.010668535452337116,False,Secretaria de Estado da Segurança Pública,Secretaria de Estado da Administração,False
+2016-2019,0707,0715,0.0,0.2255025177690332,2012-2015,0.2255025177690332,True,Secretaria de Estado da Segurança Pública,Secretaria de Estado da Segurança Pública,True
+2016-2019,0707,0720,0.0,0.003437161817722831,2012-2015,0.003437161817722831,False,Secretaria de Estado da Segurança Pública,Secretaria de Estado da Segurança Pública,True
+2016-2019,0708,0712,0.0,0.11171420311712617,2012-2015,0.11171420311712617,False,Secretaria de Estado da Segurança Pública,Secretaria de Estado da Segurança Pública,True
+2016-2019,0708,0855,0.0,0.17925097558883174,2012-2015,0.17925097558883174,False,Secretaria de Estado da Segurança Pública,Secretaria de Estado da Administração,False
+2016-2019,0715,0715,1.0,1.0,2012-2015,1.0,True,Secretaria de Estado da Segurança Pública,Secretaria de Estado da Segurança Pública,True
+2016-2019,0730,0730,1.0,0.029734441307355065,2012-2015,1.0,True,Secretaria de Estado da Defesa Civil,Secretaria de Estado da Defesa Civil,True
+2016-2019,0731,0730,0.0,1.0,2012-2015,1.0,True,Secretaria de Estado da Defesa Civil,Secretaria de Estado da Defesa Civil,True
+2016-2019,0735,0735,1.0,0.5251554550593556,2012-2015,1.0,True,Secretaria de Estado da Defesa Civil,Secretaria de Estado da Defesa Civil,True
+2016-2019,0740,0740,1.0,1.0,2012-2015,1.0,True,Secretaria de Estado da Justiça e Cidadania,Secretaria de Estado da Justiça e Cidadania,True
+2016-2019,0745,0745,1.0,0.9881649430471698,2012-2015,1.0,True,Secretaria de Estado da Justiça e Cidadania,Secretaria de Estado da Justiça e Cidadania,True
+2016-2019,0750,0750,1.0,0.9973236992589931,2012-2015,1.0,True,Secretaria de Estado da Justiça e Cidadania,Secretaria de Estado da Justiça e Cidadania,True
+2016-2019,0760,0740,0.0,0.029952808165552115,2012-2015,0.029952808165552115,False,Secretaria de Estado da Justiça e Cidadania,Secretaria de Estado da Justiça e Cidadania,True
+2016-2019,0760,0760,1.0,0.9556813365991711,2012-2015,1.0,True,Secretaria de Estado da Justiça e Cidadania,Secretaria de Estado da Justiça e Cidadania,True
+2016-2019,0810,0810,1.0,0.9700664274089192,2012-2015,1.0,True,Gabinete do Governador do Estado,Gabinete do Governador do Estado,True
+2016-2019,0820,0810,0.7222222222222222,0.0,2012-2015,0.7222222222222222,True,Assembleia Legislativa do Estado,Gabinete do Governador do Estado,False
+2016-2019,0820,0820,0.2777777777777778,1.0,2012-2015,1.0,True,Assembleia Legislativa do Estado,Assembleia Legislativa do Estado,True
+2016-2019,0825,0825,0.5283018867924528,1.0,2012-2015,1.0,True,Secretaria de Estado da Fazenda,Secretaria de Estado da Fazenda,True
+2016-2019,0830,0830,1.0,0.8133956067252698,2012-2015,1.0,True,Secretaria de Estado da Fazenda,Secretaria de Estado da Fazenda,True
+2016-2019,0850,0600,0.0,0.0028447091623430088,2012-2015,0.0028447091623430088,False,Secretaria de Estado da Administração,Secretaria de Estado da Administração,True
+2016-2019,0850,0850,1.0,0.9943588402278963,2012-2015,1.0,True,Secretaria de Estado da Administração,Secretaria de Estado da Administração,True
+2016-2019,0855,0855,1.0,0.8522727401684353,2012-2015,1.0,True,Secretaria de Estado da Administração,Secretaria de Estado da Administração,True
+2016-2019,0860,0860,1.0,0.9932514400484862,2012-2015,1.0,True,Secretaria de Estado da Administração,Secretaria de Estado da Administração,True
+2016-2019,0870,0870,1.0,1.0,2012-2015,1.0,True,Secretaria de Estado da Administração,Secretaria de Estado da Administração,True
+2016-2019,0900,0220,0.0,5.068041170002379e-05,2012-2015,5.068041170002379e-05,False,Secretaria de Estado da Administração,Secretaria de Estado da Administração,True
+2016-2019,0900,0850,0.0,0.30908855727765455,2012-2015,0.30908855727765455,True,Secretaria de Estado da Administração,Secretaria de Estado da Administração,True
+2016-2019,0900,0900,1.0,0.2503901958854827,2012-2015,1.0,True,Secretaria de Estado da Administração,Secretaria de Estado da Administração,True
+2016-2019,0910,0900,0.7142857142857143,0.0,2012-2015,0.7142857142857143,True,Ministério Público,Secretaria de Estado da Administração,False
+2016-2019,0910,0910,0.2857142857142857,1.0,2012-2015,1.0,True,Ministério Público,Ministério Público,True
+2016-2019,0915,0915,1.0,1.0,2012-2015,1.0,True,Ministério Público,Ministério Público,True
+2016-2019,0920,0900,0.7142857142857143,0.0,2012-2015,0.7142857142857143,True,Assembleia Legislativa do Estado,Secretaria de Estado da Administração,False
+2016-2019,0920,0920,0.2857142857142857,1.0,2012-2015,1.0,True,Assembleia Legislativa do Estado,Assembleia Legislativa do Estado,True
+2016-2019,0925,0925,1.0,0.596621764846241,2012-2015,1.0,True,Assembleia Legislativa do Estado,Assembleia Legislativa do Estado,True
+2016-2019,0930,0900,0.7142857142857143,0.0,2012-2015,0.7142857142857143,True,Tribunal de Justiça do Estado,Secretaria de Estado da Administração,False
+2016-2019,0930,0930,0.2857142857142857,0.9899512389029346,2012-2015,0.9899512389029346,True,Tribunal de Justiça do Estado,Tribunal de Justiça do Estado,True
+2016-2019,0931,0931,1.0,0.9791764983527333,2012-2015,1.0,True,Tribunal de Justiça do Estado,Tribunal de Justiça do Estado,True
+2016-2019,0935,0900,0.7142857142857143,0.0,2012-2015,0.7142857142857143,True,Tribunal de Contas do Estado,Secretaria de Estado da Administração,False
+2016-2019,0935,0935,0.2857142857142857,1.0,2012-2015,1.0,True,Tribunal de Contas do Estado,Tribunal de Contas do Estado,True
+2016-2019,0950,0950,1.0,0.0,2012-2015,1.0,True,Secretaria de Estado do Desenvolvimento Econômico Sustentável,Secretaria de Estado do Desenvolvimento Econômico Sustentável,True
+2016-2019,0990,0990,1.0,1.0,2012-2015,1.0,True,Secretaria de Estado da Fazenda,Secretaria de Estado da Fazenda,True
+2020-2023,0100,0100,1.0,0.08746629451074053,2016-2019,1.0,True,Casa Civil,Secretaria de Estado da Fazenda,False
+2020-2023,0101,0100,0.0,0.08338552796209626,2016-2019,0.08338552796209626,False,Casa Civil,Secretaria de Estado da Fazenda,False
+2020-2023,0101,0101,1.0,0.32081542854919126,2016-2019,1.0,True,Casa Civil,Secretaria de Estado da Fazenda,False
+2020-2023,0105,0105,0.6341463414634146,0.8491590509686626,2016-2019,0.8491590509686626,True,Secretaria de Estado da Infraestrutura e Mobilidade,Secretaria de Estado da Infraestrutura,True
+2020-2023,0110,0110,0.5161290322580645,0.10562590826114657,2016-2019,0.5161290322580645,True,Secretaria de Estado da Infraestrutura e Mobilidade,Secretaria de Estado da Infraestrutura,True
+2020-2023,0120,0120,0.47058823529411764,0.2640207075064711,2016-2019,0.47058823529411764,True,Secretaria de Estado da Infraestrutura e Mobilidade,Secretaria de Estado da Infraestrutura,True
+2020-2023,0120,0150,0.0,0.20189818809318377,2016-2019,0.20189818809318377,True,Secretaria de Estado da Infraestrutura e Mobilidade,Secretaria de Estado da Infraestrutura,True
+2020-2023,0130,0130,0.37037037037037035,0.0,2016-2019,0.37037037037037035,True,Secretaria de Estado da Infraestrutura e Mobilidade,Secretaria de Estado da Infraestrutura,True
+2020-2023,0140,0140,0.4583333333333333,0.0,2016-2019,0.4583333333333333,True,Secretaria de Estado da Infraestrutura e Mobilidade,Secretaria de Estado da Infraestrutura,True
+2020-2023,0145,0145,1.0,0.07736389684813753,2016-2019,1.0,True,Secretaria de Estado da Infraestrutura e Mobilidade,Secretaria de Estado da Infraestrutura,True
+2020-2023,0150,0150,1.0,0.1447568547943185,2016-2019,1.0,True,Secretaria de Estado da Infraestrutura e Mobilidade,Secretaria de Estado da Infraestrutura,True
+2020-2023,0160,0160,0.6363636363636364,0.0,2016-2019,0.6363636363636364,True,Centrais Elétricas de Santa Catarina S.A.,Centrais Elétricas de Santa Catarina S.A.,True
+2020-2023,0182,0180,0.0,0.4961932681153658,2016-2019,0.4961932681153658,True,Centrais Elétricas de Santa Catarina S.A.,Centrais Elétricas de Santa Catarina S.A.,True
+2020-2023,0182,0186,0.0,0.07349280394959896,2016-2019,0.07349280394959896,False,Centrais Elétricas de Santa Catarina S.A.,Centrais Elétricas de Santa Catarina S.A.,True
+2020-2023,0182,0187,0.0,0.132247810078902,2016-2019,0.132247810078902,False,Centrais Elétricas de Santa Catarina S.A.,Centrais Elétricas de Santa Catarina S.A.,True
+2020-2023,0188,0188,1.0,0.018358729688260998,2016-2019,1.0,True,SC Participações e Parcerias S.A.,Gabinete do Governador do Estado,False
+2020-2023,0190,0190,0.0,0.6491273418316222,2016-2019,0.6491273418316222,True,Companhia de Gás de Santa Catarina - SCGÁS,Gabinete do Governador do Estado,False
+2020-2023,0200,0200,0.0,0.776049888543943,2016-2019,0.776049888543943,True,Agência de Fomento do Estado de Santa Catarina S.A.,Secretaria de Estado do Desenvolvimento Econômico Sustentável,False
+2020-2023,0200,0530,0.0,2.1097924329586894e-06,2016-2019,2.1097924329586894e-06,False,Agência de Fomento do Estado de Santa Catarina S.A.,"Secretaria de Estado da Assistência Social, Trabalho e Habitação",False
+2020-2023,0211,0850,0.0,0.6766273515132547,2016-2019,0.6766273515132547,True,Instituto de Metrologia de Santa Catarina,Secretaria de Estado da Administração,False
+2020-2023,0211,0900,0.0,0.18596348501722146,2016-2019,0.18596348501722146,False,Instituto de Metrologia de Santa Catarina,Secretaria de Estado da Administração,False
+2020-2023,0230,0230,0.0,0.6499144714546363,2016-2019,0.6499144714546363,True,Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina,Secretaria de Estado do Desenvolvimento Econômico Sustentável,False
+2020-2023,0300,0250,0.0,0.20073276509639187,2016-2019,0.20073276509639187,True,"Secretaria de Estado da Agricultura, da Pesca e do Desenvolvimento Rural",Secretaria de Estado da Educação,False
+2020-2023,0300,0300,0.65,0.05657260414383283,2016-2019,0.65,True,"Secretaria de Estado da Agricultura, da Pesca e do Desenvolvimento Rural",Secretaria de Estado da Agricultura e da Pesca,True
+2020-2023,0300,0850,0.0,0.11639019460589058,2016-2019,0.11639019460589058,False,"Secretaria de Estado da Agricultura, da Pesca e do Desenvolvimento Rural",Secretaria de Estado da Administração,False
+2020-2023,0300,0900,0.0,0.07128140386756267,2016-2019,0.07128140386756267,False,"Secretaria de Estado da Agricultura, da Pesca e do Desenvolvimento Rural",Secretaria de Estado da Administração,False
+2020-2023,0310,0310,0.3023255813953488,0.09107088455452024,2016-2019,0.3023255813953488,True,"Secretaria de Estado da Agricultura, da Pesca e do Desenvolvimento Rural",Secretaria de Estado da Agricultura e da Pesca,True
+2020-2023,0310,0850,0.0,0.850905872101987,2016-2019,0.850905872101987,True,"Secretaria de Estado da Agricultura, da Pesca e do Desenvolvimento Rural",Secretaria de Estado da Administração,False
+2020-2023,0310,0900,0.0,0.042496171508399364,2016-2019,0.042496171508399364,False,"Secretaria de Estado da Agricultura, da Pesca e do Desenvolvimento Rural",Secretaria de Estado da Administração,False
+2020-2023,0315,0310,0.0,0.6497851700103855,2016-2019,0.6497851700103855,True,Companhia Integrada de Desenvolvimento Agrícola de Santa Catarina,Secretaria de Estado da Agricultura e da Pesca,False
+2020-2023,0315,0315,0.6379310344827587,0.32332399567673104,2016-2019,0.6379310344827587,True,Companhia Integrada de Desenvolvimento Agrícola de Santa Catarina,Secretaria de Estado da Agricultura e da Pesca,False
+2020-2023,0320,0300,0.0,0.37894705412696383,2016-2019,0.37894705412696383,True,"Secretaria de Estado da Agricultura, da Pesca e do Desenvolvimento Rural",Secretaria de Estado da Agricultura e da Pesca,True
+2020-2023,0320,0310,0.0,0.004756250518467923,2016-2019,0.004756250518467923,False,"Secretaria de Estado da Agricultura, da Pesca e do Desenvolvimento Rural",Secretaria de Estado da Agricultura e da Pesca,True
+2020-2023,0320,0320,0.36363636363636365,0.006059914858978877,2016-2019,0.36363636363636365,True,"Secretaria de Estado da Agricultura, da Pesca e do Desenvolvimento Rural",Secretaria de Estado da Agricultura e da Pesca,True
+2020-2023,0340,0340,0.6296296296296297,0.9959564827780839,2016-2019,0.9959564827780839,True,Instituto do Meio Ambiente do Estado de Santa Catarina,Secretaria de Estado do Desenvolvimento Econômico Sustentável,False
+2020-2023,0342,0200,0.0,0.15241844769403826,2016-2019,0.15241844769403826,False,Secretaria de Estado do Desenvolvimento Econômico Sustentável,Secretaria de Estado do Desenvolvimento Econômico Sustentável,True
+2020-2023,0342,0342,1.0,0.0831146106736658,2016-2019,1.0,True,Secretaria de Estado do Desenvolvimento Econômico Sustentável,Secretaria de Estado do Desenvolvimento Econômico Sustentável,True
+2020-2023,0346,0346,1.0,0.8773006134969326,2016-2019,1.0,True,Secretaria de Estado do Desenvolvimento Econômico Sustentável,Secretaria de Estado do Desenvolvimento Econômico Sustentável,True
+2020-2023,0348,0348,1.0,0.3539928918041192,2016-2019,1.0,True,Secretaria de Estado do Desenvolvimento Econômico Sustentável,Secretaria de Estado do Desenvolvimento Econômico Sustentável,True
+2020-2023,0350,0350,1.0,0.5126857237653841,2016-2019,1.0,True,Secretaria de Estado do Desenvolvimento Econômico Sustentável,Secretaria de Estado do Desenvolvimento Econômico Sustentável,True
+2020-2023,0360,0360,1.0,0.24102186392360808,2016-2019,1.0,True,Companhia Catarinense de Águas e Saneamento - CASAN,Gabinete do Governador do Estado,False
+2020-2023,0365,0365,1.0,0.0,2016-2019,1.0,True,Companhia Catarinense de Águas e Saneamento - CASAN,Gabinete do Governador do Estado,False
+2020-2023,0370,0370,1.0,0.8800403286963938,2016-2019,1.0,True,Companhia Catarinense de Águas e Saneamento - CASAN,Gabinete do Governador do Estado,False
+2020-2023,0400,0100,0.0,0.002604414817887406,2016-2019,0.002604414817887406,False,Secretaria de Estado da Saúde,Secretaria de Estado da Fazenda,False
+2020-2023,0400,0101,0.0,0.11127017629743273,2016-2019,0.11127017629743273,False,Secretaria de Estado da Saúde,Secretaria de Estado da Fazenda,False
+2020-2023,0400,0400,0.0,0.08505839743595382,2016-2019,0.08505839743595382,False,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2020-2023,0400,0440,0.0,0.44672471363585636,2016-2019,0.44672471363585636,True,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2020-2023,0410,0410,0.0,0.5868773946857797,2016-2019,0.5868773946857797,True,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2020-2023,0420,0420,0.0,0.04969462410232111,2016-2019,0.04969462410232111,False,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2020-2023,0430,0410,0.0,0.0014274215174938068,2016-2019,0.0014274215174938068,False,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2020-2023,0430,0430,0.0,0.2839475776692202,2016-2019,0.2839475776692202,True,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2020-2023,0440,0440,0.0,1.0,2016-2019,1.0,True,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2020-2023,0450,0400,0.0,0.030483822512440185,2016-2019,0.030483822512440185,False,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2020-2023,0520,0520,0.0,0.6054408792356568,2016-2019,0.6054408792356568,True,Fundação Catarinense de Educação Especial,Secretaria de Estado da Educação,True
+2020-2023,0560,0510,0.0,0.01616708938222563,2016-2019,0.01616708938222563,False,Secretaria de Estado do Desenvolvimento Social,"Secretaria de Estado da Assistência Social, Trabalho e Habitação",True
+2020-2023,0560,0550,0.19047619047619047,0.0,2016-2019,0.19047619047619047,False,Secretaria de Estado do Desenvolvimento Social,"Secretaria de Estado da Assistência Social, Trabalho e Habitação",True
+2020-2023,0610,0610,0.0,0.5800590682067697,2016-2019,0.5800590682067697,True,Secretaria de Estado da Educação,Secretaria de Estado da Educação,True
+2020-2023,0610,0615,0.0,0.016781443417802838,2016-2019,0.016781443417802838,False,Secretaria de Estado da Educação,Secretaria de Estado da Educação,True
+2020-2023,0610,0624,0.0,0.02125443327836982,2016-2019,0.02125443327836982,False,Secretaria de Estado da Educação,Secretaria de Estado da Educação,True
+2020-2023,0623,0623,0.0,0.982897212245596,2016-2019,0.982897212245596,True,Secretaria de Estado da Educação,Secretaria de Estado da Educação,True
+2020-2023,0624,0624,1.0,0.0,2016-2019,1.0,True,Secretaria de Estado da Educação,Secretaria de Estado da Educação,True
+2020-2023,0625,0610,0.0,0.0049233989567193754,2016-2019,0.0049233989567193754,False,Secretaria de Estado da Educação,Secretaria de Estado da Educação,True
+2020-2023,0625,0615,0.0,0.0011151188989236259,2016-2019,0.0011151188989236259,False,Secretaria de Estado da Educação,Secretaria de Estado da Educação,True
+2020-2023,0625,0850,0.0,0.9506107995065763,2016-2019,0.9506107995065763,True,Secretaria de Estado da Educação,Secretaria de Estado da Administração,False
+2020-2023,0627,0630,0.0,0.9999397263592986,2016-2019,0.9999397263592986,True,Secretaria de Estado da Educação,Secretaria de Estado da Educação,True
+2020-2023,0630,0630,0.0,0.631250295225368,2016-2019,0.631250295225368,True,Fundação Universidade do Estado de Santa Catarina,Secretaria de Estado da Educação,False
+2020-2023,0650,0650,0.0,0.01143081356755154,2016-2019,0.01143081356755154,False,Fundação Catarinense de Esporte,"Secretaria de Estado de Turismo, Cultura e Esporte",False
+2020-2023,0702,0705,0.0,0.24341183515199433,2016-2019,0.24341183515199433,True,Secretaria de Estado da Segurança Pública,Secretaria de Estado da Segurança Pública,True
+2020-2023,0702,0706,0.0,0.22472720085109846,2016-2019,0.22472720085109846,True,Secretaria de Estado da Segurança Pública,Secretaria de Estado da Segurança Pública,True
+2020-2023,0702,0707,0.0,0.08487730578502788,2016-2019,0.08487730578502788,False,Secretaria de Estado da Segurança Pública,Secretaria de Estado da Segurança Pública,True
+2020-2023,0703,0705,0.0,0.029163472248000286,2016-2019,0.029163472248000286,False,Secretaria de Estado da Segurança Pública,Secretaria de Estado da Segurança Pública,True
+2020-2023,0703,0707,0.0,0.32568222508338585,2016-2019,0.32568222508338585,True,Secretaria de Estado da Segurança Pública,Secretaria de Estado da Segurança Pública,True
+2020-2023,0704,0706,0.0,0.8498369490798853,2016-2019,0.8498369490798853,True,Secretaria de Estado da Segurança Pública,Secretaria de Estado da Segurança Pública,True
+2020-2023,0704,0707,0.0,0.04584139276262074,2016-2019,0.04584139276262074,False,Secretaria de Estado da Segurança Pública,Secretaria de Estado da Segurança Pública,True
+2020-2023,0704,0708,0.0,0.0007225586400483431,2016-2019,0.0007225586400483431,False,Secretaria de Estado da Segurança Pública,Secretaria de Estado da Segurança Pública,True
+2020-2023,0730,0730,0.0,0.029917543670017154,2016-2019,0.029917543670017154,False,Defesa Civil,Secretaria de Estado da Defesa Civil,True
+2020-2023,0735,0735,0.4782608695652174,0.0,2016-2019,0.4782608695652174,True,Defesa Civil,Secretaria de Estado da Defesa Civil,True
+2020-2023,0745,0745,0.625,0.11131232016026336,2016-2019,0.625,True,Defensoria Pública do Estado de Santa Catarina,Secretaria de Estado da Justiça e Cidadania,False
+2020-2023,0745,0850,0.0,0.8482684224621303,2016-2019,0.8482684224621303,True,Defensoria Pública do Estado de Santa Catarina,Secretaria de Estado da Administração,False
+2020-2023,0745,0900,0.0,0.029103416646828674,2016-2019,0.029103416646828674,False,Defensoria Pública do Estado de Santa Catarina,Secretaria de Estado da Administração,False
+2020-2023,0750,0740,0.0,0.1301394604122556,2016-2019,0.1301394604122556,False,Secretaria de Estado da Administração Prisional e Socioeducativa,Secretaria de Estado da Justiça e Cidadania,False
+2020-2023,0750,0750,0.0,0.13524738013775095,2016-2019,0.13524738013775095,False,Secretaria de Estado da Administração Prisional e Socioeducativa,Secretaria de Estado da Justiça e Cidadania,False
+2020-2023,0750,0850,0.0,0.5822150439195951,2016-2019,0.5822150439195951,True,Secretaria de Estado da Administração Prisional e Socioeducativa,Secretaria de Estado da Administração,True
+2020-2023,0750,0900,0.0,0.10626042397065896,2016-2019,0.10626042397065896,False,Secretaria de Estado da Administração Prisional e Socioeducativa,Secretaria de Estado da Administração,True
+2020-2023,0760,0760,0.16666666666666666,0.9659614787580875,2016-2019,0.9659614787580875,True,Secretaria de Estado da Administração Prisional e Socioeducativa,Secretaria de Estado da Justiça e Cidadania,False
+2020-2023,0810,0810,1.0,0.15125820143801527,2016-2019,1.0,True,Casa Civil,Gabinete do Governador do Estado,False
+2020-2023,0830,0830,0.0,0.001417567032890975,2016-2019,0.001417567032890975,False,Secretaria de Estado da Fazenda,Secretaria de Estado da Fazenda,True
+2020-2023,0850,0850,0.0,0.9819322209136295,2016-2019,0.9819322209136295,True,Secretaria de Estado da Administração,Secretaria de Estado da Administração,True
+2020-2023,0855,0708,0.0,0.17762057766667988,2016-2019,0.17762057766667988,False,Secretaria de Estado da Administração,Secretaria de Estado da Segurança Pública,False
+2020-2023,0855,0855,0.0,0.06188536226320684,2016-2019,0.06188536226320684,False,Secretaria de Estado da Administração,Secretaria de Estado da Administração,True
+2020-2023,0860,0860,1.0,0.7783594357156148,2016-2019,1.0,True,Instituto de Previdência do Estado de Santa Catarina,Secretaria de Estado da Administração,False
+2020-2023,0870,0870,0.0,1.0,2016-2019,1.0,True,Secretaria de Estado da Administração,Secretaria de Estado da Administração,True
+2020-2023,0875,0850,0.0,0.4714832361516035,2016-2019,0.4714832361516035,True,Procuradoria-Geral do Estado,Secretaria de Estado da Administração,False
+2020-2023,0875,0900,0.0,0.3895271501457726,2016-2019,0.3895271501457726,True,Procuradoria-Geral do Estado,Secretaria de Estado da Administração,False
+2020-2023,0890,0850,0.0,0.6518438746919142,2016-2019,0.6518438746919142,True,Agência de Regulação de Serviços Públicos de Santa Catarina,Secretaria de Estado da Administração,False
+2020-2023,0890,0900,0.0,0.2809050951711011,2016-2019,0.2809050951711011,True,Agência de Regulação de Serviços Públicos de Santa Catarina,Secretaria de Estado da Administração,False
+2020-2023,0890,0950,0.17857142857142858,0.04134660165741841,2016-2019,0.17857142857142858,False,Agência de Regulação de Serviços Públicos de Santa Catarina,Secretaria de Estado do Desenvolvimento Econômico Sustentável,False
+2020-2023,0900,0400,0.0,0.0038464137761183704,2016-2019,0.0038464137761183704,False,Secretaria de Estado da Administração,Secretaria de Estado da Saúde,False
+2020-2023,0900,0830,0.0,0.004521663082962707,2016-2019,0.004521663082962707,False,Secretaria de Estado da Administração,Secretaria de Estado da Fazenda,False
+2020-2023,0900,0900,1.0,0.8267828011203402,2016-2019,1.0,True,Secretaria de Estado da Administração,Secretaria de Estado da Administração,True
+2020-2023,0910,0910,0.0,0.6281085309646354,2016-2019,0.6281085309646354,True,Ministério Público de Santa Catarina,Ministério Público,True
+2020-2023,0915,0915,0.0,1.0,2016-2019,1.0,True,Ministério Público de Santa Catarina,Ministério Público,True
+2020-2023,0920,0900,0.7142857142857143,0.0,2016-2019,0.7142857142857143,True,Assembleia Legislativa do Estado de Santa Catarina,Secretaria de Estado da Administração,False
+2020-2023,0920,0920,0.2857142857142857,0.9717813051146384,2016-2019,0.9717813051146384,True,Assembleia Legislativa do Estado de Santa Catarina,Assembleia Legislativa do Estado,True
+2020-2023,0921,0810,0.7222222222222222,0.0,2016-2019,0.7222222222222222,True,Assembleia Legislativa do Estado de Santa Catarina,Gabinete do Governador do Estado,False
+2020-2023,0921,0820,0.2777777777777778,1.0,2016-2019,1.0,True,Assembleia Legislativa do Estado de Santa Catarina,Assembleia Legislativa do Estado,True
+2020-2023,0925,0925,1.0,1.0,2016-2019,1.0,True,Assembleia Legislativa do Estado de Santa Catarina,Assembleia Legislativa do Estado,True
+2020-2023,0930,0900,0.7142857142857143,0.0,2016-2019,0.7142857142857143,True,Tribunal de Justiça do Estado de Santa Catarina,Secretaria de Estado da Administração,False
+2020-2023,0930,0930,0.2857142857142857,0.8421814887569874,2016-2019,0.8421814887569874,True,Tribunal de Justiça do Estado de Santa Catarina,Tribunal de Justiça do Estado,True
+2020-2023,0931,0930,0.0,0.20234018213423371,2016-2019,0.20234018213423371,True,Tribunal de Justiça do Estado de Santa Catarina,Tribunal de Justiça do Estado,True
+2020-2023,0931,0931,0.9,0.2619446817408595,2016-2019,0.9,True,Tribunal de Justiça do Estado de Santa Catarina,Tribunal de Justiça do Estado,True
+2020-2023,0935,0900,0.7142857142857143,0.0,2016-2019,0.7142857142857143,True,Tribunal de Contas do Estado de Santa Catarina,Secretaria de Estado da Administração,False
+2020-2023,0935,0935,0.2857142857142857,1.0,2016-2019,1.0,True,Tribunal de Contas do Estado de Santa Catarina,Tribunal de Contas do Estado,True
+2020-2023,0990,0101,0.0,2.9451545571145076e-07,2016-2019,2.9451545571145076e-07,False,Secretaria de Estado da Fazenda,Secretaria de Estado da Fazenda,True
+2020-2023,0990,0900,0.0,0.14993045561630677,2016-2019,0.14993045561630677,False,Secretaria de Estado da Fazenda,Secretaria de Estado da Administração,False
+2020-2023,0990,0990,0.38461538461538464,0.6196680152660443,2016-2019,0.6196680152660443,True,Secretaria de Estado da Fazenda,Secretaria de Estado da Fazenda,True
+2024-2027,0100,0100,1.0,1.0,2020-2023,1.0,True,Secretaria de Estado da Casa Civil,Casa Civil,True
+2024-2027,0101,0100,0.0,0.0,2020-2023,0.0,False,Secretaria de Estado da Casa Civil,Casa Civil,True
+2024-2027,0101,0101,0.0,1.0,2020-2023,1.0,True,Secretaria de Estado da Casa Civil,Casa Civil,True
+2024-2027,0105,0105,1.0,0.9341262580054894,2020-2023,1.0,True,Secretaria de Estado da Infraestrutura e Mobilidade,Secretaria de Estado da Infraestrutura e Mobilidade,True
+2024-2027,0105,0120,0.0,0.036596523330283626,2020-2023,0.036596523330283626,False,Secretaria de Estado da Infraestrutura e Mobilidade,Secretaria de Estado da Infraestrutura e Mobilidade,True
+2024-2027,0110,0101,0.0,0.015817255684429567,2020-2023,0.015817255684429567,False,Secretaria de Estado da Infraestrutura e Mobilidade,Casa Civil,False
+2024-2027,0110,0110,1.0,0.9485939190256039,2020-2023,1.0,True,Secretaria de Estado da Infraestrutura e Mobilidade,Secretaria de Estado da Infraestrutura e Mobilidade,True
+2024-2027,0115,0115,1.0,1.0,2020-2023,1.0,True,Secretaria de Estado da Infraestrutura e Mobilidade,Secretaria de Estado da Infraestrutura e Mobilidade,True
+2024-2027,0120,0110,0.0,0.1438867385983044,2020-2023,0.1438867385983044,False,"Secretaria de Estado de Portos, Aeroportos e Ferrovias",Secretaria de Estado da Infraestrutura e Mobilidade,False
+2024-2027,0120,0120,0.0,0.11510939087864352,2020-2023,0.11510939087864352,False,"Secretaria de Estado de Portos, Aeroportos e Ferrovias",Secretaria de Estado da Infraestrutura e Mobilidade,False
+2024-2027,0130,0130,1.0,1.0,2020-2023,1.0,True,Secretaria de Estado da Infraestrutura e Mobilidade,Secretaria de Estado da Infraestrutura e Mobilidade,True
+2024-2027,0140,0140,1.0,0.9889360581609294,2020-2023,1.0,True,Secretaria de Estado da Infraestrutura e Mobilidade,Secretaria de Estado da Infraestrutura e Mobilidade,True
+2024-2027,0145,0145,1.0,0.9321533923303835,2020-2023,1.0,True,Secretaria de Estado da Infraestrutura e Mobilidade,Secretaria de Estado da Infraestrutura e Mobilidade,True
+2024-2027,0150,0150,1.0,0.0,2020-2023,1.0,True,"Secretaria de Estado de Portos, Aeroportos e Ferrovias",Secretaria de Estado da Infraestrutura e Mobilidade,False
+2024-2027,0160,0160,1.0,0.9899783350637492,2020-2023,1.0,True,Centrais Elétricas de Santa Catarina S.A.,Centrais Elétricas de Santa Catarina S.A.,True
+2024-2027,0182,0182,1.0,0.9982923401712138,2020-2023,1.0,True,Centrais Elétricas de Santa Catarina S.A.,Centrais Elétricas de Santa Catarina S.A.,True
+2024-2027,0188,0188,1.0,0.9938476100331283,2020-2023,1.0,True,SC Participações e Parcerias S.A.,SC Participações e Parcerias S.A.,True
+2024-2027,0190,0190,1.0,0.7851266712151643,2020-2023,1.0,True,Companhia de Gás de Santa Catarina - SCGÁS,Companhia de Gás de Santa Catarina - SCGÁS,True
+2024-2027,0200,0200,0.23333333333333334,0.9714063056102011,2020-2023,0.9714063056102011,True,Agência de Fomento do Estado de Santa Catarina S.A.,Agência de Fomento do Estado de Santa Catarina S.A.,True
+2024-2027,0210,0210,0.0,0.8817608085068337,2020-2023,0.8817608085068337,True,Superintendência de Desenvolvimento da Região Metropolitana de Santa Catarina - SUDESC,Secretaria de Estado do Desenvolvimento Econômico Sustentável,False
+2024-2027,0211,0211,1.0,0.9696599431052634,2020-2023,1.0,True,Instituto de Metrologia de Santa Catarina,Instituto de Metrologia de Santa Catarina,True
+2024-2027,0220,0220,1.0,0.0,2020-2023,1.0,True,Centro de Informática e Automação do Estado de Santa Catarina S.A,Centro de Informática e Automação do Estado de Santa Catarina S.A,True
+2024-2027,0230,0230,0.0,0.11530394503244183,2020-2023,0.11530394503244183,False,"Secretaria de Estado da Ciência, Tecnologia e Inovação",Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina,False
+2024-2027,0310,0310,0.7142857142857143,0.9765075954847325,2020-2023,0.9765075954847325,True,Secretaria de Estado da Agricultura - SAR,"Secretaria de Estado da Agricultura, da Pesca e do Desenvolvimento Rural",True
+2024-2027,0315,0315,1.0,0.9980361417475181,2020-2023,1.0,True,Companhia Integrada de Desenvolvimento Agrícola de Santa Catarina,Companhia Integrada de Desenvolvimento Agrícola de Santa Catarina,True
+2024-2027,0320,0100,0.0,0.00021628579009388372,2020-2023,0.00021628579009388372,False,Secretaria de Estado da Agricultura - SAR,Casa Civil,False
+2024-2027,0320,0300,0.0,0.35359209332688585,2020-2023,0.35359209332688585,True,Secretaria de Estado da Agricultura - SAR,"Secretaria de Estado da Agricultura, da Pesca e do Desenvolvimento Rural",True
+2024-2027,0320,0320,0.2222222222222222,0.2788378034469358,2020-2023,0.2788378034469358,True,Secretaria de Estado da Agricultura - SAR,"Secretaria de Estado da Agricultura, da Pesca e do Desenvolvimento Rural",True
+2024-2027,0340,0340,1.0,0.0,2020-2023,1.0,True,Instituto do Meio Ambiente do Estado de Santa Catarina - IMA,Instituto do Meio Ambiente do Estado de Santa Catarina,True
+2024-2027,0342,0342,1.0,0.8431660698051944,2020-2023,1.0,True,Secretaria de Estado da Indústria do Comércio e do Serviço,Secretaria de Estado do Desenvolvimento Econômico Sustentável,False
+2024-2027,0343,0343,1.0,0.5,2020-2023,1.0,True,Secretaria de Estado da Indústria do Comércio e do Serviço,Secretaria de Estado do Desenvolvimento Econômico Sustentável,False
+2024-2027,0348,0348,1.0,0.0,2020-2023,1.0,True,Secretaria de Estado do Meio Ambiente e da Economia Verde,Secretaria de Estado do Desenvolvimento Econômico Sustentável,False
+2024-2027,0350,0350,1.0,0.6795016987542469,2020-2023,1.0,True,Secretaria de Estado do Meio Ambiente e da Economia Verde,Secretaria de Estado do Desenvolvimento Econômico Sustentável,False
+2024-2027,0353,0342,0.0,0.7720602615141564,2020-2023,0.7720602615141564,True,Secretaria de Estado da Indústria do Comércio e do Serviço,Secretaria de Estado do Desenvolvimento Econômico Sustentável,False
+2024-2027,0360,0360,1.0,1.0,2020-2023,1.0,True,Companhia Catarinense de Águas e Saneamento - CASAN,Companhia Catarinense de Águas e Saneamento - CASAN,True
+2024-2027,0365,0365,1.0,0.9855640520197884,2020-2023,1.0,True,Companhia Catarinense de Águas e Saneamento - CASAN,Companhia Catarinense de Águas e Saneamento - CASAN,True
+2024-2027,0370,0370,1.0,0.0,2020-2023,1.0,True,Companhia Catarinense de Águas e Saneamento - CASAN,Companhia Catarinense de Águas e Saneamento - CASAN,True
+2024-2027,0400,0400,0.0,0.6025324635241999,2020-2023,0.6025324635241999,True,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2024-2027,0400,0430,0.0,0.02598861949050623,2020-2023,0.02598861949050623,False,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2024-2027,0400,0900,0.0,0.3220663039947466,2020-2023,0.3220663039947466,True,Secretaria de Estado da Saúde,Secretaria de Estado da Administração,False
+2024-2027,0410,0410,0.0,1.0,2020-2023,1.0,True,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2024-2027,0420,0420,0.0,0.8043679852821509,2020-2023,0.8043679852821509,True,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2024-2027,0420,0440,0.0,0.19563201471784913,2020-2023,0.19563201471784913,False,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2024-2027,0430,0400,0.0,0.10920002734885582,2020-2023,0.10920002734885582,False,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2024-2027,0430,0420,0.0,0.003958816554288219,2020-2023,0.003958816554288219,False,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2024-2027,0430,0430,0.0,0.8235525151074548,2020-2023,0.8235525151074548,True,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2024-2027,0430,0440,0.0,0.022073482034116392,2020-2023,0.022073482034116392,False,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2024-2027,0430,0450,0.0,0.027897132990586077,2020-2023,0.027897132990586077,False,Secretaria de Estado da Saúde,Secretaria de Estado da Saúde,True
+2024-2027,0520,0520,1.0,1.0,2020-2023,1.0,True,Fundação Catarinense de Educação Especial,Fundação Catarinense de Educação Especial,True
+2024-2027,0521,0520,0.1794871794871795,1.0,2020-2023,1.0,True,Fundação Catarinense de Educação Especial,Fundação Catarinense de Educação Especial,True
+2024-2027,0560,0560,0.0,0.8645752272473404,2020-2023,0.8645752272473404,True,"Secretaria de Estado da Assistência Social, Mulher e Família - SAS",Secretaria de Estado do Desenvolvimento Social,True
+2024-2027,0610,0610,1.0,0.9654949635841575,2020-2023,1.0,True,Secretaria de Estado da Educação,Secretaria de Estado da Educação,True
+2024-2027,0623,0623,1.0,1.0,2020-2023,1.0,True,Secretaria de Estado da Educação,Secretaria de Estado da Educação,True
+2024-2027,0625,0625,1.0,1.0,2020-2023,1.0,True,Secretaria de Estado da Educação,Secretaria de Estado da Educação,True
+2024-2027,0626,0626,0.7741935483870968,1.0,2020-2023,1.0,True,Secretaria de Estado da Educação,Secretaria de Estado da Educação,True
+2024-2027,0627,0627,1.0,1.0,2020-2023,1.0,True,Secretaria de Estado da Educação,Secretaria de Estado da Educação,True
+2024-2027,0630,0230,0.0,0.1250093803316487,2020-2023,0.1250093803316487,False,Fundação Universidade do Estado de Santa Catarina,Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina,True
+2024-2027,0630,0630,1.0,0.8709115938823769,2020-2023,1.0,True,Fundação Universidade do Estado de Santa Catarina,Fundação Universidade do Estado de Santa Catarina,True
+2024-2027,0635,0635,1.0,0.0,2020-2023,1.0,True,Fundação Catarinense de Esporte,Fundação Catarinense de Esporte,True
+2024-2027,0640,0640,1.0,0.02515294246666858,2020-2023,1.0,True,Secretaria de Estado do Turismo,Agência Desenvolvimento do Turismo de Santa Catarina,True
+2024-2027,0650,0650,1.0,0.6736996919991548,2020-2023,1.0,True,Fundação Catarinense de Esporte,Fundação Catarinense de Esporte,True
+2024-2027,0660,0660,0.5217391304347826,0.0,2020-2023,0.5217391304347826,True,Fundação Catarinense de Cultura,Fundação Catarinense de Cultura,True
+2024-2027,0701,0701,1.0,0.8867708411468026,2020-2023,1.0,True,Secretaria de Estado da Segurança Pública,Secretaria de Estado da Segurança Pública,True
+2024-2027,0702,0702,1.0,1.0,2020-2023,1.0,True,Secretaria de Estado da Segurança Pública,Secretaria de Estado da Segurança Pública,True
+2024-2027,0703,0703,1.0,1.0,2020-2023,1.0,True,Secretaria de Estado da Segurança Pública,Secretaria de Estado da Segurança Pública,True
+2024-2027,0704,0701,0.0,0.0028410243562664796,2020-2023,0.0028410243562664796,False,Secretaria de Estado da Segurança Pública,Secretaria de Estado da Segurança Pública,True
+2024-2027,0704,0704,1.0,0.9888698979012346,2020-2023,1.0,True,Secretaria de Estado da Segurança Pública,Secretaria de Estado da Segurança Pública,True
+2024-2027,0730,0730,1.0,0.021290154059968487,2020-2023,1.0,True,Secretaria de Estado da Proteção e Defesa Civil,Defesa Civil,True
+2024-2027,0735,0735,1.0,0.0,2020-2023,1.0,True,Secretaria de Estado da Proteção e Defesa Civil,Defesa Civil,True
+2024-2027,0745,0745,1.0,1.0,2020-2023,1.0,True,Defensoria Pública do Estado de Santa Catarina,Defensoria Pública do Estado de Santa Catarina,True
+2024-2027,0750,0750,1.0,0.9735518005108138,2020-2023,1.0,True,Secretaria de Estado da Administração Prisional e Socioeducativa,Secretaria de Estado da Administração Prisional e Socioeducativa,True
+2024-2027,0760,0760,1.0,0.8167846019413783,2020-2023,1.0,True,Secretaria de Estado da Administração Prisional e Socioeducativa,Secretaria de Estado da Administração Prisional e Socioeducativa,True
+2024-2027,0770,0770,0.0,0.8580096578954124,2020-2023,0.8580096578954124,True,Departamento Estadual de Trânsito,Departamento Estadual de Trânsito,True
+2024-2027,0810,0810,1.0,0.21520583927586667,2020-2023,1.0,True,Secretaria de Estado da Comunicação,Casa Civil,False
+2024-2027,0825,0825,1.0,0.0,2020-2023,1.0,True,Fundação Escola de Governo,Fundação Escola de Governo,True
+2024-2027,0830,0830,1.0,0.6327811330366266,2020-2023,1.0,True,Secretaria de Estado da Fazenda,Secretaria de Estado da Fazenda,True
+2024-2027,0845,0845,0.0,0.3333333333333333,2020-2023,0.3333333333333333,True,Controladoria-Geral do Estado,Controladoria-Geral do Estado,True
+2024-2027,0850,0850,1.0,0.9603422882640403,2020-2023,1.0,True,Secretaria de Estado da Administração,Secretaria de Estado da Administração,True
+2024-2027,0855,0855,0.5254237288135594,0.8703781359923254,2020-2023,0.8703781359923254,True,Secretaria de Estado da Administração,Secretaria de Estado da Administração,True
+2024-2027,0860,0860,1.0,1.0,2020-2023,1.0,True,Instituto de Previdência do Estado de Santa Catarina,Instituto de Previdência do Estado de Santa Catarina,True
+2024-2027,0870,0870,1.0,0.9647859648921117,2020-2023,1.0,True,Secretaria de Estado da Administração,Secretaria de Estado da Administração,True
+2024-2027,0875,0875,1.0,1.0,2020-2023,1.0,True,Procuradoria-Geral do Estado,Procuradoria-Geral do Estado,True
+2024-2027,0880,0880,1.0,1.0,2020-2023,1.0,True,Controladoria-Geral do Estado,Controladoria-Geral do Estado,True
+2024-2027,0900,0212,0.0,0.00012032433791069816,2020-2023,0.00012032433791069816,False,Secretaria de Estado da Administração,Casa Civil,False
+2024-2027,0900,0900,1.0,0.914916836305734,2020-2023,1.0,True,Secretaria de Estado da Administração,Secretaria de Estado da Administração,True
+2024-2027,0910,0910,1.0,0.9960488711046671,2020-2023,1.0,True,Ministério Público de Santa Catarina,Ministério Público de Santa Catarina,True
+2024-2027,0915,0915,1.0,1.0,2020-2023,1.0,True,Ministério Público de Santa Catarina,Ministério Público de Santa Catarina,True
+2024-2027,0920,0900,0.7142857142857143,0.0,2020-2023,0.7142857142857143,True,Assembleia Legislativa do Estado de Santa Catarina,Secretaria de Estado da Administração,False
+2024-2027,0920,0920,0.2857142857142857,0.9759891104941941,2020-2023,0.9759891104941941,True,Assembleia Legislativa do Estado de Santa Catarina,Assembleia Legislativa do Estado de Santa Catarina,True
+2024-2027,0921,0810,0.7222222222222222,0.0,2020-2023,0.7222222222222222,True,Assembleia Legislativa do Estado de Santa Catarina,Casa Civil,False
+2024-2027,0921,0921,0.2777777777777778,1.0,2020-2023,1.0,True,Assembleia Legislativa do Estado de Santa Catarina,Assembleia Legislativa do Estado de Santa Catarina,True
+2024-2027,0922,0922,1.0,1.0,2020-2023,1.0,True,Assembleia Legislativa do Estado de Santa Catarina,Assembleia Legislativa do Estado de Santa Catarina,True
+2024-2027,0925,0925,1.0,1.0,2020-2023,1.0,True,Assembleia Legislativa do Estado de Santa Catarina,Assembleia Legislativa do Estado de Santa Catarina,True
+2024-2027,0926,0930,0.18181818181818182,0.9704801530752817,2020-2023,0.9704801530752817,True,Tribunal de Justiça do Estado de Santa Catarina,Tribunal de Justiça do Estado de Santa Catarina,True
+2024-2027,0926,0931,0.0,0.029509311764327865,2020-2023,0.029509311764327865,False,Tribunal de Justiça do Estado de Santa Catarina,Tribunal de Justiça do Estado de Santa Catarina,True
+2024-2027,0927,0930,0.0,0.3592604563741656,2020-2023,0.3592604563741656,True,Tribunal de Justiça do Estado de Santa Catarina,Tribunal de Justiça do Estado de Santa Catarina,True
+2024-2027,0927,0931,0.0,0.6407395436258344,2020-2023,0.6407395436258344,True,Tribunal de Justiça do Estado de Santa Catarina,Tribunal de Justiça do Estado de Santa Catarina,True
+2024-2027,0928,0930,0.0,0.10404500459647324,2020-2023,0.10404500459647324,False,Tribunal de Justiça do Estado de Santa Catarina,Tribunal de Justiça do Estado de Santa Catarina,True
+2024-2027,0928,0931,0.0,0.8854394182354711,2020-2023,0.8854394182354711,True,Tribunal de Justiça do Estado de Santa Catarina,Tribunal de Justiça do Estado de Santa Catarina,True
+2024-2027,0929,0930,0.0,0.989446367208443,2020-2023,0.989446367208443,True,Tribunal de Justiça do Estado de Santa Catarina,Tribunal de Justiça do Estado de Santa Catarina,True
+2024-2027,0929,0931,0.0,0.010553632791556926,2020-2023,0.010553632791556926,False,Tribunal de Justiça do Estado de Santa Catarina,Tribunal de Justiça do Estado de Santa Catarina,True
+2024-2027,0932,0931,0.0,0.7645011617501662,2020-2023,0.7645011617501662,True,Tribunal de Justiça do Estado de Santa Catarina,Tribunal de Justiça do Estado de Santa Catarina,True
+2024-2027,0935,0900,0.7142857142857143,0.0,2020-2023,0.7142857142857143,True,Tribunal de Contas do Estado de Santa Catarina,Secretaria de Estado da Administração,False
+2024-2027,0935,0935,0.2857142857142857,0.991118003908897,2020-2023,0.991118003908897,True,Tribunal de Contas do Estado de Santa Catarina,Tribunal de Contas do Estado de Santa Catarina,True
+2024-2027,0990,0990,1.0,1.0,2020-2023,1.0,True,Secretaria de Estado da Fazenda,Secretaria de Estado da Fazenda,True
+2024-2027,0999,0999,0.0,1.0,2020-2023,1.0,True,Secretaria de Estado da Fazenda,Secretaria de Estado da Fazenda,True

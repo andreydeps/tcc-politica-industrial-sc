@@ -10,6 +10,8 @@ Mineração de texto sobre os Planos Plurianuais (PPAs) de Santa Catarina para m
 
 - **Colab:** clique no botão acima. O notebook já vem com as saídas salvas; para rodar de novo, *Ambiente de execução > Executar tudo* (a primeira célula instala as dependências, alguns minutos).
 - **Resultados para a reunião de 13/11/2026 (só leitura dos resultados salvos):** [abrir no Colab](https://colab.research.google.com/github/andreydeps/tcc-politica-industrial-sc/blob/main/notebooks/reuniao_2026-11-13.ipynb).
+- **Análise do PPA inteiro (contagem e % de lemas, público-alvo, subações, texto copiado, governos):** [abrir no Colab](https://colab.research.google.com/github/andreydeps/tcc-politica-industrial-sc/blob/main/notebooks/analise_ppa_inteiro.ipynb).
+- **Redes (termos, programas, oferta e demanda, genealogia dos programas):** [abrir no Colab](https://colab.research.google.com/github/andreydeps/tcc-politica-industrial-sc/blob/main/notebooks/redes_ppa.ipynb).
 - **Estado atual do trabalho:** [`saidas/estado_do_trabalho_2026-11-12_v7.docx`](saidas/estado_do_trabalho_2026-11-12_v7.docx).
 
 ## Estrutura

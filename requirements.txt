@@ -10,3 +10,4 @@ openpyxl
 jupyter
 ipykernel
 nbconvert
+networkx

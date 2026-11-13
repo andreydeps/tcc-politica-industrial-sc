@@ -1,0 +1,412 @@
+periodo,codigo,nome,selecionado,evento,pai principal,mesmo código do pai,mesmo dono do pai,pais
+2008-2011,0100,ProPav Rural,0,novo,,,,
+2008-2011,0105,ProPav Urbano,0,novo,,,,
+2008-2011,0110,ProPav Rodoviário,0,novo,,,,
+2008-2011,0115,Gestão do Sistema de Transporte Intermunicipal de Pessoas,0,novo,,,,
+2008-2011,0120,Integração Logística,0,novo,,,,
+2008-2011,0130,Conservação e Segurança Rodoviária,0,novo,,,,
+2008-2011,0140,Reabilitação e Aumento de Capacidade de Rodovias,0,novo,,,,
+2008-2011,0150,Modernização Portuária,0,um pai,0680,,False,0680 (58%)
+2008-2011,0160,Geração de Energia Elétrica,0,um pai,0685,,True,0685 (39%)
+2008-2011,0170,Luz para Todos,0,um pai,0627,,True,0627 (100%)
+2008-2011,0180,Ampliação das Redes de Distribuição de Energia,0,um pai,0690,,True,0690 (65%)
+2008-2011,0190,Expansão do Gás Natural,0,novo,,,,
+2008-2011,0200,Competitividade e Excelência Econômica,1,novo,,,,
+2008-2011,0205,Ação Conjunta de Revitalização e Desenvolvimento - ACORDE,0,novo,,,,
+2008-2011,0210,"Estudos, Projetos e Informações Estratégicas",1,um pai,0240,,False,0240 (57%)
+2008-2011,0220,Governança Eletrônica,0,um pai,0502,,False,0502 (33%)
+2008-2011,0230,Inovar - Fomento à Pesquisa ao Desenvolvimento e à Inovação,1,novo,,,,
+2008-2011,0240,Prodetur/SC - Fomento e Desenvolvimento do Turismo,0,novo,,,,
+2008-2011,0250,Inclusão Digital,1,um pai,0214,,False,0214 (52%)
+2008-2011,0300,Qualidade de Vida no Campo e na Cidade,0,novo,,,,
+2008-2011,0310,Agronegócio Competitivo,0,novo,,,,
+2008-2011,0320,Agricultura Familiar,0,novo,,,,
+2008-2011,0335,Santa Catarina Rural - Microbacias 3,0,novo,,,,
+2008-2011,0340,Desenvolvimento Ambiental Sustentável,0,novo,,,,
+2008-2011,0350,Gestão dos Recursos Hídricos,0,um pai,0311,,True,0311 (72%)
+2008-2011,0360,Abastecimento de Água e Esgoto Sanitário,0,um pai,0299,,True,0299 (42%)
+2008-2011,0410,Vigilância em Saúde,0,novo,,,,
+2008-2011,0420,Estratégia de Saúde da Família,0,novo,,,,
+2008-2011,0430,Descentralização da Média e Alta Complexidade,0,novo,,,,
+2008-2011,0440,Educação Permanente para o Sistema Único de Saúde,0,novo,,,,
+2008-2011,0500,Gestão Estadual da Política de Assistência Social,0,novo,,,,
+2008-2011,0510,Proteção Social Básica e Especial,0,novo,,,,
+2008-2011,0520,Cidadania e Diversidade,0,novo,,,,
+2008-2011,0530,Pró-Emprego e Renda,0,novo,,,,
+2008-2011,0540,Nova Casa,0,novo,,,,
+2008-2011,0550,Erradicação da Fome em Santa Catarina,0,novo,,,,
+2008-2011,0600,Novos Valores,0,um pai,0120,,True,0120 (27%)
+2008-2011,0610,Gestão do Ensino Fundamental,0,novo,,,,
+2008-2011,0620,Pró Ensino Médio,0,novo,,,,
+2008-2011,0630,Gestão do Ensino Superior,0,um pai,0498,,True,0498 (84%)
+2008-2011,0640,Pró-Turismo,0,novo,,,,
+2008-2011,0650,Pró-Esporte,0,novo,,,,
+2008-2011,0660,Pró-Cultura,0,novo,,,,
+2008-2011,0710,Melhoria da Segurança Pública,0,novo,,,,
+2008-2011,0720,Segurança Cidadã,0,novo,,,,
+2008-2011,0730,Prevenção em Situações de Risco e Salvamento,0,novo,,,,
+2008-2011,0740,Reestruturação do Sistema Prisional,0,novo,,,,
+2008-2011,0800,Ordenamento e Controle Territorial,0,um pai,0320,,False,0320 (100%)
+2008-2011,0810,Comunicação do Poder Executivo,0,um pai,0520,,True,0520 (100%)
+2008-2011,0820,Comunicação do Poder Legislativo,0,um pai,0950,,True,0950 (38%)
+2008-2011,0830,Modernização da Administração Pública,0,novo,,,,
+2008-2011,0840,PNAGE - Programa Nacional de Apoio à Modernização da Gestão e do Planejamento de SC,0,um pai,0550,,False,0550 (24%)
+2008-2011,0850,Qualificação e Valorização dos Servidores Públicos,0,novo,,,,
+2008-2011,0860,Gestão Previdenciária,0,novo,,,,
+2008-2011,0870,Pensões Especiais,0,um pai,0160,,True,0160 (100%)
+2008-2011,0900,Gestão Administrativa - Poder Executivo,0,um pai,0110,,False,0110 (62%)
+2008-2011,0905,Gestão Administrativa - Celesc,0,um pai,0600,,True,0600 (33%)
+2008-2011,0910,Gestão Administrativa - Ministério Público,0,um pai,0110,,False,0110 (71%)
+2008-2011,0920,Gestão Administrativa - Poder Legislativo,0,um pai,0110,,False,0110 (62%)
+2008-2011,0930,Gestão Administrativa - Poder Judiciário,0,um pai,0110,,False,0110 (71%)
+2008-2011,0940,Gestão Estratégica - Ministério Público,0,um pai,0900,,True,0900 (100%)
+2008-2011,0950,Defesa dos Interesses Sociais,0,um pai,0910,,True,0910 (100%)
+2008-2011,0960,Modernização do Processo Legislativo,0,um pai,0940,,True,0940 (22%)
+2008-2011,0970,Infra-Estrutura do Judiciário,0,um pai,0930,,True,0930 (69%)
+2008-2011,0990,Encargos Especiais,0,novo,,,,
+2012-2015,0220,Governança Eletrônica,0,um pai,0220,True,True,0220 (42%)
+2012-2015,0600,Novos Valores,0,um pai,0600,True,True,0600 (100%)
+2012-2015,0810,Comunicação do Poder Executivo,0,um pai,0810,True,False,0810 (92%)
+2012-2015,0825,Formação de Gestores Públicos,0,novo,,,,
+2012-2015,0830,Modernização da Administração Fazendária,0,um pai,0830,True,True,0830 (100%)
+2012-2015,0840,PNAGE - Programa Nacional de Apoio à Modernização da Gestão e do,0,um pai,0840,True,True,0840 (100%)
+2012-2015,0850,Gestão de Pessoas,0,fusão (2+ pais),0850,True,False,"0850 (100%), 0900 (72%)"
+2012-2015,0855,Saúde Ocupacional,0,novo,,,,
+2012-2015,0870,Pensões Especiais,0,um pai,0870,True,True,0870 (100%)
+2012-2015,0900,Gestão Administrativa - Poder Executivo,0,um pai,0900,True,True,0900 (100%)
+2012-2015,0990,Encargos Especiais,0,um pai,0990,True,True,0990 (100%)
+2012-2015,0100,Caminhos do Desenvolvimento,0,novo,,,,
+2012-2015,0101,Acelera Santa Catarina,0,novo,,,,
+2012-2015,0105,Mobilidade Urbana,0,novo,,,,
+2012-2015,0110,Construção de Rodovias,0,um pai,0110,True,True,0110 (61%)
+2012-2015,0115,Gestão do Sistema de Transporte Intermunicipal de Pessoas,0,um pai,0115,True,True,0115 (100%)
+2012-2015,0120,Integração Logística,0,um pai,0120,True,True,0120 (100%)
+2012-2015,0130,Conservação e Segurança Rodoviária,0,um pai,0130,True,True,0130 (93%)
+2012-2015,0140,Reabilitação e Aumento de Capacidade de Rodovias,0,um pai,0140,True,True,0140 (100%)
+2012-2015,0145,Elaboração de Projetos e Estudos de Infraestrutura,0,um pai,0210,False,False,0210 (94%)
+2012-2015,0150,Modernização Portuária,0,um pai,0150,True,True,0150 (100%)
+2012-2015,0180,Expansão do Sistema de Distribuição de Energia Elétrica,0,um pai,0180,True,True,0180 (100%)
+2012-2015,0188,Participações e Parcerias Público-Privadas,0,novo,,,,
+2012-2015,0200,Competitividade e Excelência Econômica,1,um pai,0200,True,True,0200 (100%)
+2012-2015,0210,"Estudos, Projetos e Informações Estratégicas",1,um pai,0210,True,True,0210 (100%)
+2012-2015,0212,Estratégias de Comércio Exterior e Relações Internacionais,1,novo,,,,
+2012-2015,0230,"INOVAR - Fomento à Pesquisa, ao Desenvolvimento e à Inovação",1,um pai,0230,True,True,0230 (24%)
+2012-2015,0250,Inclusão Digital,1,um pai,0250,True,True,0250 (100%)
+2012-2015,0300,Qualidade de Vida no Campo e na Cidade,0,um pai,0300,True,True,0300 (100%)
+2012-2015,0310,Agronegócio Competitivo,1,um pai,0310,True,True,0310 (100%)
+2012-2015,0315,Defesa Sanitária Agropecuária,0,um pai,0310,False,True,0310 (90%)
+2012-2015,0320,Agricultura Familiar,0,um pai,0320,True,True,0320 (100%)
+2012-2015,0335,Santa Catarina Rural - MICROBACIAS 3,0,um pai,0335,True,True,0335 (100%)
+2012-2015,0340,Desenvolvimento Ambiental Sustentável,0,um pai,0340,True,True,0340 (100%)
+2012-2015,0342,Revitalização da Economia Catarinense - PREC,1,novo,,,,
+2012-2015,0346,Tecnologia e Inovação para o Desenvolvimento Sustentável,1,novo,,,,
+2012-2015,0348,Gestão Ambiental Estratégica,0,um pai,0340,False,True,0340 (29%)
+2012-2015,0350,Gestão dos Recursos Hídricos,0,um pai,0350,True,True,0350 (100%)
+2012-2015,0360,Abastecimento de Água,0,um pai,0360,True,False,0360 (32%)
+2012-2015,0365,Esgoto Sanitário,0,um pai,0360,False,False,0360 (61%)
+2012-2015,0410,Vigilância em Saúde,0,novo,,,,
+2012-2015,0420,Atenção Básica,0,novo,,,,
+2012-2015,0510,Proteção Social Básica e Especial,0,um pai,0510,True,True,0510 (32%)
+2012-2015,0520,Cidadania e Diversidade,0,um pai,0520,True,True,0520 (100%)
+2012-2015,0530,Pró-Emprego e Renda,0,um pai,0530,True,True,0530 (66%)
+2012-2015,0540,Nova Casa,0,um pai,0540,True,True,0540 (100%)
+2012-2015,0610,Educação Básica,0,novo,,,,
+2012-2015,0615,Gestão do Ensino Profissional,0,um pai,0620,False,True,0620 (36%)
+2012-2015,0616,Valorização do Ensino,0,novo,,,,
+2012-2015,0618,Ensino Médio Pedagógico,0,novo,,,,
+2012-2015,0622,Municipalização do Ensino Fundamental,0,novo,,,,
+2012-2015,0630,Gestão do Ensino Superior,0,um pai,0630,True,True,0630 (100%)
+2012-2015,0640,Promoção do Turismo Catarinense,0,um pai,0640,True,True,0640 (100%)
+2012-2015,0650,Desenvolvimento e Fortalecimento do Esporte e do Lazer,0,novo,,,,
+2012-2015,0660,Pró-Cultura,0,um pai,0660,True,True,0660 (100%)
+2012-2015,0700,Modernização e Integração da Inteligência e Gestão do Conhecimento em,0,novo,,,,
+2012-2015,0712,Formação e Qualificação dos Profissionais da Segurança Pública,0,novo,,,,
+2012-2015,0715,Reequipamento e Apoio Operacional da Segurança Pública,0,novo,,,,
+2012-2015,0720,Santa Catarina Segura,0,novo,,,,
+2012-2015,0730,Prevenção e Preparação para Desastres,0,novo,,,,
+2012-2015,0735,Respostas aos Desastres e Recuperação,0,novo,,,,
+2012-2015,0740,Gestão do Sistema Prisional e Socioeducativo,0,novo,,,,
+2012-2015,0745,Cidadania e Direitos Humanos,0,novo,,,,
+2012-2015,0750,Expansão e Modernização do Sistema Prisional e Socioeducativo,0,um pai,0740,False,False,0740 (69%)
+2012-2015,0760,Ressocialização dos Apenados e dos Adolescentes Infratores,0,novo,,,,
+2012-2015,0950,Defesa dos Interesses Sociais,0,novo,,,,
+2012-2015,0999,Reserva de Contingência,0,novo,,,,
+2012-2015,0860,Gestão Previdenciária,0,um pai,0860,True,True,0860 (100%)
+2012-2015,0400,Gestão do SUS,0,um pai,0430,False,True,0430 (38%)
+2012-2015,0430,Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar,0,novo,,,,
+2012-2015,0440,Assistência Farmacêutica,0,novo,,,,
+2012-2015,0550,Erradicação da Fome em Santa Catarina,0,um pai,0550,True,True,0550 (100%)
+2012-2015,0160,Geração de Energia Elétrica,0,um pai,0160,True,True,0160 (100%)
+2012-2015,0186,"Comercialização, Eficientização e Medição de Energia Elétrica",0,um pai,0180,False,True,0180 (97%)
+2012-2015,0187,Adequação e Melhoria da Estrutura Empresarial - CELESC,0,um pai,0905,False,True,0905 (96%)
+2012-2015,0190,Expansão do Gás Natural,0,um pai,0190,True,False,0190 (100%)
+2012-2015,0920,Gestão Administrativa - Poder Legislativo,0,fusão (2+ pais),0920,True,True,"0920 (100%), 0900 (62%)"
+2012-2015,0935,Gestão Administrativa - Tribunal de Contas,0,fusão (2+ pais),0900,False,False,"0900 (71%), 0920 (22%)"
+2012-2015,0936,Modernização do Sistema de Controle Externo,0,um pai,0920,False,False,0920 (100%)
+2012-2015,0820,Comunicação do Poder Legislativo,0,um pai,0820,True,True,0820 (100%)
+2012-2015,0925,Modernização do Processo Legislativo,0,um pai,0960,False,True,0960 (100%)
+2012-2015,0930,Gestão Administrativa - Poder Judiciário,0,fusão (2+ pais),0930,True,True,"0930 (91%), 0900 (71%)"
+2012-2015,0931,Infraestrutura do Judiciário,0,um pai,0970,False,True,0970 (100%)
+2012-2015,0910,Gestão Administrativa - Ministério Público,0,fusão (2+ pais),0910,True,True,"0910 (87%), 0900 (71%)"
+2012-2015,0915,Gestão Estratégica - Ministério Público,0,um pai,0940,False,True,0940 (100%)
+2016-2019,0810,Comunicação do Poder Executivo,0,um pai,0810,True,True,0810 (100%)
+2016-2019,0825,Formação de Gestores Públicos,0,um pai,0825,True,True,0825 (100%)
+2016-2019,0830,Modernização da Administração Fazendária,0,um pai,0830,True,True,0830 (100%)
+2016-2019,0850,Gestão de Pessoas,0,um pai,0850,True,True,0850 (100%)
+2016-2019,0855,Saúde Ocupacional,0,um pai,0855,True,True,0855 (100%)
+2016-2019,0870,Pensões Especiais,0,um pai,0870,True,True,0870 (100%)
+2016-2019,0900,Gestão Administrativa - Poder Executivo,0,fusão (2+ pais),0900,True,True,"0900 (100%), 0850 (31%)"
+2016-2019,0990,Encargos Especiais,0,um pai,0990,True,True,0990 (100%)
+2016-2019,0100,Caminhos do Desenvolvimento,0,um pai,0100,True,True,0100 (100%)
+2016-2019,0101,Acelera Santa Catarina,0,um pai,0101,True,True,0101 (100%)
+2016-2019,0105,Mobilidade Urbana,0,um pai,0105,True,True,0105 (100%)
+2016-2019,0110,Construção de Rodovias,0,fusão (2+ pais),0110,True,True,"0110 (100%), 0105 (29%)"
+2016-2019,0115,Gestão do Sistema de Transporte Intermunicipal de Pessoas,0,um pai,0115,True,True,0115 (100%)
+2016-2019,0120,Integração Logística,0,um pai,0120,True,True,0120 (100%)
+2016-2019,0130,Conservação e Segurança Rodoviária,0,um pai,0130,True,True,0130 (100%)
+2016-2019,0140,Reabilitação e Aumento de Capacidade de Rodovias,0,um pai,0140,True,True,0140 (100%)
+2016-2019,0145,Elaboração de Projetos e Estudos de Infraestrutura,0,um pai,0145,True,True,0145 (100%)
+2016-2019,0150,Modernização Portuária,0,um pai,0150,True,True,0150 (100%)
+2016-2019,0188,Participações e Parcerias Público-Privadas,0,um pai,0188,True,True,0188 (100%)
+2016-2019,0200,Competitividade e Excelência Econômica,1,um pai,0200,True,True,0200 (100%)
+2016-2019,0204,"Missões, Recepções e Eventos Internacionais",0,novo,,,,
+2016-2019,0208,Planejamento Estratégico e Gestão de Informações,0,novo,,,,
+2016-2019,0209,Desenvolvimento e Redução das Desigualdades Regionais,0,novo,,,,
+2016-2019,0210,"Estudos, Projetos e Informações Estratégicas",1,um pai,0210,True,True,0210 (100%)
+2016-2019,0212,Promoção Comercial e Cooperação Internacional,1,novo,,,,
+2016-2019,0230,"INOVAR - Fomento à Pesquisa, ao Desenvolvimento e à Inovação",1,um pai,0230,True,True,0230 (62%)
+2016-2019,0250,Inclusão Digital,0,um pai,0250,True,True,0250 (100%)
+2016-2019,0300,Qualidade de Vida no Campo e na Cidade,0,um pai,0300,True,True,0300 (100%)
+2016-2019,0310,Agronegócio Competitivo,1,um pai,0310,True,True,0310 (100%)
+2016-2019,0315,Defesa Sanitária Agropecuária,0,um pai,0315,True,True,0315 (100%)
+2016-2019,0320,Agricultura Familiar,0,um pai,0320,True,True,0320 (100%)
+2016-2019,0335,Santa Catarina Rural - MICROBACIAS 3,0,um pai,0335,True,True,0335 (100%)
+2016-2019,0340,Desenvolvimento Ambiental Sustentável,0,um pai,0340,True,True,0340 (100%)
+2016-2019,0342,Revitalização da Economia Catarinense - PREC,1,um pai,0342,True,True,0342 (100%)
+2016-2019,0346,Tecnologia e Inovação para o Desenvolvimento Sustentável,1,um pai,0346,True,True,0346 (100%)
+2016-2019,0348,Gestão Ambiental Estratégica,0,um pai,0348,True,True,0348 (100%)
+2016-2019,0350,Gestão dos Recursos Hídricos,0,um pai,0350,True,True,0350 (100%)
+2016-2019,0360,Abastecimento de Água,0,um pai,0360,True,True,0360 (100%)
+2016-2019,0510,Sistema Único de Assistência Social - SUAS,0,um pai,0510,True,True,0510 (90%)
+2016-2019,0520,Cidadania e Diversidade,0,um pai,0520,True,True,0520 (100%)
+2016-2019,0530,Pró-Emprego e Renda,0,um pai,0530,True,True,0530 (100%)
+2016-2019,0540,Nova Casa,0,um pai,0540,True,True,0540 (100%)
+2016-2019,0610,Educação Básica,0,um pai,0610,True,True,0610 (100%)
+2016-2019,0615,Gestão do Ensino Profissional,0,um pai,0615,True,True,0615 (100%)
+2016-2019,0616,Valorização do Ensino,0,um pai,0616,True,True,0616 (100%)
+2016-2019,0623,Autonomia de gestão escolar - SED,0,um pai,0610,False,True,0610 (100%)
+2016-2019,0624,Cooperação Estado e Municípios - SED,0,novo,,,,
+2016-2019,0630,Gestão do Ensino Superior,0,um pai,0630,True,True,0630 (100%)
+2016-2019,0640,Promoção do Turismo Catarinense,0,um pai,0640,True,True,0640 (100%)
+2016-2019,0650,Desenvolvimento e Fortalecimento do Esporte e do Lazer,0,um pai,0650,True,True,0650 (100%)
+2016-2019,0660,Pró-Cultura,0,um pai,0660,True,True,0660 (100%)
+2016-2019,0705,Segurança Cidadã,0,um pai,0720,False,True,0720 (36%)
+2016-2019,0706,De Olho no Crime,0,um pai,0850,False,False,0850 (97%)
+2016-2019,0707,Suporte Institucional Integrado,0,um pai,0715,False,True,0715 (23%)
+2016-2019,0708,Valorização do Servidor - Segurança Pública,0,novo,,,,
+2016-2019,0715,Reequipamento e Apoio Operacional da Segurança Pública,0,um pai,0715,True,True,0715 (100%)
+2016-2019,0730,Prevenção e Preparação para Desastres,0,um pai,0730,True,True,0730 (100%)
+2016-2019,0731,Gestão de Riscos e Redução de Desastres,0,um pai,0730,False,True,0730 (100%)
+2016-2019,0735,Respostas aos Desastres e Recuperação,0,um pai,0735,True,True,0735 (100%)
+2016-2019,0740,Gestão do Sistema Prisional e Socioeducativo,0,um pai,0740,True,True,0740 (100%)
+2016-2019,0745,Cidadania e Direitos Humanos,0,um pai,0745,True,True,0745 (100%)
+2016-2019,0750,Expansão e Modernização do Sistema Prisional e Socioeducativo,0,um pai,0750,True,True,0750 (100%)
+2016-2019,0760,Ressocialização dos Apenados e dos Adolescentes Infratores,0,um pai,0760,True,True,0760 (100%)
+2016-2019,0950,Defesa dos Interesses Sociais,0,um pai,0950,True,True,0950 (100%)
+2016-2019,0860,Gestão Previdenciária,0,um pai,0860,True,True,0860 (100%)
+2016-2019,0400,Gestão do SUS,0,fusão (2+ pais),0400,True,True,"0400 (69%), 0410 (57%)"
+2016-2019,0410,Vigilância em Saúde,0,um pai,0410,True,True,0410 (100%)
+2016-2019,0420,Atenção Básica,0,fusão (2+ pais),0420,True,True,"0420 (99%), 0410 (61%)"
+2016-2019,0430,Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar,0,fusão (2+ pais),0430,True,True,"0430 (96%), 0410 (59%)"
+2016-2019,0440,Assistência Farmacêutica,0,fusão (2+ pais),0440,True,True,"0440 (100%), 0410 (65%)"
+2016-2019,0550,Erradicação da Fome em Santa Catarina,0,um pai,0550,True,True,0550 (100%)
+2016-2019,0160,Geração de Energia Elétrica,0,um pai,0160,True,True,0160 (100%)
+2016-2019,0180,Expansão do Sistema de Distribuição de Energia Elétrica,0,um pai,0180,True,True,0180 (100%)
+2016-2019,0186,"Comercialização, Eficientização e Medição de Energia Elétrica",0,um pai,0186,True,True,0186 (100%)
+2016-2019,0187,Adequação e Melhoria da Estrutura Empresarial - CELESC,0,um pai,0187,True,True,0187 (100%)
+2016-2019,0190,Expansão do Gás Natural,0,um pai,0190,True,True,0190 (100%)
+2016-2019,0220,Governança Eletrônica,0,um pai,0220,True,True,0220 (100%)
+2016-2019,0365,Esgoto Sanitário,0,um pai,0365,True,True,0365 (100%)
+2016-2019,0370,Modernização da CASAN,0,um pai,0360,False,True,0360 (29%)
+2016-2019,0920,Gestão Administrativa - Poder Legislativo,0,fusão (2+ pais),0920,True,True,"0920 (100%), 0900 (71%)"
+2016-2019,0935,Gestão Administrativa - Tribunal de Contas,0,fusão (2+ pais),0935,True,True,"0935 (100%), 0900 (71%)"
+2016-2019,0820,Comunicação do Poder Legislativo,0,fusão (2+ pais),0820,True,True,"0820 (100%), 0810 (72%)"
+2016-2019,0925,Modernização do Processo Legislativo,0,um pai,0925,True,True,0925 (100%)
+2016-2019,0930,Gestão Administrativa - Poder Judiciário,0,fusão (2+ pais),0930,True,True,"0930 (99%), 0900 (71%)"
+2016-2019,0931,Infraestrutura do Judiciário,0,um pai,0931,True,True,0931 (100%)
+2016-2019,0910,Gestão Administrativa - Ministério Público,0,fusão (2+ pais),0910,True,True,"0910 (100%), 0900 (71%)"
+2016-2019,0915,Gestão Estratégica - Ministério Público,0,um pai,0915,True,True,0915 (100%)
+2020-2023,0810,Comunicação do Poder Executivo,0,um pai,0810,True,False,0810 (100%)
+2020-2023,0825,Qualificação dos Agentes Públicos,0,novo,,,,
+2020-2023,0830,Gestão Fiscal e Financeira,0,novo,,,,
+2020-2023,0850,Gestão de Pessoas,0,um pai,0850,True,True,0850 (98%)
+2020-2023,0855,Saúde Ocupacional,0,novo,,,,
+2020-2023,0860,Gestão Previdenciária,0,um pai,0860,True,False,0860 (100%)
+2020-2023,0870,Pensões Especiais,0,um pai,0870,True,True,0870 (100%)
+2020-2023,0900,Gestão Administrativa - Poder Executivo,0,um pai,0900,True,True,0900 (100%)
+2020-2023,0990,Encargos Especiais,0,um pai,0990,True,True,0990 (62%)
+2020-2023,0999,Reserva de Contingência,0,novo,,,,
+2020-2023,0100,Caminhos do Desenvolvimento,0,um pai,0100,True,False,0100 (100%)
+2020-2023,0101,Acelera Santa Catarina,0,um pai,0101,True,False,0101 (100%)
+2020-2023,0105,Mobilidade Urbana,0,um pai,0105,True,True,0105 (85%)
+2020-2023,0110,Construção de Rodovias,0,um pai,0110,True,True,0110 (52%)
+2020-2023,0115,Gestão do Sistema de Transporte Intermunicipal de Pessoas,0,novo,,,,
+2020-2023,0120,Integração Logística,0,fusão (2+ pais),0120,True,True,"0120 (47%), 0150 (20%)"
+2020-2023,0130,Conservação e Segurança Rodoviária,0,um pai,0130,True,True,0130 (37%)
+2020-2023,0140,Reabilitação e Aumento de Capacidade de Rodovias,0,um pai,0140,True,True,0140 (46%)
+2020-2023,0145,"Elaboração de Planos, Estudos e Projetos de Infraestrutura",0,um pai,0145,True,True,0145 (100%)
+2020-2023,0160,Geração de Energia Elétrica,0,um pai,0160,True,True,0160 (64%)
+2020-2023,0188,"Concessões, Participações e Parcerias Público-Privadas",0,um pai,0188,True,False,0188 (100%)
+2020-2023,0200,Competitividade e Excelência Econômica,1,um pai,0200,True,False,0200 (78%)
+2020-2023,0210,Estudos e Projetos para o Desenvolvimento Regional,1,novo,,,,
+2020-2023,0211,Metrologia e Qualidade de Produtos e Serviços,0,um pai,0850,False,False,0850 (68%)
+2020-2023,0212,Promoção e Articulação das Relações Internacionais,1,novo,,,,
+2020-2023,0230,"CTI - Fomento à Ciência, Tecnologia e Inovação",1,um pai,0230,True,False,0230 (65%)
+2020-2023,0300,Qualidade de Vida no Campo e na Cidade,0,fusão (2+ pais),0300,True,True,"0300 (65%), 0250 (20%)"
+2020-2023,0310,Desenvolvimento Agropecuário e Pesqueiro,1,fusão (2+ pais),0850,False,False,"0850 (85%), 0310 (30%)"
+2020-2023,0315,Defesa Sanitária Agropecuária,0,fusão (2+ pais),0310,False,False,"0310 (65%), 0315 (64%)"
+2020-2023,0320,Agricultura Familiar,0,fusão (2+ pais),0300,False,True,"0300 (38%), 0320 (36%)"
+2020-2023,0340,Desenvolvimento Ambiental Sustentável,0,um pai,0340,True,False,0340 (100%)
+2020-2023,0342,Revitalização da Economia Catarinense - PREC,1,um pai,0342,True,True,0342 (100%)
+2020-2023,0343,Fomento à Economia Solidária,0,novo,,,,
+2020-2023,0346,Tecnologia e Inovação para o Desenvolvimento Sustentável,1,um pai,0346,True,True,0346 (100%)
+2020-2023,0348,Gestão Ambiental Estratégica,0,um pai,0348,True,True,0348 (100%)
+2020-2023,0350,Gestão dos Recursos Hídricos,0,um pai,0350,True,True,0350 (100%)
+2020-2023,0360,Abastecimento de Água,0,um pai,0360,True,False,0360 (100%)
+2020-2023,0520,Inclusão Social - Identificação e Eliminação de Barreiras,0,um pai,0520,True,True,0520 (61%)
+2020-2023,0560,Proteção e Desenvolvimento Social Sustentável,0,novo,,,,
+2020-2023,0610,Educação Básica com Qualidade e Equidade,0,um pai,0610,True,True,0610 (58%)
+2020-2023,0623,Gestão Democrática da Educação,0,um pai,0623,True,True,0623 (98%)
+2020-2023,0624,Cooperação Estado e Municípios - SED,0,um pai,0624,True,True,0624 (100%)
+2020-2023,0625,Valorização dos Profissionais da Educação,0,um pai,0850,False,False,0850 (95%)
+2020-2023,0626,Redução das Desigualdades e Valorização da Diversidade,0,novo,,,,
+2020-2023,0627,Acesso à Educação Superior,0,um pai,0630,False,True,0630 (100%)
+2020-2023,0630,Gestão do Ensino Superior,0,um pai,0630,True,False,0630 (63%)
+2020-2023,0635,Desenvolvimento do Desporto Educacional,0,novo,,,,
+2020-2023,0640,Desenvolvimento e Promoção do Turismo Catarinense,0,novo,,,,
+2020-2023,0650,Desenvolvimento e Fortalecimento do Esporte e do Lazer,0,novo,,,,
+2020-2023,0660,Arte e Cultura,0,novo,,,,
+2020-2023,0665,Patrimônio Cultural,0,novo,,,,
+2020-2023,0701,Redução da Criminalidade,0,novo,,,,
+2020-2023,0702,Aumento da Operacionalidade,0,fusão (2+ pais),0705,False,True,"0705 (24%), 0706 (22%)"
+2020-2023,0703,Promoção da Integração,0,um pai,0707,False,True,0707 (33%)
+2020-2023,0704,Melhoria Estrutural da Segurança Pública,0,um pai,0706,False,True,0706 (85%)
+2020-2023,0730,Gestão de Riscos,0,novo,,,,
+2020-2023,0735,Gestão de Desastres,0,um pai,0735,True,True,0735 (48%)
+2020-2023,0736,Gestão de Educação em Defesa Civil,0,novo,,,,
+2020-2023,0745,Fortalecendo Direitos,0,fusão (2+ pais),0850,False,False,"0850 (85%), 0745 (62%)"
+2020-2023,0750,Expansão e Modernização do Sistema Prisional e Socioeducativo,0,um pai,0850,False,True,0850 (58%)
+2020-2023,0760,Ressocialização dos Apenados e dos Adolescentes em Conflito com a Lei,0,um pai,0760,True,False,0760 (97%)
+2020-2023,0770,DETRAN Digital - Modernização dos serviços prestados,0,novo,,,,
+2020-2023,0835,Modernização do Arquivo Público,0,novo,,,,
+2020-2023,0845,Gestão do Programa de Integridade e Compliance,0,novo,,,,
+2020-2023,0875,Advocacia do Estado de Santa Catarina,0,fusão (2+ pais),0850,False,False,"0850 (47%), 0900 (39%)"
+2020-2023,0880,"Santa Catarina Eficiente, Ética e Transparente",0,novo,,,,
+2020-2023,0890,Defesa dos Interesses Sociais,0,fusão (2+ pais),0850,False,False,"0850 (65%), 0900 (28%)"
+2020-2023,0400,Gestão do SUS,0,um pai,0440,False,True,0440 (45%)
+2020-2023,0410,Vigilância em Saúde,0,um pai,0410,True,True,0410 (59%)
+2020-2023,0420,Atenção Primária à Saúde,0,novo,,,,
+2020-2023,0430,Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar,0,um pai,0430,True,True,0430 (28%)
+2020-2023,0440,Assistência Farmacêutica,0,um pai,0440,True,True,0440 (100%)
+2020-2023,0450,Gestão das Redes Temáticas,0,novo,,,,
+2020-2023,0150,Modernização Portuária,0,um pai,0150,True,True,0150 (100%)
+2020-2023,0182,Energia Elétrica Distribuída,0,um pai,0180,False,True,0180 (50%)
+2020-2023,0190,Expansão do Gás Natural,0,um pai,0190,True,False,0190 (65%)
+2020-2023,0220,Governança Eletrônica,0,novo,,,,
+2020-2023,0365,Esgoto Sanitário,0,um pai,0365,True,False,0365 (100%)
+2020-2023,0370,Modernização da CASAN,0,um pai,0370,True,False,0370 (100%)
+2020-2023,0920,Gestão Administrativa - Poder Legislativo,0,fusão (2+ pais),0920,True,True,"0920 (97%), 0900 (71%)"
+2020-2023,0925,Modernização do Processo Legislativo,0,um pai,0925,True,True,0925 (100%)
+2020-2023,0935,Gestão Administrativa - Tribunal de Contas,0,fusão (2+ pais),0935,True,True,"0935 (100%), 0900 (71%)"
+2020-2023,0921,Comunicação do Poder Legislativo,0,fusão (2+ pais),0820,False,True,"0820 (100%), 0810 (72%)"
+2020-2023,0922,Gestão e Desenvolvimento Sustentável,0,novo,,,,
+2020-2023,0930,Gestão Administrativa - Poder Judiciário,0,fusão (2+ pais),0930,True,True,"0930 (84%), 0900 (71%)"
+2020-2023,0931,Gestão Estratégica e Modernização do Poder Judiciário,0,fusão (2+ pais),0931,True,True,"0931 (90%), 0930 (20%)"
+2020-2023,0910,Gestão Administrativa - Ministério Público,0,um pai,0910,True,True,0910 (63%)
+2020-2023,0915,Gestão Estratégica - Ministério Público,0,um pai,0915,True,True,0915 (100%)
+2024-2027,0810,Comunicação do Poder Executivo,0,um pai,0810,True,False,0810 (100%)
+2024-2027,0825,Qualificação dos Agentes Públicos,0,um pai,0825,True,True,0825 (100%)
+2024-2027,0830,Gestão Fiscal e Financeira,0,um pai,0830,True,True,0830 (100%)
+2024-2027,0850,Gestão de Pessoas,0,um pai,0850,True,True,0850 (100%)
+2024-2027,0855,Saúde Ocupacional,0,um pai,0855,True,True,0855 (87%)
+2024-2027,0870,Pensões Especiais,0,um pai,0870,True,True,0870 (100%)
+2024-2027,0900,Gestão Administrativa - Poder Executivo,0,um pai,0900,True,True,0900 (100%)
+2024-2027,0990,Encargos Especiais,0,um pai,0990,True,True,0990 (100%)
+2024-2027,0999,Reserva de Contingência,0,um pai,0999,True,True,0999 (100%)
+2024-2027,0100,Caminhos do Desenvolvimento,0,um pai,0100,True,True,0100 (100%)
+2024-2027,0101,Acelera Santa Catarina,0,um pai,0101,True,True,0101 (100%)
+2024-2027,0105,Mobilidade Urbana - Estrada Boa,0,um pai,0105,True,True,0105 (100%)
+2024-2027,0110,Construção de Rodovias - Estrada Boa,0,um pai,0110,True,True,0110 (100%)
+2024-2027,0115,Gestão do Sistema de Transporte Intermunicipal de Pessoas,0,um pai,0115,True,True,0115 (100%)
+2024-2027,0120,Integração Logística,0,novo,,,,
+2024-2027,0130,Conservação e Segurança Rodoviária - Estrada Boa,0,um pai,0130,True,True,0130 (100%)
+2024-2027,0140,Reabilitação e Aumento de Capacidade de Rodovias - Estrada Boa,0,um pai,0140,True,True,0140 (100%)
+2024-2027,0145,"Elaboração de Planos, Estudos e Projetos de Infraestrutura",0,um pai,0145,True,True,0145 (100%)
+2024-2027,0160,Geração de Energia Elétrica,0,um pai,0160,True,True,0160 (100%)
+2024-2027,0188,"Concessões, Participações e Parcerias Público-Privadas",0,um pai,0188,True,True,0188 (100%)
+2024-2027,0200,Competitividade e Excelência Econômica,1,um pai,0200,True,True,0200 (97%)
+2024-2027,0210,Desenvolvimento Regional Integrado,1,um pai,0210,True,False,0210 (88%)
+2024-2027,0211,Metrologia e Qualidade de Produtos e Serviços,0,um pai,0211,True,True,0211 (100%)
+2024-2027,0230,"CTI - Fomento à Ciência, Tecnologia e Inovação",1,novo,,,,
+2024-2027,0310,Desenvolvimento Agropecuário e Pesqueiro,1,um pai,0310,True,True,0310 (98%)
+2024-2027,0315,Defesa Sanitária Agropecuária,0,um pai,0315,True,True,0315 (100%)
+2024-2027,0320,Agricultura e Pesca Catarinense,0,fusão (2+ pais),0300,False,True,"0300 (35%), 0320 (28%)"
+2024-2027,0340,Desenvolvimento Ambiental Sustentável,0,um pai,0340,True,True,0340 (100%)
+2024-2027,0342,Revitalização da Economia Catarinense - PREC,1,um pai,0342,True,False,0342 (100%)
+2024-2027,0343,Fomento à Economia Solidária,0,um pai,0343,True,False,0343 (100%)
+2024-2027,0348,Gestão Ambiental Estratégica,0,um pai,0348,True,False,0348 (100%)
+2024-2027,0350,Gestão dos Recursos Hídricos,0,um pai,0350,True,False,0350 (100%)
+2024-2027,0353,"Incentivo à Competitividade da Indústria, do Comércio e do Serviço",1,um pai,0342,False,False,0342 (77%)
+2024-2027,0354,"Promoção de Políticas de Trabalho, Emprego e Renda",1,novo,,,,
+2024-2027,0360,Abastecimento de Água,0,um pai,0360,True,True,0360 (100%)
+2024-2027,0520,Inclusão Social - Identificação e Eliminação de Barreiras,0,um pai,0520,True,True,0520 (100%)
+2024-2027,0521,"Disseminação do Conhecimento - Pesquisa, Capacitação e Assessorias",0,um pai,0520,False,True,0520 (100%)
+2024-2027,0560,Proteção e Desenvolvimento Social,0,um pai,0560,True,True,0560 (86%)
+2024-2027,0610,Educação Básica com Qualidade e Equidade,0,um pai,0610,True,True,0610 (100%)
+2024-2027,0623,Gestão Democrática da Educação,0,um pai,0623,True,True,0623 (100%)
+2024-2027,0625,Valorização dos Profissionais da Educação,0,um pai,0625,True,True,0625 (100%)
+2024-2027,0626,Redução das Desigualdades,0,um pai,0626,True,True,0626 (100%)
+2024-2027,0627,Acesso à Educação Superior,0,um pai,0627,True,True,0627 (100%)
+2024-2027,0630,Gestão do Ensino Superior,0,um pai,0630,True,True,0630 (100%)
+2024-2027,0635,Desenvolvimento do Desporto Educacional,0,um pai,0635,True,True,0635 (100%)
+2024-2027,0640,Desenvolvimento e Promoção do Turismo Catarinense,0,um pai,0640,True,True,0640 (100%)
+2024-2027,0650,Desenvolvimento e Fortalecimento do Esporte e do Lazer,0,um pai,0650,True,True,0650 (100%)
+2024-2027,0660,Arte e Cultura,0,um pai,0660,True,True,0660 (52%)
+2024-2027,0661,Cultura Criativa,0,novo,,,,
+2024-2027,0665,Patrimônio Cultural,0,novo,,,,
+2024-2027,0701,Redução da Criminalidade,0,um pai,0701,True,True,0701 (100%)
+2024-2027,0702,Aumento da Operacionalidade,0,um pai,0702,True,True,0702 (100%)
+2024-2027,0703,Promoção da Integração,0,um pai,0703,True,True,0703 (100%)
+2024-2027,0704,Melhoria Estrutural da Segurança Pública,0,um pai,0704,True,True,0704 (100%)
+2024-2027,0730,Gestão de Riscos,0,um pai,0730,True,True,0730 (100%)
+2024-2027,0735,Gestão de Desastres,0,um pai,0735,True,True,0735 (100%)
+2024-2027,0745,Fortalecendo Direitos,0,um pai,0745,True,True,0745 (100%)
+2024-2027,0750,Expansão e Modernização do Sistema Prisional e Socioeducativo,0,um pai,0750,True,True,0750 (100%)
+2024-2027,0760,Ressocialização dos Apenados e dos Adolescentes em Conflito com a Lei,0,um pai,0760,True,True,0760 (100%)
+2024-2027,0770,DETRAN Digital,0,um pai,0770,True,True,0770 (86%)
+2024-2027,0845,Gestão do Programa de Integridade e Compliance,0,um pai,0845,True,True,0845 (33%)
+2024-2027,0875,Advocacia do Estado de Santa Catarina,0,um pai,0875,True,True,0875 (100%)
+2024-2027,0880,"Santa Catarina Eficiente, Ética e Transparente",0,um pai,0880,True,True,0880 (100%)
+2024-2027,0860,Gestão Previdenciária,0,um pai,0860,True,True,0860 (100%)
+2024-2027,0400,Gestão Estratégica e Inovação,0,fusão (2+ pais),0400,True,True,"0400 (60%), 0900 (32%)"
+2024-2027,0410,Vigilância em Saúde,0,um pai,0410,True,True,0410 (100%)
+2024-2027,0420,Atenção Primária à Saúde,0,um pai,0420,True,True,0420 (80%)
+2024-2027,0430,Atenção Especializada à Saúde,0,um pai,0430,True,True,0430 (82%)
+2024-2027,0150,Modernização Portuária,0,um pai,0150,True,False,0150 (100%)
+2024-2027,0182,Energia Elétrica Distribuída,0,um pai,0182,True,True,0182 (100%)
+2024-2027,0190,Expansão do Gás Natural,0,um pai,0190,True,True,0190 (100%)
+2024-2027,0220,Transformação Digital,0,um pai,0220,True,True,0220 (100%)
+2024-2027,0365,Esgoto Sanitário,0,um pai,0365,True,True,0365 (100%)
+2024-2027,0370,Modernização da CASAN,0,um pai,0370,True,True,0370 (100%)
+2024-2027,0920,Gestão Administrativa - Poder Legislativo,0,fusão (2+ pais),0920,True,True,"0920 (98%), 0900 (71%)"
+2024-2027,0925,Modernização do Processo Legislativo,0,um pai,0925,True,True,0925 (100%)
+2024-2027,0935,Gestão Administrativa - Tribunal de Contas,0,fusão (2+ pais),0935,True,True,"0935 (99%), 0900 (71%)"
+2024-2027,0921,Comunicação do Poder Legislativo,0,fusão (2+ pais),0921,True,True,"0921 (100%), 0810 (72%)"
+2024-2027,0922,Gestão e Desenvolvimento Sustentável,0,um pai,0922,True,True,0922 (100%)
+2024-2027,0926,Manutenção da Prestação Jurisdicional,0,um pai,0930,False,True,0930 (97%)
+2024-2027,0927,Desjudicialização e Aprimoramento da Prestação Jurisdicional,0,fusão (2+ pais),0931,False,True,"0931 (64%), 0930 (36%)"
+2024-2027,0928,Infraestrutura para o Novo Modelo de Justiça,0,um pai,0931,False,True,0931 (89%)
+2024-2027,0929,"Governança, Responsabilidade Ambiental e Social",0,um pai,0930,False,True,0930 (99%)
+2024-2027,0932,Transformação Digital - TJ,0,um pai,0931,False,True,0931 (76%)
+2024-2027,0910,Gestão Administrativa - Ministério Público,0,um pai,0910,True,True,0910 (100%)
+2024-2027,0915,Gestão Estratégica - Ministério Público,0,um pai,0915,True,True,0915 (100%)

@@ -2,6 +2,17 @@
 
 Registro curto do que foi decidido e por quê. Adicionar novas entradas no topo.
 
+## 2026-11-13 (redes: aprovação PRELIMINAR do Andrey, a revisar)
+Direção nova: olhar todos os programas (coocorrências, comparação de subações, oferta e demanda pelo público-alvo, redes), possivelmente sem ponte com o ICE. Notebook `notebooks/redes_ppa.ipynb`; regras em `scripts/redes_regras.py`; funções em `scripts/redes.py`. `networkx` acrescentado ao requirements.
+
+Regras propostas pelo assistente e aprovadas de forma preliminar:
+1. Rede de termos: frase como unidade; lema com 4 ou mais frases; ligação com 2 ou mais frases juntas; peso = proximidade phi = C_ij / max(N_i, N_j); comunidades por Louvain (semente 42); desenho = árvore geradora máxima + ligações mais fortes até grau médio 4.
+2. Decisão do assistente depois de ver os dados: as comunidades de termos são instáveis (ARI 0,23 nas reamostragens de frases; 0,22 a 0,26 com 7 combinações de limiares), então só as vizinhanças de cada termo são interpretadas, com estabilidade por 200 reamostragens; a figura pinta os temas aprovados, não as comunidades.
+3. Rede de programas: lemas em mais de 20% dos programas do PPA saem como formato; 3 vizinhos mais parecidos com cosseno de pelo menos 0,10; homofilia e Mantel com 2.000 permutações; densidade = soma da similaridade com os selecionados / soma com todos. Subações representadas pelos lemas dos nomes, sem repetir nome igual.
+4. Público-alvo ampliado: + setor público, estudantes e escolas, grupos vulneráveis, sem definição. Ajustes depois de ver os casos: "pequen" solto saiu de micro e pequenas empresas (pegava "pequenos agricultores"); erros do PDF ("pode legislativo", "promoteres"); "membros" saiu de setor público (pegava "famílias ... e seus membros"); clientes de Celesc/SCGás, moradores, comunidades e gerações futuras em sociedade em geral. Precedência: sociedade em geral só se nada mais casar; micro e pequenas substitui empresas. Exceção explícita: "Cidadãos, investidores, turistas e consumidores" (comunicação institucional) = sociedade em geral. Valor de programa com mais de um público dividido em partes iguais. Peso = valor sem pessoal e emendas.
+5. Genealogia: pai = herança de pelo menos 20% do valor das subações ou dos lemas. Decisão do assistente depois de ver os dados: subação herdada exige mesmo código E nome parecido (SequenceMatcher de 0,6 ou mais), porque de 2004-2007 para 2008-2011 os códigos foram renumerados (só 1% dos códigos repetidos tem nome parecido; de 2012 em diante, 86% a 98%). Consequência: 2004 → 2008 só tem herança de texto.
+6. Mesmo dono: coeficiente de sobreposição de pelo menos 0,5 nas palavras distintivas dos nomes dos órgãos (sem sigla, sem "desenvolvimento"); testado em 12 pares conhecidos. Caso ambíguo: "Desenvolvimento Sustentável" (2008-2011) x "Desenvolvimento Econômico Sustentável" conta como mesmo dono [verificar].
+
 ## 2026-11-13 (pós-reunião com o Dominik)
 Decidido na reunião: medida principal passa a ser contagem e % sobre o total de lemas, sem TF-IDF; nada por CNAE. Análise do PPA inteiro em `notebooks/analise_ppa_inteiro.ipynb`; regras em `scripts/ppa_inteiro_listas.py`.
 

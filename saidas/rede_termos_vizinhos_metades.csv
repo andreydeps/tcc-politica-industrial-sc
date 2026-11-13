@@ -1,0 +1,17 @@
+alvo,metade,frases,vizinhos (phi; frases juntas; % das reamostragens no top 6)
+inovação,2004-2015,9,"tecnológico (0.50; 7; 88%), base (0.36; 4; 49%), fomentar (0.33; 3; 38%), competitividade (0.25; 3; 19%), produtivo (0.22; 2; 16%), princípio (0.22; 2; 22%)"
+competitividade,2004-2015,12,"bem (0.33; 4; 67%), produtivo (0.25; 3; 54%), inovação (0.25; 3; 46%), base (0.25; 3; 35%), tecnológico (0.21; 3; 36%), socioambiental (0.17; 2; 31%)"
+tecnologia,2004-2015,24,"informação (0.24; 7; 71%), oportunidade (0.17; 4; 38%), empresarial (0.17; 4; 34%), criação (0.17; 4; 34%), ampliação (0.17; 4; 32%), desenvolvimento (0.13; 8; 14%)"
+empresa,2004-2015,14,"pequeno (0.36; 5; 76%), tecnológico (0.29; 4; 59%), privado (0.21; 3; 41%), inovação (0.21; 3; 34%), empreendedor (0.21; 3; 36%), criação (0.21; 3; 37%)"
+indústria,2004-2015,1,
+tecnológico,2004-2015,14,"inovação (0.50; 7; 96%), base (0.50; 7; 86%), produtivo (0.29; 4; 46%), empresa (0.29; 4; 36%), fomentar (0.21; 3; 18%), empresarial (0.21; 3; 24%)"
+produtivo,2004-2015,9,"fomentar (0.44; 4; 62%), base (0.36; 4; 46%), tecnológico (0.29; 4; 34%), competitividade (0.25; 3; 21%), sustentabilidade (0.22; 2; 28%), padrão (0.22; 2; 32%)"
+emprego,2004-2015,12,"renda (0.36; 9; 93%), geração (0.26; 5; 70%), êxodo (0.17; 2; 44%), turístico (0.17; 2; 30%), possuir (0.17; 2; 36%), incrementar (0.17; 2; 30%)"
+inovação,2016-2027,18,"tecnologia (0.28; 5; 58%), incentivar (0.28; 5; 64%), empresa (0.26; 5; 49%), tecnológico (0.24; 8; 56%), setor (0.22; 4; 50%), regional (0.22; 4; 38%)"
+competitividade,2016-2027,24,"empresa (0.29; 7; 72%), economia (0.26; 7; 56%), produtivo (0.25; 6; 63%), aumento (0.25; 6; 50%), econômico (0.24; 8; 50%), fomentar (0.23; 6; 47%)"
+tecnologia,2016-2027,16,"inovação (0.28; 5; 60%), turismo (0.19; 3; 34%), transferência (0.19; 3; 31%), parceria (0.19; 3; 33%), especializar (0.19; 3; 33%), criação (0.19; 3; 24%)"
+empresa,2016-2027,19,"empreendedor (0.37; 7; 80%), competitividade (0.29; 7; 54%), pequeno (0.26; 5; 50%), inovação (0.26; 5; 40%), individual (0.26; 5; 44%), existente (0.26; 5; 46%)"
+indústria,2016-2027,3,"gás (0.50; 2; 60%), segmento (0.33; 2; 54%), disponibilizar (0.33; 2; 51%), município (0.15; 2; 29%), mercado (0.15; 2; 29%), natural (0.13; 2; 26%)"
+tecnológico,2016-2027,33,"humano (0.29; 10; 80%), material (0.24; 8; 55%), inovação (0.24; 8; 62%), financeiro (0.24; 8; 56%), necessário (0.21; 7; 53%), científico (0.21; 7; 44%)"
+produtivo,2016-2027,9,"verde (0.33; 3; 77%), técnico (0.33; 3; 56%), polo (0.33; 3; 72%), negócio (0.33; 3; 52%), ligar (0.33; 3; 60%), existente (0.33; 3; 23%)"
+emprego,2016-2027,9,"renda (0.35; 7; 67%), qualificar (0.24; 4; 36%), visem (0.22; 2; 40%), valorizar (0.22; 2; 36%), turístico (0.22; 2; 40%), serv (0.22; 2; 40%)"
