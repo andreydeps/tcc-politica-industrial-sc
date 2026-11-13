@@ -16,3 +16,6 @@ saidas/estado_do_trabalho_2026-11-12.docx
 saidas/estado_do_trabalho_2026-11-12_v[2-6]*.docx
 saidas/relatorio_andamento_*.docx
 ~$*
+
+# anotações internas da reunião (não publicar)
+saidas/briefing_reuniao.md
