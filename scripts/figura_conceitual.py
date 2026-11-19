@@ -43,42 +43,44 @@ faixa(40, 15, "1. Estrutura do documento (o que está escrito no PPA)")
 caixa(1, 40, 20, 15, "PPA", ["Anexo Único (PDF)", "um por ciclo:", "2004-2007 a 2024-2027"])
 caixa(27, 40, 22, 15, "Programa", ["unidade de planejamento", "identificada por código", "de 4 dígitos (ex.: 0200)"])
 caixa(55, 40, 44, 15, "Campos do programa (seções)", [])
-for i, c in enumerate(["nome", "órgão", "objetivo", "justificativa", "público-alvo"]):
-    destaque = c in ("objetivo", "justificativa")
-    x = 57 + i * 8.4
-    ax.add_patch(FancyBboxPatch((x, 41.8), 7.6, 6.6, boxstyle="round,pad=0.15,rounding_size=0.5",
+for i, c in enumerate(["nome", "órgão", "objetivo", "justificativa", "público-alvo", "subações"]):
+    destaque = c in ("objetivo", "justificativa", "público-alvo", "subações")
+    x = 56.2 + i * 7.1
+    ax.add_patch(FancyBboxPatch((x, 41.8), 6.5, 6.6, boxstyle="round,pad=0.15,rounding_size=0.5",
                                 fc=FILL if destaque else "white", ec=LINE, lw=1.0 if destaque else 0.7))
-    ax.text(x + 3.8, 45.1, c, ha="center", va="center", fontsize=8.2, color=INK, fontweight="bold" if destaque else "normal")
+    ax.text(x + 3.25, 45.1, c, ha="center", va="center", fontsize=7.8, color=INK,
+            fontweight="bold" if destaque else "normal")
 seta(21.4, 47.5, 26.6, 47.5)
 seta(49.4, 47.5, 54.6, 47.5)
 ax.text(77, 39.2, "extração automática (regex por formato; os rótulos só delimitam, não classificam)",
         ha="center", va="top", fontsize=8, color=MUTED, style="italic")
 
-# ---------------- faixa 2: classificação analítica
-faixa(19, 14, "2. Classificação analítica")
-caixa(1, 19, 30, 14, "Seleção manual", ["conceito de política industrial", "(Chang, 1994; Rodrik, 2004, 2008)", "lista de códigos por período"], fundo=FILL)
-caixa(37, 19, 29, 14, "Programas selecionados", ["leitura do nome (triagem)", "e do objetivo (confirmação)", "casos de fronteira: orientador"], fundo=FILL)
-caixa(72, 19, 27, 14, "Texto analisado", ["objetivo + justificativa", "o nome entra só na curadoria"], fundo=FILL)
+# ---------------- faixa 2: recortes e material analisado
+faixa(19, 14, "2. Recortes e material analisado")
+caixa(1, 19, 30, 14, "Plano inteiro", ["todos os programas dos seis PPAs", "(529 códigos distintos)", "base de todas as medidas"], fundo=FILL)
+caixa(37, 19, 29, 14, "Política industrial (recorte)", ["seleção manual pelo conceito", "(Chang, 1994; Rodrik, 2004, 2008)", "42 pares programa-PPA"], fundo=FILL)
+caixa(72, 19, 27, 14, "Material", ["texto: objetivo + justificativa", "subações: nome e valor orçado",
+                                    "público-alvo: categorias"], fundo=FILL)
 seta(31.4, 26, 36.6, 26)
 seta(66.4, 26, 71.6, 26)
-seta(29, 39.4, 29, 33.8)    # programas extraídos -> seleção manual
+seta(29.5, 39.4, 29.5, 33.8)    # programas extraídos -> plano inteiro
 
 # ---------------- faixa 3: tratamento e análise
-faixa(0, 14, "3. Tratamento e análises")
-caixa(1, 0, 27, 14, "Pré-processamento", ["lematização (spaCy, pt_core_news_lg)", "minúsculas, sem stopwords", "mantém substantivo, verbo, adjetivo"])
-caixa(34, 0, 65, 14, "Análises por período", [])
-for i, (t, d) in enumerate([("TF-IDF", "termos por período"), ("Similaridade", "cosseno entre PPAs"),
-                            ("Léxico", "coocorrência e embeddings"), ("Circularidade", "permutação e controles"),
-                            ("Campos / LDA", "clusters de termos")]):
-    x = 35.5 + i * 12.4
-    ax.add_patch(FancyBboxPatch((x, 1.6), 11.2, 7.6, boxstyle="round,pad=0.15,rounding_size=0.5", fc="white", ec=LINE, lw=0.8))
-    ax.text(x + 5.6, 7.1, t, ha="center", va="center", fontsize=8.4, fontweight="bold", color=INK)
-    ax.text(x + 5.6, 4.1, d, ha="center", va="center", fontsize=7, color=MUTED)
-seta(28.4, 7, 33.6, 7)
-seta(85.5, 18.7, 85.5, 14.6)   # texto analisado -> análises
+faixa(0, 14, "3. Tratamento e análises (sempre plano inteiro x política industrial)")
+caixa(1, 0, 25, 14, "Pré-processamento", ["lematização (spaCy, pt_core_news_lg)", "minúsculas, sem stopwords", "substantivo, verbo, adjetivo"])
+caixa(31, 0, 68, 14, "Análises por PPA", [])
+for i, (t, d) in enumerate([("Temas", "% dos lemas"), ("Testes", "permutação"), ("Palavras", "características, n-gramas"),
+                            ("Texto copiado", "entre planos"), ("Orçamento", "% do PPA e R$ (IPCA)"),
+                            ("Público-alvo", "quem recebe")]):
+    x = 32.2 + i * 11.05
+    ax.add_patch(FancyBboxPatch((x, 1.6), 10.1, 7.6, boxstyle="round,pad=0.15,rounding_size=0.5", fc="white", ec=LINE, lw=0.8))
+    ax.text(x + 5.05, 7.1, t, ha="center", va="center", fontsize=8.4, fontweight="bold", color=INK)
+    ax.text(x + 5.05, 4.1, d, ha="center", va="center", fontsize=6.9, color=MUTED)
+seta(26.4, 7, 30.6, 7)
+seta(85.5, 18.7, 85.5, 14.6)   # material -> análises
 
-ax.text(0.5, -3.2, "Programa e campo são categorias do documento. \"Política industrial\" é uma classificação feita pelo pesquisador sobre os programas, e não uma propriedade do documento.",
-        fontsize=8.6, color=MUTED, va="top")
+ax.text(0.5, -3.2, "Programa e campo são categorias do documento. \"Política industrial\" é uma classificação feita pelo pesquisador "
+        "sobre os programas e é analisada como recorte do plano inteiro.", fontsize=8.6, color=MUTED, va="top")
 fig.tight_layout()
 saida = RAIZ / "saidas" / "figura_conceitual_metodo.png"
 fig.savefig(saida, dpi=200, facecolor="white", bbox_inches="tight")

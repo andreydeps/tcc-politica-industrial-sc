@@ -34,6 +34,29 @@ TEMAS_HISTORIA = {
 COR_TEMA = {"agro": "#6b8e23", "inovação e tecnologia": SERIES[0], "competitividade e produção": SERIES[1],
             "inserção internacional": SERIES[2], "trabalho e renda": SERIES[3]}
 MIN_CARAC = {"PPA inteiro": 5, "selecionados": 3}   # ocorrências mínimas da palavra característica
+# Figuras para a monografia: TITULOS = False tira o título embutido (legenda e fonte ficam no texto,
+# padrão ABNT) e SUFIXO muda o nome do arquivo (ex.: "_tcc"). Usado por scripts/tcc_rascunho_docx.py.
+TITULOS = True
+SUFIXO = ""
+FIG_ESCALA = 1.0   # < 1 desenha a figura menor (texto proporcionalmente maior quando impressa em 16 cm)
+
+
+def _subplots(*args, figsize, **kw):
+    return plt.subplots(*args, figsize=(figsize[0] * FIG_ESCALA, figsize[1] * FIG_ESCALA), **kw)
+
+
+def _sup(fig, texto, **kw):
+    if TITULOS:
+        fig.suptitle(texto, **kw)
+
+
+def _tit(ax, texto, sub=None):
+    if TITULOS:
+        titulo(ax, texto, sub)
+
+
+def _salvar(fig, nome):
+    salvar(fig, nome.replace(".png", SUFIXO + ".png"))
 
 
 def recortes(p):
@@ -76,7 +99,7 @@ def palavras_caracteristicas(p, top=20):
 
     cor = lambda *a, **k: TINTA
     for recorte in ("PPA inteiro", "selecionados"):
-        fig, axs = plt.subplots(2, 3, figsize=(15, 8.6))
+        fig, axs = _subplots(2, 3, figsize=(15, 8.6))
         for ax, q in zip(axs.ravel(), PER):
             freq = nuvens[(recorte, q)]
             if freq:
@@ -86,9 +109,9 @@ def palavras_caracteristicas(p, top=20):
             ax.set_title(q, loc="left", fontsize=12, fontweight="bold", color=TINTA)
             ax.axis("off")
         n = "529 programas" if recorte == "PPA inteiro" else "42 programas de política industrial"
-        fig.suptitle(f"O que cada plano fala que os outros não falam ({n}); tamanho = quantas vezes a palavra é "
+        _sup(fig, f"O que cada plano fala que os outros não falam ({n}); tamanho = quantas vezes a palavra é "
                      "mais frequente nesse PPA do que nos outros", x=0.01, ha="left", fontsize=12.5, fontweight="bold")
-        salvar(fig, "historia_palavras_" + ("ppa_inteiro" if recorte == "PPA inteiro" else "selecionados") + ".png")
+        _salvar(fig, "historia_palavras_" + ("ppa_inteiro" if recorte == "PPA inteiro" else "selecionados") + ".png")
         plt.close(fig)
     return t
 
@@ -128,7 +151,7 @@ def temas_no_tempo(p, B=3000):
     t = pd.DataFrame(linhas)
     t.to_csv(SAIDAS / "historia_temas.csv", index=False, encoding="utf-8")
 
-    fig, axs = plt.subplots(1, 2, figsize=(13, 4.4))
+    fig, axs = _subplots(1, 2, figsize=(13, 4.4))
     x = np.arange(6)
     for ax, recorte in zip(axs, ("PPA inteiro", "selecionados")):
         destaque = ("agro", "inovação e tecnologia", "competitividade e produção")
@@ -142,10 +165,10 @@ def temas_no_tempo(p, B=3000):
                      "política industrial (42 programas selecionados)", loc="left", fontsize=11, color=TINTA)
     axs[0].set_ylabel("% dos lemas do PPA")
     axs[1].legend(frameon=False, fontsize=8.5, loc="upper left", bbox_to_anchor=(1.0, 1.0))
-    fig.suptitle("Na política industrial, competitividade sobe e inovação cai; no plano inteiro, só o agro muda "
+    _sup(fig, "Na política industrial, competitividade sobe e inovação cai; no plano inteiro, só o agro muda "
                  "(% dos lemas de cada tema por PPA)",
                  x=0.01, ha="left", fontsize=12.5, fontweight="bold")
-    salvar(fig, "historia_temas.png")
+    _salvar(fig, "historia_temas.png")
     plt.close(fig)
     return t
 
@@ -165,7 +188,7 @@ def agro(p, s, temas):
                         "programas da área": [int((p.periodo.eq(q) & p.area.eq("agricultura e pesca")).sum()) for q in PER],
                         "% do valor do PPA (sem pessoal e emendas)": orc.values})
     tab.to_csv(SAIDAS / "historia_agro.csv", index=False, encoding="utf-8")
-    fig, axs = plt.subplots(1, 3, figsize=(13, 3.6))
+    fig, axs = _subplots(1, 3, figsize=(13, 3.6))
     x = np.arange(6)
     for ax, col, rot in zip(axs, ["% dos lemas (tema agro)", "% dos programas (área agricultura e pesca)",
                                   "% do valor do PPA (sem pessoal e emendas)"],
@@ -173,13 +196,13 @@ def agro(p, s, temas):
         ax.bar(x, tab[col], color="#6b8e23", width=0.6)
         for i, v in enumerate(tab[col]):
             ax.text(i, v, f"{v:.1f}".replace(".", ","), ha="center", va="bottom", fontsize=8.5, color=TINTA2)
-        ax.set_xticks(x, ROT)
+        ax.set_xticks(x, ROT, rotation=45 if FIG_ESCALA < 1 else 0)
         eixo_limpo(ax)
         ax.set_title(rot, loc="left", fontsize=10.5, color=TINTA)
-    fig.suptitle("O agro sai de cena no PPA inteiro (529 programas)", x=0.01, ha="left", fontsize=12.5,
+    _sup(fig, "O agro sai de cena no PPA inteiro (529 programas)", x=0.01, ha="left", fontsize=12.5,
                  fontweight="bold")
     fig.subplots_adjust(top=0.82)
-    salvar(fig, "historia_agro.png")
+    _salvar(fig, "historia_agro.png")
     plt.close(fig)
     return tab
 
@@ -199,7 +222,7 @@ def quem_fala_de_inovacao(p, top=4):
         quem.append({"PPA": q, "programas de fora que mais usam o vocabulário de inovação":
                      "; ".join(f"{r.codigo} {r.nome[:45]} ({r.inov})" for r in d.itertuples())})
     tab.to_csv(SAIDAS / "historia_quem_fala_inovacao.csv", index=False, encoding="utf-8")
-    fig, ax = plt.subplots(figsize=(8.5, 3.8))
+    fig, ax = _subplots(figsize=(8.5, 3.8))
     x = np.arange(6)
     a, b = tab["ocorrências nos selecionados"], tab["ocorrências nos demais programas"]
     ax.bar(x, a, color=SERIES[0], width=0.6, label="programas de política industrial")
@@ -211,8 +234,8 @@ def quem_fala_de_inovacao(p, top=4):
     ax.set_ylabel("ocorrências (inovação, tecnologia,\nmodernização, tecnológico)")
     eixo_limpo(ax)
     ax.legend(frameon=False, fontsize=9, loc="upper left")
-    titulo(ax, "Quem fala de inovação no PPA", "a inovação se concentra na política industrial em 2012-2019 e se espalha depois")
-    salvar(fig, "historia_quem_fala_inovacao.png")
+    _tit(ax, "Quem fala de inovação no PPA", "a inovação se concentra na política industrial em 2012-2019 e se espalha depois")
+    _salvar(fig, "historia_quem_fala_inovacao.png")
     plt.close(fig)
     return tab, pd.DataFrame(quem)
 
@@ -222,7 +245,7 @@ def discurso_orcamento(temas):
     o = pd.read_csv(SAIDAS / "orcamento_ajustado.csv").set_index("periodo").reindex(PER)
     v = pd.read_csv(SAIDAS / "ppa_inteiro_variaveis_tema.csv").pivot(index="periodo", columns="tema", values="pct_ppa").reindex(PER)
     sel = temas[temas.recorte == "selecionados"].set_index("tema")[PER]
-    fig, axs = plt.subplots(1, 2, figsize=(13, 4.2))
+    fig, axs = _subplots(1, 2, figsize=(13, 4.2))
     x = np.arange(6)
     for tema in ("competitividade e produção", "inovação e tecnologia"):
         axs[0].plot(x, sel.loc[tema].values, "o-", lw=2.2, color=COR_TEMA[tema], label=tema)
@@ -241,8 +264,8 @@ def discurso_orcamento(temas):
         ax.set_ylim(0, None)
         eixo_limpo(ax)
         ax.legend(frameon=False, fontsize=8.5, loc=loc)
-    fig.suptitle("O discurso sobe, o dinheiro desce", x=0.01, ha="left", fontsize=12.5, fontweight="bold")
-    salvar(fig, "historia_discurso_orcamento.png")
+    _sup(fig, "O discurso sobe, o dinheiro desce", x=0.01, ha="left", fontsize=12.5, fontweight="bold")
+    _salvar(fig, "historia_discurso_orcamento.png")
     plt.close(fig)
     tab = pd.DataFrame({"PPA": PER, **{f"{t} (% lemas, selecionados)": sel.loc[t].values
                                        for t in ("competitividade e produção", "inovação e tecnologia")},
@@ -255,7 +278,7 @@ def copia():
     c = pd.read_csv(SAIDAS / "ppa_inteiro_copia_transicoes.csv")
     col = "% lemas em frases iguais ou quase (≥ 0,9)"
     w = c.pivot(index="transição", columns="recorte", values=col).reindex(c["transição"].unique())
-    fig, ax = plt.subplots(figsize=(9, 3.8))
+    fig, ax = _subplots(figsize=(9, 3.8))
     x = np.arange(len(w))
     ax.bar(x - 0.18, w["PPA inteiro"], width=0.36, color=CINZA, label="PPA inteiro")
     ax.bar(x + 0.18, w["selecionados"], width=0.36, color=SERIES[0], label="política industrial")
@@ -266,8 +289,8 @@ def copia():
     ax.set_ylabel("% do texto repetido do PPA anterior")
     eixo_limpo(ax)
     ax.legend(frameon=False, fontsize=9, loc="upper left")
-    titulo(ax, "Planos copiados, política industrial reescrita", "% dos lemas em frases iguais ou quase iguais às do PPA anterior")
-    salvar(fig, "historia_copia.png")
+    _tit(ax, "Planos copiados, política industrial reescrita", "% dos lemas em frases iguais ou quase iguais às do PPA anterior")
+    _salvar(fig, "historia_copia.png")
     plt.close(fig)
     return w.reset_index()
 
@@ -278,7 +301,7 @@ def dizem_fazem():
     saidas/rede_programas_resumo.csv, gerado por notebooks/redes_ppa.ipynb)."""
     r = pd.read_csv(SAIDAS / "rede_programas_resumo.csv")
     cam = {"texto (o que dizem)": SERIES[0], "subações (o que fazem)": SERIES[1]}
-    fig, ax = plt.subplots(figsize=(8.5, 3.8))
+    fig, ax = _subplots(figsize=(8.5, 3.8))
     x = np.arange(6)
     for c, cor in cam.items():
         g = r[r.camada == c].set_index("periodo").reindex(PER)
@@ -293,9 +316,9 @@ def dizem_fazem():
     ax.set_ylabel("similaridade entre selecionados /\nsimilaridade com o resto do plano")
     eixo_limpo(ax)
     ax.legend(frameon=False, fontsize=9, loc="upper center", bbox_to_anchor=(0.5, -0.12), ncol=2)
-    titulo(ax, "A política industrial fala parecido, mas faz coisas diferentes a partir de 2020",
+    _tit(ax, "A política industrial fala parecido, mas faz coisas diferentes a partir de 2020",
            "ponto cheio: p < 0,05 (2.000 permutações); ponto vazio: não significativo")
-    salvar(fig, "historia_dizem_fazem.png")
+    _salvar(fig, "historia_dizem_fazem.png")
     plt.close(fig)
     linhas = []
     for q in PER:
@@ -319,7 +342,7 @@ def quem_recebe():
     e["publico"] = e["categoria"].replace({"empresas": "empresas (com micro e pequenas)",
                                            "micro e pequenas empresas": "empresas (com micro e pequenas)"})
     tabs = {}
-    fig, axs = plt.subplots(1, 2, figsize=(13, 4.2))
+    fig, axs = _subplots(1, 2, figsize=(13, 4.2))
     x = np.arange(6)
     cores = {"empresas (com micro e pequenas)": SERIES[0], "municípios": SERIES[1], "produtores rurais": "#6b8e23",
              "instituições de pesquisa": SERIES[2]}
@@ -336,9 +359,9 @@ def quem_recebe():
     axs[0].set_ylabel("% do valor do PPA (sem pessoal e emendas)")
     fig.legend(*axs[1].get_legend_handles_labels(), frameon=False, fontsize=9, loc="lower center",
                bbox_to_anchor=(0.5, -0.06), ncol=4)
-    fig.suptitle("Quem recebe: empresas perdem espaço; em 2024-2027 municípios recebem um pouco mais que empresas na "
+    _sup(fig, "Quem recebe: empresas perdem espaço; em 2024-2027 municípios recebem um pouco mais que empresas na "
                  "política industrial", x=0.01, ha="left", fontsize=12.5, fontweight="bold")
-    salvar(fig, "historia_quem_recebe.png")
+    _salvar(fig, "historia_quem_recebe.png")
     plt.close(fig)
     out = pd.concat(tabs).reset_index().rename(columns={"level_0": "recorte", "publico": "público"})
     out.to_csv(SAIDAS / "historia_quem_recebe.csv", index=False, encoding="utf-8")
@@ -386,7 +409,7 @@ def orcamento(s):
     t = pd.DataFrame(linhas)
     t.to_csv(SAIDAS / "historia_orcamento.csv", index=False, encoding="utf-8")
 
-    fig, axs = plt.subplots(1, 2, figsize=(13, 4.2))
+    fig, axs = _subplots(1, 2, figsize=(13, 4.2))
     x = np.arange(6)
     axs[0].plot(x, t["política industrial (% PPA)"], "o-", lw=2.2, color=TINTA2, label="política industrial")
     axs[0].plot(x, t["crédito a empresas (% PPA)"], "o-", lw=2, color=SERIES[3], label="crédito a empresas")
@@ -404,9 +427,11 @@ def orcamento(s):
         ax.set_xticks(x, ROT)
         ax.set_ylim(0, None)
         eixo_limpo(ax)
-        ax.legend(frameon=False, fontsize=8.5, loc="upper center", bbox_to_anchor=(0.5, -0.1), ncol=2)
-    fig.suptitle("A política industrial perde peso no orçamento e também encolhe em reais (sem pessoal e emendas)",
+    # uma legenda só: as duas séries do painel da esquerda também estão no da direita, com as mesmas cores
+    fig.legend(*axs[1].get_legend_handles_labels(), frameon=False, fontsize=8.5, loc="upper center",
+               bbox_to_anchor=(0.5, 0.0), ncol=4)
+    _sup(fig, "A política industrial perde peso no orçamento e também encolhe em reais (sem pessoal e emendas)",
                  x=0.01, ha="left", fontsize=12.5, fontweight="bold")
-    salvar(fig, "historia_orcamento.png")
+    _salvar(fig, "historia_orcamento.png")
     plt.close(fig)
     return t
