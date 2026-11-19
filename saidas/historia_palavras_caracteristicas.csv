@@ -1,0 +1,459 @@
+recorte,medida,periodo,posição,palavra,ocorrências,vezes mais frequente que nos outros PPAs,tfidf
+PPA inteiro,contagem,2004-2007,1,central,7,63.71361659417865,
+PPA inteiro,contagem,2004-2007,2,gerência,6,55.21846771495484,
+PPA inteiro,contagem,2004-2007,3,produtor,6,55.21846771495484,
+PPA inteiro,contagem,2004-2007,4,agricultor,5,46.72331883573101,
+PPA inteiro,contagem,2004-2007,5,inadequado,5,46.72331883573101,
+PPA inteiro,contagem,2004-2007,6,rio,5,46.72331883573101,
+PPA inteiro,contagem,2004-2007,7,turista,5,46.72331883573101,
+PPA inteiro,contagem,2004-2007,8,habitação,7,21.237872198059552,
+PPA inteiro,contagem,2004-2007,9,espaço,6,18.40615590498494,
+PPA inteiro,contagem,2004-2007,10,solo,6,18.40615590498494,
+PPA inteiro,contagem,2004-2007,11,utilização,6,18.40615590498494,
+PPA inteiro,contagem,2004-2007,12,baixo,5,15.574439611910337,
+PPA inteiro,contagem,2004-2007,13,pesqueiro,7,7.079290732686518,
+PPA inteiro,contagem,2004-2007,14,comunicação,5,6.67475983367586,
+PPA inteiro,contagem,2004-2007,15,dificuldade,5,6.67475983367586,
+PPA inteiro,contagem,2004-2007,16,propriedade,5,6.67475983367586,
+PPA inteiro,contagem,2004-2007,17,diminuir,5,5.191479870636779,
+PPA inteiro,contagem,2004-2007,18,lazer,13,4.247574439611911,
+PPA inteiro,contagem,2004-2007,19,turístico,12,4.247574439611911,
+PPA inteiro,contagem,2004-2007,20,estudo,7,4.247574439611911,
+PPA inteiro,contagem,2008-2011,1,permanente,5,5.152436974789916,
+PPA inteiro,contagem,2008-2011,2,atenção,7,3.6194805194805197,
+PPA inteiro,contagem,2008-2011,3,comunidade,5,3.503657142857143,
+PPA inteiro,contagem,2008-2011,4,relacionar,5,3.503657142857143,
+PPA inteiro,contagem,2008-2011,5,equipamento,6,3.136883116883117,
+PPA inteiro,contagem,2008-2011,6,setor,7,3.062637362637363,
+PPA inteiro,contagem,2008-2011,7,instalação,6,2.7977606177606176,
+PPA inteiro,contagem,2008-2011,8,oferta,8,2.6542857142857144,
+PPA inteiro,contagem,2008-2011,9,oportunidade,8,2.294382566585956,
+PPA inteiro,contagem,2008-2011,10,bom,8,2.2191569086651053,
+PPA inteiro,contagem,2008-2011,11,expansão,5,2.136376306620209,
+PPA inteiro,contagem,2008-2011,12,solução,5,2.136376306620209,
+PPA inteiro,contagem,2008-2011,13,buscar,7,2.0954887218045113,
+PPA inteiro,contagem,2008-2011,14,evento,7,2.0954887218045113,
+PPA inteiro,contagem,2008-2011,15,ampliação,5,2.0370099667774086,
+PPA inteiro,contagem,2008-2011,16,administração,8,2.020426439232409,
+PPA inteiro,contagem,2008-2011,17,município,7,1.9580796252927402,
+PPA inteiro,contagem,2008-2011,18,rodovia,5,1.9464761904761905,
+PPA inteiro,contagem,2008-2011,19,rural,11,1.9278496240601504,
+PPA inteiro,contagem,2008-2011,20,modernizar,8,1.906599597585513,
+PPA inteiro,contagem,2012-2015,1,bloco,5,5.112626656274357,
+PPA inteiro,contagem,2012-2015,2,portaria,5,5.112626656274357,
+PPA inteiro,contagem,2012-2015,3,janeiro,6,4.430943102104444,
+PPA inteiro,contagem,2012-2015,4,financiamento,11,4.054841830838283,
+PPA inteiro,contagem,2012-2015,5,cidadania,5,3.749259547934529,
+PPA inteiro,contagem,2012-2015,6,regulamentar,5,3.749259547934529,
+PPA inteiro,contagem,2012-2015,7,nº,7,3.6518761830531123,
+PPA inteiro,contagem,2012-2015,8,federal,5,2.959941748369365,
+PPA inteiro,contagem,2012-2015,9,respectivo,5,2.959941748369365,
+PPA inteiro,contagem,2012-2015,10,monitoramento,7,2.473851607874689,
+PPA inteiro,contagem,2012-2015,11,transferência,6,2.4616350567246905,
+PPA inteiro,contagem,2012-2015,12,cumprimento,6,2.29186712177816,
+PPA inteiro,contagem,2012-2015,13,instrumento,5,2.249555728760717,
+PPA inteiro,contagem,2012-2015,14,oferecer,5,2.249555728760717,
+PPA inteiro,contagem,2012-2015,15,base,6,2.1440047268247304,
+PPA inteiro,contagem,2012-2015,16,modalidade,6,2.1440047268247304,
+PPA inteiro,contagem,2012-2015,17,prisional,5,2.082921971074738,
+PPA inteiro,contagem,2012-2015,18,integração,9,2.0668065206215487,
+PPA inteiro,contagem,2012-2015,19,fundamental,6,2.0140650464111105,
+PPA inteiro,contagem,2012-2015,20,situação,6,2.0140650464111105,
+PPA inteiro,contagem,2016-2019,1,federal,7,4.979794128860085,
+PPA inteiro,contagem,2016-2019,2,bloco,5,4.979794128860085,
+PPA inteiro,contagem,2016-2019,3,portaria,5,4.979794128860085,
+PPA inteiro,contagem,2016-2019,4,janeiro,6,4.315821578345407,
+PPA inteiro,contagem,2016-2019,5,financiamento,11,3.9494918953028257,
+PPA inteiro,contagem,2016-2019,6,transferência,8,3.680717399592236,
+PPA inteiro,contagem,2016-2019,7,regulamentar,5,3.6518490278307283,
+PPA inteiro,contagem,2016-2019,8,nº,7,3.5569958063286315,
+PPA inteiro,contagem,2016-2019,9,monitoramento,8,2.9191896617455666,
+PPA inteiro,contagem,2016-2019,10,respectivo,5,2.8830387061821536,
+PPA inteiro,contagem,2016-2019,11,servidor,9,2.8671541954042907,
+PPA inteiro,contagem,2016-2019,12,governo,6,2.3976786546363367,
+PPA inteiro,contagem,2016-2019,13,valorização,5,2.381640670324388,
+PPA inteiro,contagem,2016-2019,14,estabelecer,5,2.191109416698437,
+PPA inteiro,contagem,2016-2019,15,prisional,5,2.028805015461516,
+PPA inteiro,contagem,2016-2019,16,governamental,7,1.9153054341769553,
+PPA inteiro,contagem,2016-2019,17,busca,5,1.8888874281883077,
+PPA inteiro,contagem,2016-2019,18,buscar,9,1.7852092160064452,
+PPA inteiro,contagem,2016-2019,19,evento,9,1.7852092160064452,
+PPA inteiro,contagem,2016-2019,20,internacional,10,1.772469096712911,
+PPA inteiro,contagem,2020-2023,1,missão,5,9.438111298482294,
+PPA inteiro,contagem,2020-2023,2,institucional,6,3.7180438448566617,
+PPA inteiro,contagem,2020-2023,3,lei,6,3.7180438448566617,
+PPA inteiro,contagem,2020-2023,4,manter,9,3.5439548353984898,
+PPA inteiro,contagem,2020-2023,5,realização,7,3.3868820449099135,
+PPA inteiro,contagem,2020-2023,6,excelência,6,3.280626921932348,
+PPA inteiro,contagem,2020-2023,7,individual,9,3.2604384485666107,
+PPA inteiro,contagem,2020-2023,8,pleno,6,2.9352977722552587,
+PPA inteiro,contagem,2020-2023,9,aperfeiçoamento,5,2.7759150877889103,
+PPA inteiro,contagem,2020-2023,10,articulação,5,2.7759150877889103,
+PPA inteiro,contagem,2020-2023,11,atuação,5,2.7759150877889103,
+PPA inteiro,contagem,2020-2023,12,combate,5,2.7759150877889103,
+PPA inteiro,contagem,2020-2023,13,interesse,7,2.5740303541315344,
+PPA inteiro,contagem,2020-2023,14,pesquisa,6,2.2308263069139964,
+PPA inteiro,contagem,2020-2023,15,instituição,7,2.2189916845961504,
+PPA inteiro,contagem,2020-2023,16,risco,13,2.185497470489039,
+PPA inteiro,contagem,2020-2023,17,material,6,2.0655799138092563,
+PPA inteiro,contagem,2020-2023,18,equidade,5,2.0517633257570203,
+PPA inteiro,contagem,2020-2023,19,fomentar,11,2.013697215817187,
+PPA inteiro,contagem,2020-2023,20,preservar,8,1.97110432523586,
+PPA inteiro,contagem,2024-2027,1,aprimorar,6,6.6702085323145495,
+PPA inteiro,contagem,2024-2027,2,fomento,5,4.617836676217764,
+PPA inteiro,contagem,2024-2027,3,lei,6,4.0021251193887295,
+PPA inteiro,contagem,2024-2027,4,objetivo,5,3.907400264491955,
+PPA inteiro,contagem,2024-2027,5,fortalecer,6,3.5312868700488793,
+PPA inteiro,contagem,2024-2027,6,estratégico,7,3.011632614924629,
+PPA inteiro,contagem,2024-2027,7,aperfeiçoamento,5,2.988011966964436,
+PPA inteiro,contagem,2024-2027,8,excelência,5,2.6734843914944957,
+PPA inteiro,contagem,2024-2027,9,fomentar,12,2.4562961043711513,
+PPA inteiro,contagem,2024-2027,10,estimular,6,2.401275071633238,
+PPA inteiro,contagem,2024-2027,11,qualificação,6,2.401275071633238,
+PPA inteiro,contagem,2024-2027,12,cultural,7,2.2344371013956925,
+PPA inteiro,contagem,2024-2027,13,interesse,6,2.2234028441048497,
+PPA inteiro,contagem,2024-2027,14,contribuir,13,2.187396320313678,
+PPA inteiro,contagem,2024-2027,15,execução,7,2.0990166710080747,
+PPA inteiro,contagem,2024-2027,16,prestação,7,2.0990166710080747,
+PPA inteiro,contagem,2024-2027,17,direito,14,2.060265594004849,
+PPA inteiro,contagem,2024-2027,18,eficiência,9,2.040439461584594,
+PPA inteiro,contagem,2024-2027,19,atuar,5,2.0318481375358166,
+PPA inteiro,contagem,2024-2027,20,patrimônio,5,2.0318481375358166,
+PPA inteiro,TF-IDF,2004-2007,1,necessidade,39,,0.27290410533322695
+PPA inteiro,TF-IDF,2004-2007,2,serviço,32,,0.22392131719649394
+PPA inteiro,TF-IDF,2004-2007,3,catarinense,31,,0.21692377603410348
+PPA inteiro,TF-IDF,2004-2007,4,ação,30,,0.20992623487171305
+PPA inteiro,TF-IDF,2004-2007,5,público,29,,0.20292869370932262
+PPA inteiro,TF-IDF,2004-2007,6,rural,28,,0.1959311525469322
+PPA inteiro,TF-IDF,2004-2007,7,recurso,25,,0.17493852905976087
+PPA inteiro,TF-IDF,2004-2007,8,gestão,24,,0.16794098789737044
+PPA inteiro,TF-IDF,2004-2007,9,qualidade,23,,0.16094344673498
+PPA inteiro,TF-IDF,2004-2007,10,desenvolvimento,22,,0.15394590557258958
+PPA inteiro,TF-IDF,2004-2007,11,social,21,,0.14694836441019915
+PPA inteiro,TF-IDF,2004-2007,12,saúde,20,,0.13995082324780872
+PPA inteiro,TF-IDF,2004-2007,13,segurança,20,,0.13995082324780872
+PPA inteiro,TF-IDF,2004-2007,14,melhorar,19,,0.13295328208541826
+PPA inteiro,TF-IDF,2004-2007,15,melhoria,19,,0.13295328208541826
+PPA inteiro,TF-IDF,2004-2007,16,população,19,,0.13295328208541826
+PPA inteiro,TF-IDF,2004-2007,17,órgão,19,,0.13295328208541826
+PPA inteiro,TF-IDF,2004-2007,18,sociedade,18,,0.12595574092302783
+PPA inteiro,TF-IDF,2004-2007,19,política,17,,0.1189581997606374
+PPA inteiro,TF-IDF,2004-2007,20,transporte,17,,0.1189581997606374
+PPA inteiro,TF-IDF,2008-2011,1,necessidade,27,,0.2793191491625411
+PPA inteiro,TF-IDF,2008-2011,2,catarinense,24,,0.24828368814448096
+PPA inteiro,TF-IDF,2008-2011,3,desenvolvimento,19,,0.19655791978104742
+PPA inteiro,TF-IDF,2008-2011,4,recurso,19,,0.19655791978104742
+PPA inteiro,TF-IDF,2008-2011,5,público,18,,0.1862127661083607
+PPA inteiro,TF-IDF,2008-2011,6,serviço,18,,0.1862127661083607
+PPA inteiro,TF-IDF,2008-2011,7,condição,18,,0.1862127661083607
+PPA inteiro,TF-IDF,2008-2011,8,gestão,17,,0.175867612435674
+PPA inteiro,TF-IDF,2008-2011,9,qualidade,16,,0.1655224587629873
+PPA inteiro,TF-IDF,2008-2011,10,promover,16,,0.1655224587629873
+PPA inteiro,TF-IDF,2008-2011,11,ampliar,15,,0.1551773050903006
+PPA inteiro,TF-IDF,2008-2011,12,melhorar,15,,0.1551773050903006
+PPA inteiro,TF-IDF,2008-2011,13,segurança,14,,0.14483215141761388
+PPA inteiro,TF-IDF,2008-2011,14,melhoria,14,,0.14483215141761388
+PPA inteiro,TF-IDF,2008-2011,15,acesso,13,,0.13448699774492717
+PPA inteiro,TF-IDF,2008-2011,16,população,13,,0.13448699774492717
+PPA inteiro,TF-IDF,2008-2011,17,sociedade,12,,0.12414184407224048
+PPA inteiro,TF-IDF,2008-2011,18,atendimento,11,,0.11379669039955377
+PPA inteiro,TF-IDF,2008-2011,19,ação,11,,0.11379669039955377
+PPA inteiro,TF-IDF,2008-2011,20,região,11,,0.11379669039955377
+PPA inteiro,TF-IDF,2012-2015,1,necessidade,32,,0.23907401045192223
+PPA inteiro,TF-IDF,2012-2015,2,catarinense,29,,0.21666082197205452
+PPA inteiro,TF-IDF,2012-2015,3,qualidade,29,,0.21666082197205452
+PPA inteiro,TF-IDF,2012-2015,4,ação,27,,0.20171869631880937
+PPA inteiro,TF-IDF,2012-2015,5,serviço,27,,0.20171869631880937
+PPA inteiro,TF-IDF,2012-2015,6,promover,26,,0.1942476334921868
+PPA inteiro,TF-IDF,2012-2015,7,recurso,25,,0.18677657066556425
+PPA inteiro,TF-IDF,2012-2015,8,desenvolvimento,24,,0.17930550783894167
+PPA inteiro,TF-IDF,2012-2015,9,condição,24,,0.17930550783894167
+PPA inteiro,TF-IDF,2012-2015,10,público,23,,0.1718344450123191
+PPA inteiro,TF-IDF,2012-2015,11,sociedade,22,,0.16436338218569652
+PPA inteiro,TF-IDF,2012-2015,12,melhoria,21,,0.15689231935907397
+PPA inteiro,TF-IDF,2012-2015,13,ampliar,20,,0.1494212565324514
+PPA inteiro,TF-IDF,2012-2015,14,gestão,20,,0.1494212565324514
+PPA inteiro,TF-IDF,2012-2015,15,população,18,,0.13447913087920624
+PPA inteiro,TF-IDF,2012-2015,16,melhorar,17,,0.1270080680525837
+PPA inteiro,TF-IDF,2012-2015,17,acesso,17,,0.1270080680525837
+PPA inteiro,TF-IDF,2012-2015,18,social,16,,0.11953700522596111
+PPA inteiro,TF-IDF,2012-2015,19,atividade,16,,0.11953700522596111
+PPA inteiro,TF-IDF,2012-2015,20,segurança,15,,0.11206594239933854
+PPA inteiro,TF-IDF,2016-2019,1,ação,32,,0.23269745654747098
+PPA inteiro,TF-IDF,2016-2019,2,promover,30,,0.21815386551325405
+PPA inteiro,TF-IDF,2016-2019,3,qualidade,29,,0.2108820699961456
+PPA inteiro,TF-IDF,2016-2019,4,necessidade,29,,0.2108820699961456
+PPA inteiro,TF-IDF,2016-2019,5,público,29,,0.2108820699961456
+PPA inteiro,TF-IDF,2016-2019,6,recurso,28,,0.20361027447903712
+PPA inteiro,TF-IDF,2016-2019,7,catarinense,28,,0.20361027447903712
+PPA inteiro,TF-IDF,2016-2019,8,desenvolvimento,27,,0.19633847896192866
+PPA inteiro,TF-IDF,2016-2019,9,serviço,26,,0.1890666834448202
+PPA inteiro,TF-IDF,2016-2019,10,gestão,23,,0.16725129689349477
+PPA inteiro,TF-IDF,2016-2019,11,condição,21,,0.15270770585927784
+PPA inteiro,TF-IDF,2016-2019,12,melhoria,21,,0.15270770585927784
+PPA inteiro,TF-IDF,2016-2019,13,população,20,,0.14543591034216938
+PPA inteiro,TF-IDF,2016-2019,14,segurança,20,,0.14543591034216938
+PPA inteiro,TF-IDF,2016-2019,15,sociedade,19,,0.1381641148250609
+PPA inteiro,TF-IDF,2016-2019,16,ampliar,18,,0.13089231930795245
+PPA inteiro,TF-IDF,2016-2019,17,melhorar,16,,0.11634872827373549
+PPA inteiro,TF-IDF,2016-2019,18,acesso,16,,0.11634872827373549
+PPA inteiro,TF-IDF,2016-2019,19,social,16,,0.11634872827373549
+PPA inteiro,TF-IDF,2016-2019,20,saúde,16,,0.11634872827373549
+PPA inteiro,TF-IDF,2020-2023,1,público,45,,0.2940851198051726
+PPA inteiro,TF-IDF,2020-2023,2,ação,40,,0.2614089953823756
+PPA inteiro,TF-IDF,2020-2023,3,serviço,37,,0.24180332072869745
+PPA inteiro,TF-IDF,2020-2023,4,promover,35,,0.22873287095957867
+PPA inteiro,TF-IDF,2020-2023,5,qualidade,32,,0.2091271963059005
+PPA inteiro,TF-IDF,2020-2023,6,catarinense,27,,0.17645107188310355
+PPA inteiro,TF-IDF,2020-2023,7,gestão,27,,0.17645107188310355
+PPA inteiro,TF-IDF,2020-2023,8,recurso,27,,0.17645107188310355
+PPA inteiro,TF-IDF,2020-2023,9,necessidade,26,,0.16991584699854415
+PPA inteiro,TF-IDF,2020-2023,10,desenvolvimento,26,,0.16991584699854415
+PPA inteiro,TF-IDF,2020-2023,11,social,24,,0.15684539722942537
+PPA inteiro,TF-IDF,2020-2023,12,saúde,23,,0.150310172344866
+PPA inteiro,TF-IDF,2020-2023,13,segurança,21,,0.1372397225757472
+PPA inteiro,TF-IDF,2020-2023,14,condição,20,,0.1307044976911878
+PPA inteiro,TF-IDF,2020-2023,15,acesso,17,,0.11109882303750965
+PPA inteiro,TF-IDF,2020-2023,16,política,17,,0.11109882303750965
+PPA inteiro,TF-IDF,2020-2023,17,visar,17,,0.11109882303750965
+PPA inteiro,TF-IDF,2020-2023,18,vida,16,,0.10456359815295024
+PPA inteiro,TF-IDF,2020-2023,19,atividade,16,,0.10456359815295024
+PPA inteiro,TF-IDF,2020-2023,20,educação,15,,0.09802837326839085
+PPA inteiro,TF-IDF,2024-2027,1,público,51,,0.3400932512756684
+PPA inteiro,TF-IDF,2024-2027,2,promover,35,,0.23339732930683127
+PPA inteiro,TF-IDF,2024-2027,3,serviço,35,,0.23339732930683127
+PPA inteiro,TF-IDF,2024-2027,4,ação,34,,0.22672883418377895
+PPA inteiro,TF-IDF,2024-2027,5,social,32,,0.2133918439376743
+PPA inteiro,TF-IDF,2024-2027,6,catarinense,30,,0.20005485369156967
+PPA inteiro,TF-IDF,2024-2027,7,desenvolvimento,29,,0.19338635856851732
+PPA inteiro,TF-IDF,2024-2027,8,qualidade,29,,0.19338635856851732
+PPA inteiro,TF-IDF,2024-2027,9,gestão,26,,0.17338087319936038
+PPA inteiro,TF-IDF,2024-2027,10,necessidade,25,,0.16671237807630804
+PPA inteiro,TF-IDF,2024-2027,11,recurso,24,,0.16004388295325572
+PPA inteiro,TF-IDF,2024-2027,12,saúde,21,,0.14003839758409875
+PPA inteiro,TF-IDF,2024-2027,13,segurança,20,,0.13336990246104644
+PPA inteiro,TF-IDF,2024-2027,14,atividade,18,,0.12003291221494179
+PPA inteiro,TF-IDF,2024-2027,15,política,18,,0.12003291221494179
+PPA inteiro,TF-IDF,2024-2027,16,condição,16,,0.10669592196883715
+PPA inteiro,TF-IDF,2024-2027,17,infraestrutura,13,,0.10005382633604272
+PPA inteiro,TF-IDF,2024-2027,18,econômico,15,,0.10002742684578483
+PPA inteiro,TF-IDF,2024-2027,19,vida,15,,0.10002742684578483
+PPA inteiro,TF-IDF,2024-2027,20,educação,15,,0.10002742684578483
+selecionados,contagem,2004-2007,1,participação,4,73.34730538922157,
+selecionados,contagem,2004-2007,2,social,4,8.149700598802395,
+selecionados,contagem,2004-2007,3,rural,3,4.38830032243206,
+selecionados,contagem,2004-2007,4,criação,3,3.8031936127744506,
+selecionados,contagem,2004-2007,5,serviço,3,3.355759070095104,
+selecionados,contagem,2004-2007,6,tecnologia,4,2.716566866267465,
+selecionados,contagem,2004-2007,7,regional,3,2.7165668662674647,
+selecionados,contagem,2004-2007,8,informação,3,2.4803436605050764,
+selecionados,contagem,2004-2007,9,desenvolvimento,4,1.7057512881214318,
+selecionados,contagem,2004-2007,10,econômico,3,1.3266954463166691,
+selecionados,contagem,2004-2007,11,empresa,3,1.2137851955663141,
+selecionados,contagem,2004-2007,12,catarinense,3,0.935211544124865,
+selecionados,contagem,2008-2011,1,população,4,6.553213909378293,
+selecionados,contagem,2008-2011,2,rural,3,5.096944151738672,
+selecionados,contagem,2008-2011,3,acesso,5,4.164931506849315,
+selecionados,contagem,2008-2011,4,base,3,3.487382840663302,
+selecionados,contagem,2008-2011,5,informação,3,2.8808814770696842,
+selecionados,contagem,2008-2011,6,tecnológico,4,1.8125910813174,
+selecionados,contagem,2008-2011,7,promover,3,1.7908182154757495,
+selecionados,contagem,2008-2011,8,inovação,3,1.1624609468877674,
+selecionados,contagem,2012-2015,1,ambiente,4,3.1380897583429226,
+selecionados,contagem,2012-2015,2,comércio,3,2.9831223628691985,
+selecionados,contagem,2012-2015,3,população,4,2.655306718597858,
+selecionados,contagem,2012-2015,4,acesso,6,2.167859108420473,
+selecionados,contagem,2012-2015,5,exigir,3,2.065238558909445,
+selecionados,contagem,2012-2015,6,rural,3,2.065238558909445,
+selecionados,contagem,2012-2015,7,ampliar,4,2.030528667163068,
+selecionados,contagem,2012-2015,8,condição,4,1.8167888074616922,
+selecionados,contagem,2012-2015,9,mundial,3,1.789873417721519,
+selecionados,contagem,2012-2015,10,ação,4,1.64376130198915,
+selecionados,contagem,2012-2015,11,informação,4,1.64376130198915,
+selecionados,contagem,2012-2015,12,inovação,9,1.619409282700422,
+selecionados,contagem,2012-2015,13,empreendedor,3,1.5793000744601637,
+selecionados,contagem,2012-2015,14,economia,6,1.4245931283905966,
+selecionados,contagem,2012-2015,15,base,3,1.4130579613590941,
+selecionados,contagem,2012-2015,16,conhecimento,3,1.4130579613590941,
+selecionados,contagem,2012-2015,17,necessário,3,1.4130579613590941,
+selecionados,contagem,2012-2015,18,tecnológico,7,1.4032108675517136,
+selecionados,contagem,2012-2015,19,promover,5,1.2784810126582278,
+selecionados,contagem,2012-2015,20,atividade,3,1.2784810126582278,
+selecionados,contagem,2016-2019,1,melhoria,3,3.2102908277404922,
+selecionados,contagem,2016-2019,2,conhecimento,5,3.0268456375838926,
+selecionados,contagem,2016-2019,3,cooperação,3,2.62660158633313,
+selecionados,contagem,2016-2019,4,ambiente,3,2.2225090345895717,
+selecionados,contagem,2016-2019,5,exigir,3,2.2225090345895717,
+selecionados,contagem,2016-2019,6,negócio,3,2.2225090345895717,
+selecionados,contagem,2016-2019,7,condição,4,1.9551395266690217,
+selecionados,contagem,2016-2019,8,mundial,3,1.9261744966442953,
+selecionados,contagem,2016-2019,9,produto,4,1.768935762224353,
+selecionados,contagem,2016-2019,10,empreendedor,3,1.6995657323332019,
+selecionados,contagem,2016-2019,11,qualidade,3,1.6995657323332019,
+selecionados,contagem,2016-2019,12,economia,6,1.5330776605944392,
+selecionados,contagem,2016-2019,13,base,3,1.5206640762981278,
+selecionados,contagem,2016-2019,14,necessário,3,1.5206640762981278,
+selecionados,contagem,2016-2019,15,tecnológico,7,1.5100671140939597,
+selecionados,contagem,2016-2019,16,inovação,8,1.492931600742539,
+selecionados,contagem,2016-2019,17,promover,5,1.3758389261744968,
+selecionados,contagem,2016-2019,18,tecnologia,4,1.3758389261744968,
+selecionados,contagem,2016-2019,19,atividade,3,1.3758389261744965,
+selecionados,contagem,2016-2019,20,nacional,3,1.3758389261744965,
+selecionados,contagem,2020-2023,1,buscar,3,5.161963190184051,
+selecionados,contagem,2020-2023,2,pesquisa,3,5.161963190184051,
+selecionados,contagem,2020-2023,3,promoção,3,5.161963190184051,
+selecionados,contagem,2020-2023,4,visar,3,3.687116564417178,
+selecionados,contagem,2020-2023,5,internacional,8,2.984808647385335,
+selecionados,contagem,2020-2023,6,agropecuário,3,2.8677573278800272,
+selecionados,contagem,2020-2023,7,científico,3,2.8677573278800272,
+selecionados,contagem,2020-2023,8,investimento,3,2.8677573278800272,
+selecionados,contagem,2020-2023,9,social,3,2.346346904629113,
+selecionados,contagem,2020-2023,10,individual,3,1.9853704577630957,
+selecionados,contagem,2020-2023,11,negócio,3,1.9853704577630957,
+selecionados,contagem,2020-2023,12,política,4,1.9520028870443884,
+selecionados,contagem,2020-2023,13,regional,4,1.7465288989344527,
+selecionados,contagem,2020-2023,14,produto,4,1.5801928133216478,
+selecionados,contagem,2020-2023,15,empreendedor,3,1.5182244677011911,
+selecionados,contagem,2020-2023,16,empresa,7,1.4181217555450685,
+selecionados,contagem,2020-2023,17,necessário,3,1.3584113658379078,
+selecionados,contagem,2020-2023,18,inovação,8,1.3336379062785537,
+selecionados,contagem,2020-2023,19,econômico,6,1.2954733874979274,
+selecionados,contagem,2020-2023,20,desenvolvimento,6,1.229038854805726,
+selecionados,contagem,2024-2027,1,estimular,3,6.378909090909091,
+selecionados,contagem,2024-2027,2,público,5,3.855384615384615,
+selecionados,contagem,2024-2027,3,emprego,4,3.727933884297521,
+selecionados,contagem,2024-2027,4,competitividade,8,3.6884848484848494,
+selecionados,contagem,2024-2027,5,setor,3,3.5438383838383842,
+selecionados,contagem,2024-2027,6,qualidade,4,2.7338181818181817,
+selecionados,contagem,2024-2027,7,serviço,4,2.7338181818181817,
+selecionados,contagem,2024-2027,8,sustentável,3,2.4534265734265737,
+selecionados,contagem,2024-2027,9,econômico,8,2.3472176308539945,
+selecionados,contagem,2024-2027,10,catarinense,9,1.7667532467532467,
+selecionados,contagem,2024-2027,11,política,3,1.6786602870813399,
+selecionados,contagem,2024-2027,12,desenvolvimento,6,1.5187878787878788,
+selecionados,contagem,2024-2027,13,fomentar,3,1.5187878787878788,
+selecionados,contagem,2024-2027,14,produto,3,1.3867193675889329,
+selecionados,contagem,2024-2027,15,economia,4,1.0514685314685317,
+selecionados,contagem,2024-2027,16,empresa,4,0.9112727272727273,
+selecionados,contagem,2024-2027,17,promover,3,0.862014742014742,
+selecionados,contagem,2024-2027,18,inovação,3,0.5595534290271132,
+selecionados,TF-IDF,2004-2007,1,participação,4,,0.46409159017386564
+selecionados,TF-IDF,2004-2007,2,social,4,,0.32129637303415437
+selecionados,TF-IDF,2004-2007,3,rural,3,,0.24097227977561575
+selecionados,TF-IDF,2004-2007,4,disponibilizar,2,,0.23204579508693282
+selecionados,TF-IDF,2004-2007,5,tecnologia,4,,0.20600995163012412
+selecionados,TF-IDF,2004-2007,6,desenvolvimento,4,,0.20600995163012412
+selecionados,TF-IDF,2004-2007,7,estimular,2,,0.1902808714323998
+selecionados,TF-IDF,2004-2007,8,criação,3,,0.1783248942938163
+selecionados,TF-IDF,2004-2007,9,informação,3,,0.1783248942938163
+selecionados,TF-IDF,2004-2007,10,pesqueiro,2,,0.16064818651707718
+selecionados,TF-IDF,2004-2007,11,regional,3,,0.1545074637225931
+selecionados,TF-IDF,2004-2007,12,serviço,3,,0.1545074637225931
+selecionados,TF-IDF,2004-2007,13,econômico,3,,0.1545074637225931
+selecionados,TF-IDF,2004-2007,14,empresa,3,,0.1545074637225931
+selecionados,TF-IDF,2004-2007,15,catarinense,3,,0.1545074637225931
+selecionados,TF-IDF,2004-2007,16,fomentar,2,,0.10300497581506206
+selecionados,TF-IDF,2004-2007,17,pequeno,2,,0.10300497581506206
+selecionados,TF-IDF,2004-2007,18,produtivo,2,,0.10300497581506206
+selecionados,TF-IDF,2004-2007,19,prestação,1,,0.0951404357161999
+selecionados,TF-IDF,2004-2007,20,realização,1,,0.0951404357161999
+selecionados,TF-IDF,2008-2011,1,acesso,5,,0.29349338152310006
+selecionados,TF-IDF,2008-2011,2,população,4,,0.271885300866544
+selecionados,TF-IDF,2008-2011,3,rural,3,,0.23796039086325754
+selecionados,TF-IDF,2008-2011,4,tecnológico,4,,0.2034350534313438
+selecionados,TF-IDF,2008-2011,5,propiciar,2,,0.18790256946573894
+selecionados,TF-IDF,2008-2011,6,digital,2,,0.18790256946573894
+selecionados,TF-IDF,2008-2011,7,base,3,,0.17609602891386006
+selecionados,TF-IDF,2008-2011,8,inovação,3,,0.17609602891386006
+selecionados,TF-IDF,2008-2011,9,informação,3,,0.17609602891386006
+selecionados,TF-IDF,2008-2011,10,promover,3,,0.17609602891386006
+selecionados,TF-IDF,2008-2011,11,pescador,2,,0.15864026057550504
+selecionados,TF-IDF,2008-2011,12,favorável,2,,0.15864026057550504
+selecionados,TF-IDF,2008-2011,13,cenário,2,,0.15864026057550504
+selecionados,TF-IDF,2008-2011,14,centro,2,,0.15864026057550504
+selecionados,TF-IDF,2008-2011,15,cooperação,2,,0.135942650433272
+selecionados,TF-IDF,2008-2011,16,nacional,2,,0.11739735260924003
+selecionados,TF-IDF,2008-2011,17,renda,2,,0.1017175267156719
+selecionados,TF-IDF,2008-2011,18,projeto,2,,0.1017175267156719
+selecionados,TF-IDF,2008-2011,19,ampliar,2,,0.1017175267156719
+selecionados,TF-IDF,2008-2011,20,empresa,2,,0.1017175267156719
+selecionados,TF-IDF,2012-2015,1,inovação,9,,0.3103415612700451
+selecionados,TF-IDF,2012-2015,2,tecnológico,7,,0.20913800433131366
+selecionados,TF-IDF,2012-2015,3,acesso,6,,0.20689437418003007
+selecionados,TF-IDF,2012-2015,4,economia,6,,0.1792611465696974
+selecionados,TF-IDF,2012-2015,5,catarinense,6,,0.1792611465696974
+selecionados,TF-IDF,2012-2015,6,promover,5,,0.17241197848335837
+selecionados,TF-IDF,2012-2015,7,ambiente,4,,0.15971836366352438
+selecionados,TF-IDF,2012-2015,8,população,4,,0.15971836366352438
+selecionados,TF-IDF,2012-2015,9,empresa,5,,0.1493842888080812
+selecionados,TF-IDF,2012-2015,10,rural,3,,0.13978925717675295
+selecionados,TF-IDF,2012-2015,11,condição,4,,0.1379295827866867
+selecionados,TF-IDF,2012-2015,12,informação,4,,0.1379295827866867
+selecionados,TF-IDF,2012-2015,13,exigir,3,,0.11978877274764328
+selecionados,TF-IDF,2012-2015,14,empreendedor,3,,0.11978877274764328
+selecionados,TF-IDF,2012-2015,15,comércio,3,,0.11978877274764328
+selecionados,TF-IDF,2012-2015,16,ampliar,4,,0.11950743104646494
+selecionados,TF-IDF,2012-2015,17,ação,4,,0.11950743104646494
+selecionados,TF-IDF,2012-2015,18,acadêmico,2,,0.11038291083625298
+selecionados,TF-IDF,2012-2015,19,desenvolver,2,,0.11038291083625298
+selecionados,TF-IDF,2012-2015,20,preparar,2,,0.11038291083625298
+selecionados,TF-IDF,2016-2019,1,inovação,8,,0.29443603384042266
+selecionados,TF-IDF,2016-2019,2,catarinense,7,,0.22322174575067574
+selecionados,TF-IDF,2016-2019,3,tecnológico,7,,0.22322174575067574
+selecionados,TF-IDF,2016-2019,4,economia,6,,0.19133292492915063
+selecionados,TF-IDF,2016-2019,5,promover,5,,0.18402252115026416
+selecionados,TF-IDF,2016-2019,6,conhecimento,5,,0.18402252115026416
+selecionados,TF-IDF,2016-2019,7,empresa,5,,0.15944410410762552
+selecionados,TF-IDF,2016-2019,8,condição,4,,0.14721801692021133
+selecionados,TF-IDF,2016-2019,9,produto,4,,0.14721801692021133
+selecionados,TF-IDF,2016-2019,10,exigir,3,,0.1278555710596703
+selecionados,TF-IDF,2016-2019,11,empreendedor,3,,0.1278555710596703
+selecionados,TF-IDF,2016-2019,12,ambiente,3,,0.1278555710596703
+selecionados,TF-IDF,2016-2019,13,cooperação,3,,0.1278555710596703
+selecionados,TF-IDF,2016-2019,14,negócio,3,,0.1278555710596703
+selecionados,TF-IDF,2016-2019,15,tecnologia,4,,0.1275552832861004
+selecionados,TF-IDF,2016-2019,16,desenvolvimento,4,,0.1275552832861004
+selecionados,TF-IDF,2016-2019,17,formação,2,,0.11781630094774848
+selecionados,TF-IDF,2016-2019,18,informação,3,,0.11041351269015849
+selecionados,TF-IDF,2016-2019,19,melhoria,3,,0.11041351269015849
+selecionados,TF-IDF,2016-2019,20,nacional,3,,0.11041351269015849
+selecionados,TF-IDF,2020-2023,1,inovação,8,,0.2750595277775321
+selecionados,TF-IDF,2020-2023,2,internacional,8,,0.23832202552503826
+selecionados,TF-IDF,2020-2023,3,catarinense,7,,0.20853177233440848
+selecionados,TF-IDF,2020-2023,4,empresa,7,,0.20853177233440848
+selecionados,TF-IDF,2020-2023,5,desenvolvimento,6,,0.1787415191437787
+selecionados,TF-IDF,2020-2023,6,econômico,6,,0.1787415191437787
+selecionados,TF-IDF,2020-2023,7,tecnológico,6,,0.1787415191437787
+selecionados,TF-IDF,2020-2023,8,promover,5,,0.17191220486095757
+selecionados,TF-IDF,2020-2023,9,pesquisa,3,,0.13938404760809942
+selecionados,TF-IDF,2020-2023,10,promoção,3,,0.13938404760809942
+selecionados,TF-IDF,2020-2023,11,buscar,3,,0.13938404760809942
+selecionados,TF-IDF,2020-2023,12,social,3,,0.13938404760809942
+selecionados,TF-IDF,2020-2023,13,política,4,,0.13752976388876606
+selecionados,TF-IDF,2020-2023,14,produto,4,,0.13752976388876606
+selecionados,TF-IDF,2020-2023,15,resultado,2,,0.13422075841990352
+selecionados,TF-IDF,2020-2023,16,agropecuário,3,,0.11944153893357963
+selecionados,TF-IDF,2020-2023,17,individual,3,,0.11944153893357963
+selecionados,TF-IDF,2020-2023,18,empreendedor,3,,0.11944153893357963
+selecionados,TF-IDF,2020-2023,19,negócio,3,,0.11944153893357963
+selecionados,TF-IDF,2020-2023,20,investimento,3,,0.11944153893357963
+selecionados,TF-IDF,2024-2027,1,competitividade,8,,0.316628452104589
+selecionados,TF-IDF,2024-2027,2,catarinense,9,,0.3086312860561466
+selecionados,TF-IDF,2024-2027,3,econômico,8,,0.27433892093879697
+selecionados,TF-IDF,2024-2027,4,desenvolvimento,6,,0.20575419070409773
+selecionados,TF-IDF,2024-2027,5,público,5,,0.1978927825653681
+selecionados,TF-IDF,2024-2027,6,estimular,3,,0.1900446381266902
+selecionados,TF-IDF,2024-2027,7,qualidade,4,,0.1583142260522945
+selecionados,TF-IDF,2024-2027,8,definir,2,,0.15450514047697508
+selecionados,TF-IDF,2024-2027,9,qualificação,2,,0.15450514047697508
+selecionados,TF-IDF,2024-2027,10,qualificar,2,,0.15450514047697508
+selecionados,TF-IDF,2024-2027,11,setor,3,,0.13749238172224654
+selecionados,TF-IDF,2024-2027,12,serviço,4,,0.13716946046939849
+selecionados,TF-IDF,2024-2027,13,empresa,4,,0.13716946046939849
+selecionados,TF-IDF,2024-2027,14,economia,4,,0.13716946046939849
+selecionados,TF-IDF,2024-2027,15,emprego,4,,0.13716946046939849
+selecionados,TF-IDF,2024-2027,16,inovação,3,,0.11873566953922088
+selecionados,TF-IDF,2024-2027,17,política,3,,0.11873566953922088
+selecionados,TF-IDF,2024-2027,18,produto,3,,0.11873566953922088
+selecionados,TF-IDF,2024-2027,19,promover,3,,0.11873566953922088
+selecionados,TF-IDF,2024-2027,20,sustentável,3,,0.11873566953922088

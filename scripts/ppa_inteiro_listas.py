@@ -37,6 +37,14 @@ TEMAS = {
 PALAVRAS_SOLTAS = ["inovação", "competitividade", "empresa", "indústria", "industrial", "tecnologia",
                    "educação"]
 
+# Tema agro: versão "estrita", aprovada pelo Andrey em 19/11/2026 (notebooks/historia_ppa.ipynb).
+# Ficaram fora, por ambiguidade: campo ("campo de atuação"), familiar (também social), extensão (rural ou
+# universitária), sanitário (defesa agropecuária ou saúde), abastecimento (água) e agroindústria (já em
+# "indústria").
+AGRO = ["rural", "agropecuário", "agricultura", "agrícola", "agricultor", "pesqueiro", "pescador", "pesca",
+        "aquicultor", "aqüicultor", "aquicultura", "aqüicultura", "produtor", "leite", "pecuária", "pecuário",
+        "agronegócio", "florestal"]
+
 # ---------------------------------------------------------------- público-alvo (demanda)
 # Aplicado ao campo PÚBLICO-ALVO, sem acento e em minúsculas. Um programa pode ter mais de
 # uma categoria; o que não casa com nenhuma vai para "outros". Versão aprovada: só as 7
