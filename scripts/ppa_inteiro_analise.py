@@ -455,9 +455,11 @@ def item8_coocorrencia(f, alvos=("inovação", "competitividade", "indústria", 
         for q in PER:
             fr = [ls for ls in f.loc[f.periodo == q, "lemas"] if alvo in ls]
             c = Counter(w for ls in fr for w in set(ls) if w != alvo)
+            # empate desfeito em ordem alfabética (a ordem de um set muda entre execuções do Python)
+            mais = sorted(c.items(), key=lambda kv: (-kv[1], kv[0]))[:top]
             linhas.append({"alvo": alvo, "periodo": q, "frases com o alvo": len(fr),
                            "mais frequentes na mesma frase (nº de frases)":
-                               ", ".join(f"{w} ({n})" for w, n in c.most_common(top))})
+                               ", ".join(f"{w} ({n})" for w, n in mais)})
     t = pd.DataFrame(linhas)
     t.to_csv(SAIDAS / "ppa_inteiro_coocorrencia.csv", index=False, encoding="utf-8")
     return t
