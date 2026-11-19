@@ -142,7 +142,8 @@ def temas_no_tempo(p, B=3000):
                      "política industrial (42 programas selecionados)", loc="left", fontsize=11, color=TINTA)
     axs[0].set_ylabel("% dos lemas do PPA")
     axs[1].legend(frameon=False, fontsize=8.5, loc="upper left", bbox_to_anchor=(1.0, 1.0))
-    fig.suptitle("Do agro à inovação, da inovação à competitividade: % dos lemas de cada tema por PPA",
+    fig.suptitle("Na política industrial, competitividade sobe e inovação cai; no plano inteiro, só o agro muda "
+                 "(% dos lemas de cada tema por PPA)",
                  x=0.01, ha="left", fontsize=12.5, fontweight="bold")
     salvar(fig, "historia_temas.png")
     plt.close(fig)
@@ -269,3 +270,143 @@ def copia():
     salvar(fig, "historia_copia.png")
     plt.close(fig)
     return w.reset_index()
+
+
+# ------------------------------------------------------------------ o que dizem x o que fazem
+def dizem_fazem():
+    """Coesão da política industrial no texto e nas subações (homofilia da rede de programas,
+    saidas/rede_programas_resumo.csv, gerado por notebooks/redes_ppa.ipynb)."""
+    r = pd.read_csv(SAIDAS / "rede_programas_resumo.csv")
+    cam = {"texto (o que dizem)": SERIES[0], "subações (o que fazem)": SERIES[1]}
+    fig, ax = plt.subplots(figsize=(8.5, 3.8))
+    x = np.arange(6)
+    for c, cor in cam.items():
+        g = r[r.camada == c].set_index("periodo").reindex(PER)
+        h, pv = g["homofilia (dentro/entre)"].to_numpy(), g["p homofilia"].to_numpy()
+        ax.plot(x, h, "-", color=cor, lw=2, label=c)
+        ax.scatter(x[pv < 0.05], h[pv < 0.05], color=cor, s=60, zorder=3)
+        ax.scatter(x[pv >= 0.05], h[pv >= 0.05], facecolor="white", edgecolor=cor, s=60, zorder=3, lw=1.5)
+    ax.axhline(1, color=CINZA, lw=1, ls="--")
+    ax.text(5.1, 1.02, "igual ao resto do plano", fontsize=8, color=TINTA2, ha="right", va="bottom")
+    ax.set_xticks(x, ROT)
+    ax.set_ylim(0, None)
+    ax.set_ylabel("similaridade entre selecionados /\nsimilaridade com o resto do plano")
+    eixo_limpo(ax)
+    ax.legend(frameon=False, fontsize=9, loc="upper center", bbox_to_anchor=(0.5, -0.12), ncol=2)
+    titulo(ax, "A política industrial fala parecido, mas faz coisas diferentes a partir de 2020",
+           "ponto cheio: p < 0,05 (2.000 permutações); ponto vazio: não significativo")
+    salvar(fig, "historia_dizem_fazem.png")
+    plt.close(fig)
+    linhas = []
+    for q in PER:
+        g = r[r.periodo == q].set_index("camada")
+        linhas.append({"PPA": q,
+                       "texto: razão": g.loc["texto (o que dizem)", "homofilia (dentro/entre)"],
+                       "texto: p": g.loc["texto (o que dizem)", "p homofilia"],
+                       "subações: razão": g.loc["subações (o que fazem)", "homofilia (dentro/entre)"],
+                       "subações: p": g.loc["subações (o que fazem)", "p homofilia"]})
+    return pd.DataFrame(linhas)
+
+
+# ------------------------------------------------------------------ quem recebe
+PUBLICOS_HISTORIA = ["empresas (com micro e pequenas)", "municípios", "produtores rurais", "instituições de pesquisa"]
+
+
+def quem_recebe():
+    """% do valor do PPA (sem pessoal e emendas) por público declarado: plano inteiro e política industrial.
+    Fonte: saidas/rede_oferta_demanda_programas.csv (notebooks/redes_ppa.ipynb)."""
+    e = pd.read_csv(SAIDAS / "rede_oferta_demanda_programas.csv", dtype={"codigo": str})
+    e["publico"] = e["categoria"].replace({"empresas": "empresas (com micro e pequenas)",
+                                           "micro e pequenas empresas": "empresas (com micro e pequenas)"})
+    tabs = {}
+    fig, axs = plt.subplots(1, 2, figsize=(13, 4.2))
+    x = np.arange(6)
+    cores = {"empresas (com micro e pequenas)": SERIES[0], "municípios": SERIES[1], "produtores rurais": "#6b8e23",
+             "instituições de pesquisa": SERIES[2]}
+    for ax, (rec, d) in zip(axs, (("PPA inteiro", e), ("política industrial", e[e.selecionado == 1]))):
+        t = d.pivot_table(index="publico", columns="periodo", values="pct_ppa", aggfunc="sum").reindex(columns=PER).fillna(0)
+        tabs[rec] = t
+        for pub in PUBLICOS_HISTORIA:
+            v = t.loc[pub].values if pub in t.index else np.zeros(6)
+            ax.plot(x, v, "o-", lw=2, color=cores[pub], label=pub)
+        ax.set_xticks(x, ROT)
+        ax.set_ylim(0, None)
+        eixo_limpo(ax)
+        ax.set_title(f"{rec}: % do valor do PPA por público declarado", loc="left", fontsize=10.5, color=TINTA)
+    axs[0].set_ylabel("% do valor do PPA (sem pessoal e emendas)")
+    fig.legend(*axs[1].get_legend_handles_labels(), frameon=False, fontsize=9, loc="lower center",
+               bbox_to_anchor=(0.5, -0.06), ncol=4)
+    fig.suptitle("Quem recebe: empresas perdem espaço; em 2024-2027 municípios recebem um pouco mais que empresas na "
+                 "política industrial", x=0.01, ha="left", fontsize=12.5, fontweight="bold")
+    salvar(fig, "historia_quem_recebe.png")
+    plt.close(fig)
+    out = pd.concat(tabs).reset_index().rename(columns={"level_0": "recorte", "publico": "público"})
+    out.to_csv(SAIDAS / "historia_quem_recebe.csv", index=False, encoding="utf-8")
+    return out
+
+
+# ------------------------------------------------------------------ orçamento em % e em reais
+IPCA = RAIZ / "dados" / "ipca" / "ipca_indice_mensal.csv"
+ANOS_REF = {"2004-2007": [2007], "2008-2011": [2011], "2012-2015": [2012, 2013, 2014, 2015],
+            "2016-2019": [2016, 2017, 2018, 2019], "2020-2023": [2020, 2021, 2022, 2023],
+            "2024-2027": [2024, 2025, 2026, 2027]}
+
+
+def fatores_reais(base=2024):
+    """Multiplicador que leva o valor anual de cada PPA a preços médios de `base` (IPCA, média anual).
+    2004-2007 e 2008-2011: valor de um ano (2007 e 2011); demais: média dos anos do quadriênio com 12
+    meses de IPCA disponíveis (em 2024-2027, só 2024 e 2025)."""
+    ip = pd.read_csv(IPCA, dtype={"mes": str})
+    ano = ip.assign(a=ip.mes.str[:4].astype(int)).groupby("a").indice.agg(["size", "mean"])
+    ano = ano.loc[ano["size"] == 12, "mean"]
+    return {q: ano[base] / np.mean([ano[y] for y in ANOS_REF[q] if y in ano.index]) for q in PER}
+
+
+def orcamento(s):
+    """Política industrial no orçamento: % do PPA e R$ milhões por ano a preços de 2024 (sem pessoal e emendas)."""
+    fat = fatores_reais()
+    anual = {q: 1 if q in PER[:2] else 4 for q in PER}
+    real = lambda v, q: v / anual[q] * fat[q] / 1e6
+    sv = s[(s.pessoal == 0) & (s.emenda == 0)]
+    o = pd.read_csv(SAIDAS / "orcamento_ajustado.csv").set_index("periodo").reindex(PER)
+    vt = (pd.read_csv(SAIDAS / "ppa_inteiro_variaveis_tema.csv")
+          .pivot(index="periodo", columns="tema", values="valor").reindex(PER))
+    linhas = []
+    for q in PER:
+        tot = s.loc[s.periodo == q, "valor"].sum()
+        pi = sv.loc[(sv.periodo == q) & (sv.selecionado == 1), "valor"].sum()
+        linhas.append({"PPA": q,
+                       "política industrial (% PPA)": 100 * pi / tot,
+                       "crédito a empresas (% PPA)": o.loc[q, "pct_credito_empresas"],
+                       "política industrial (R$ mi/ano, 2024)": real(pi, q),
+                       "crédito a empresas (R$ mi/ano, 2024)": real(o.loc[q, "credito_empresas"], q),
+                       "subações de inovação (R$ mi/ano, 2024)": real(vt.loc[q, "inovação"], q),
+                       "subações de indústria e empresa (R$ mi/ano, 2024)": real(vt.loc[q, "indústria e empresa"], q),
+                       "PPA total (R$ bi/ano, 2024)": real(tot, q) / 1000})
+    t = pd.DataFrame(linhas)
+    t.to_csv(SAIDAS / "historia_orcamento.csv", index=False, encoding="utf-8")
+
+    fig, axs = plt.subplots(1, 2, figsize=(13, 4.2))
+    x = np.arange(6)
+    axs[0].plot(x, t["política industrial (% PPA)"], "o-", lw=2.2, color=TINTA2, label="política industrial")
+    axs[0].plot(x, t["crédito a empresas (% PPA)"], "o-", lw=2, color=SERIES[3], label="crédito a empresas")
+    axs[0].set_ylabel("% do valor do PPA")
+    axs[0].set_title("Fatia no orçamento do PPA", loc="left", fontsize=11, color=TINTA)
+    for col, cor, rot in (("política industrial (R$ mi/ano, 2024)", TINTA2, "política industrial"),
+                          ("crédito a empresas (R$ mi/ano, 2024)", SERIES[3], "crédito a empresas"),
+                          ("subações de inovação (R$ mi/ano, 2024)", SERIES[0], "subações de inovação (PPA inteiro)"),
+                          ("subações de indústria e empresa (R$ mi/ano, 2024)", SERIES[1],
+                           "subações de indústria e empresa (PPA inteiro)")):
+        axs[1].plot(x, t[col], "o-", lw=2, color=cor, label=rot)
+    axs[1].set_ylabel("R$ milhões por ano, preços de 2024")
+    axs[1].set_title("Em reais (IPCA)", loc="left", fontsize=11, color=TINTA)
+    for ax in axs:
+        ax.set_xticks(x, ROT)
+        ax.set_ylim(0, None)
+        eixo_limpo(ax)
+        ax.legend(frameon=False, fontsize=8.5, loc="upper center", bbox_to_anchor=(0.5, -0.1), ncol=2)
+    fig.suptitle("A política industrial perde peso no orçamento e também encolhe em reais (sem pessoal e emendas)",
+                 x=0.01, ha="left", fontsize=12.5, fontweight="bold")
+    salvar(fig, "historia_orcamento.png")
+    plt.close(fig)
+    return t
