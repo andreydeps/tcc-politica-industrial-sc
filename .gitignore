@@ -19,3 +19,6 @@ saidas/relatorio_andamento_*.docx
 
 # anotações internas da reunião (não publicar)
 saidas/briefing_reuniao.md
+
+# anotações pessoais de reunião (não publicar)
+anotacoes*.txt
