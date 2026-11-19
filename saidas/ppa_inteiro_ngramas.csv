@@ -1,0 +1,253 @@
+recorte,n,periodo,posição,ngrama,ocorrências,programas
+"texto, PPA inteiro",2,2004-2007,1,qualidade vida,7,7
+"texto, PPA inteiro",2,2004-2007,2,melhoria qualidade,6,6
+"texto, PPA inteiro",2,2004-2007,3,município catarinense,6,6
+"texto, PPA inteiro",2,2004-2007,4,custo transporte,6,5
+"texto, PPA inteiro",2,2004-2007,5,central gerência,6,4
+"texto, PPA inteiro",2,2004-2007,6,gerência regional,6,4
+"texto, PPA inteiro",2,2004-2007,7,segurança público,6,3
+"texto, PPA inteiro",2,2004-2007,8,melhorar condição,5,5
+"texto, PPA inteiro",2,2004-2007,9,população catarinense,5,5
+"texto, PPA inteiro",2,2004-2007,10,reduzir custo,5,5
+"texto, PPA inteiro",2,2008-2011,1,bom condição,6,6
+"texto, PPA inteiro",2,2008-2011,2,população catarinense,5,5
+"texto, PPA inteiro",2,2008-2011,3,promover desenvolvimento,5,5
+"texto, PPA inteiro",2,2008-2011,4,sociedade catarinense,5,5
+"texto, PPA inteiro",2,2008-2011,5,segurança público,5,3
+"texto, PPA inteiro",2,2008-2011,6,custo transporte,4,4
+"texto, PPA inteiro",2,2008-2011,7,gerir administrativo,4,4
+"texto, PPA inteiro",2,2008-2011,8,gestão órgão,4,4
+"texto, PPA inteiro",2,2008-2011,9,necessidade programar,4,4
+"texto, PPA inteiro",2,2008-2011,10,programar recurso,4,4
+"texto, PPA inteiro",2,2012-2015,1,sociedade catarinense,8,8
+"texto, PPA inteiro",2,2012-2015,2,promover desenvolvimento,7,7
+"texto, PPA inteiro",2,2012-2015,3,qualidade vida,7,5
+"texto, PPA inteiro",2,2012-2015,4,necessidade programar,6,6
+"texto, PPA inteiro",2,2012-2015,5,nº janeiro,6,6
+"texto, PPA inteiro",2,2012-2015,6,programar recurso,6,6
+"texto, PPA inteiro",2,2012-2015,7,ampliar acesso,5,5
+"texto, PPA inteiro",2,2012-2015,8,ação governamental,5,5
+"texto, PPA inteiro",2,2012-2015,9,ação serviço,5,5
+"texto, PPA inteiro",2,2012-2015,10,bloco financiamento,5,5
+"texto, PPA inteiro",2,2016-2019,1,qualidade vida,8,6
+"texto, PPA inteiro",2,2016-2019,2,promover desenvolvimento,7,7
+"texto, PPA inteiro",2,2016-2019,3,sociedade catarinense,7,7
+"texto, PPA inteiro",2,2016-2019,4,nº janeiro,6,6
+"texto, PPA inteiro",2,2016-2019,5,ampliar acesso,5,5
+"texto, PPA inteiro",2,2016-2019,6,ação governamental,5,5
+"texto, PPA inteiro",2,2016-2019,7,ação serviço,5,5
+"texto, PPA inteiro",2,2016-2019,8,bloco financiamento,5,5
+"texto, PPA inteiro",2,2016-2019,9,bom condição,5,5
+"texto, PPA inteiro",2,2016-2019,10,cumprimento portaria,5,5
+"texto, PPA inteiro",2,2020-2023,1,política público,10,9
+"texto, PPA inteiro",2,2020-2023,2,qualidade vida,9,5
+"texto, PPA inteiro",2,2020-2023,3,serviço público,8,6
+"texto, PPA inteiro",2,2020-2023,4,energia elétrico,8,2
+"texto, PPA inteiro",2,2020-2023,5,recurso humano,6,5
+"texto, PPA inteiro",2,2020-2023,6,segurança público,6,3
+"texto, PPA inteiro",2,2020-2023,7,recurso gestão,5,5
+"texto, PPA inteiro",2,2020-2023,8,atender demanda,5,4
+"texto, PPA inteiro",2,2020-2023,9,bom condição,4,4
+"texto, PPA inteiro",2,2020-2023,10,desenvolvimento econômico,4,4
+"texto, PPA inteiro",2,2024-2027,1,serviço público,10,8
+"texto, PPA inteiro",2,2024-2027,2,política público,9,9
+"texto, PPA inteiro",2,2024-2027,3,qualidade vida,9,5
+"texto, PPA inteiro",2,2024-2027,4,energia elétrico,8,2
+"texto, PPA inteiro",2,2024-2027,5,desenvolvimento econômico,7,7
+"texto, PPA inteiro",2,2024-2027,6,promover desenvolvimento,6,6
+"texto, PPA inteiro",2,2024-2027,7,segurança público,6,3
+"texto, PPA inteiro",2,2024-2027,8,recurso humano,5,4
+"texto, PPA inteiro",2,2024-2027,9,bom condição,4,4
+"texto, PPA inteiro",2,2024-2027,10,econômico social,4,4
+"texto, PPA inteiro",3,2004-2007,1,central gerência regional,6,4
+"texto, PPA inteiro",3,2004-2007,2,órgão central gerência,5,3
+"texto, PPA inteiro",3,2004-2007,3,administrativo financeiro órgão,4,4
+"texto, PPA inteiro",3,2004-2007,4,gestão administrativo financeiro,4,4
+"texto, PPA inteiro",3,2004-2007,5,melhoria qualidade vida,4,4
+"texto, PPA inteiro",3,2004-2007,6,necessidade programar recurso,4,4
+"texto, PPA inteiro",3,2004-2007,7,programar recurso gestão,4,4
+"texto, PPA inteiro",3,2004-2007,8,recurso gestão órgão,4,4
+"texto, PPA inteiro",3,2004-2007,9,reduzir custo transporte,4,4
+"texto, PPA inteiro",3,2004-2007,10,qualidade vida população,3,3
+"texto, PPA inteiro",3,2008-2011,1,necessidade programar recurso,4,4
+"texto, PPA inteiro",3,2008-2011,2,programar recurso gestão,4,4
+"texto, PPA inteiro",3,2008-2011,3,recurso gestão órgão,4,4
+"texto, PPA inteiro",3,2008-2011,4,acesso interessado oferta,3,3
+"texto, PPA inteiro",3,2008-2011,5,afim democratizar acesso,3,3
+"texto, PPA inteiro",3,2008-2011,6,ampliar atividade regional,3,3
+"texto, PPA inteiro",3,2008-2011,7,ampliação melhoria setor,3,3
+"texto, PPA inteiro",3,2008-2011,8,atividade regional afim,3,3
+"texto, PPA inteiro",3,2008-2011,9,bom condição população,3,3
+"texto, PPA inteiro",3,2008-2011,10,catarinense promoção evento,3,3
+"texto, PPA inteiro",3,2012-2015,1,necessidade programar recurso,6,6
+"texto, PPA inteiro",3,2012-2015,2,ação serviço saúde,5,5
+"texto, PPA inteiro",3,2012-2015,3,bloco financiamento respectivo,5,5
+"texto, PPA inteiro",3,2012-2015,4,cumprimento portaria nº,5,5
+"texto, PPA inteiro",3,2012-2015,5,federal ação serviço,5,5
+"texto, PPA inteiro",3,2012-2015,6,financiamento respectivo monitoramento,5,5
+"texto, PPA inteiro",3,2012-2015,7,financiamento transferência recurso,5,5
+"texto, PPA inteiro",3,2012-2015,8,janeiro regulamentar financiamento,5,5
+"texto, PPA inteiro",3,2012-2015,9,nº janeiro regulamentar,5,5
+"texto, PPA inteiro",3,2012-2015,10,portaria nº janeiro,5,5
+"texto, PPA inteiro",3,2016-2019,1,ação serviço saúde,5,5
+"texto, PPA inteiro",3,2016-2019,2,bloco financiamento respectivo,5,5
+"texto, PPA inteiro",3,2016-2019,3,cumprimento portaria nº,5,5
+"texto, PPA inteiro",3,2016-2019,4,federal ação serviço,5,5
+"texto, PPA inteiro",3,2016-2019,5,financiamento respectivo monitoramento,5,5
+"texto, PPA inteiro",3,2016-2019,6,financiamento transferência recurso,5,5
+"texto, PPA inteiro",3,2016-2019,7,janeiro regulamentar financiamento,5,5
+"texto, PPA inteiro",3,2016-2019,8,necessidade programar recurso,5,5
+"texto, PPA inteiro",3,2016-2019,9,nº janeiro regulamentar,5,5
+"texto, PPA inteiro",3,2016-2019,10,portaria nº janeiro,5,5
+"texto, PPA inteiro",3,2020-2023,1,necessidade programar recurso,4,4
+"texto, PPA inteiro",3,2020-2023,2,programar recurso gestão,4,4
+"texto, PPA inteiro",3,2020-2023,3,recurso gestão órgão,4,4
+"texto, PPA inteiro",3,2020-2023,4,energia elétrico possibilitar,3,2
+"texto, PPA inteiro",3,2020-2023,5,geração trabalho renda,3,2
+"texto, PPA inteiro",3,2020-2023,6,acesso informação cidadão,2,2
+"texto, PPA inteiro",3,2020-2023,7,adequar cumprimento atribuição,2,2
+"texto, PPA inteiro",3,2020-2023,8,ampliar capacidade tratamento,2,2
+"texto, PPA inteiro",3,2020-2023,9,atendimento qualidade demanda,2,2
+"texto, PPA inteiro",3,2020-2023,10,ação governamental respeitar,2,2
+"texto, PPA inteiro",3,2024-2027,1,desenvolvimento econômico social,3,3
+"texto, PPA inteiro",3,2024-2027,2,melhoria qualidade vida,3,3
+"texto, PPA inteiro",3,2024-2027,3,necessidade programar recurso,3,3
+"texto, PPA inteiro",3,2024-2027,4,programar recurso gestão,3,3
+"texto, PPA inteiro",3,2024-2027,5,recurso gestão órgão,3,3
+"texto, PPA inteiro",3,2024-2027,6,energia elétrico possibilitar,3,2
+"texto, PPA inteiro",3,2024-2027,7,geração trabalho renda,3,2
+"texto, PPA inteiro",3,2024-2027,8,público educação especial,3,2
+"texto, PPA inteiro",3,2024-2027,9,acesso informação cidadão,2,2
+"texto, PPA inteiro",3,2024-2027,10,adequar cumprimento atribuição,2,2
+"texto, selecionados",2,2004-2007,1,desenvolvimento regional,2,1
+"texto, selecionados",2,2004-2007,2,rural pesqueiro,2,1
+"texto, selecionados",2,2004-2007,3,social econômico,2,1
+"texto, selecionados",2,2008-2011,1,base tecnológico,2,1
+"texto, selecionados",2,2008-2011,2,população rural,2,1
+"texto, selecionados",2,2008-2011,3,rural pescador,2,1
+"texto, selecionados",2,2012-2015,1,ampliar acesso,2,2
+"texto, selecionados",2,2012-2015,2,condição necessário,2,2
+"texto, selecionados",2,2012-2015,3,economia mundial,2,2
+"texto, selecionados",2,2012-2015,4,fomentar atividade,2,2
+"texto, selecionados",2,2012-2015,5,pequeno empresa,2,2
+"texto, selecionados",2,2012-2015,6,acadêmico empresarial,2,1
+"texto, selecionados",2,2012-2015,7,ambiente acadêmico,2,1
+"texto, selecionados",2,2012-2015,8,comércio exterior,2,1
+"texto, selecionados",2,2012-2015,9,economia catarinense,2,1
+"texto, selecionados",2,2012-2015,10,empreendedor individual,2,1
+"texto, selecionados",2,2016-2019,1,ampliar acesso,2,2
+"texto, selecionados",2,2016-2019,2,científico tecnológico,2,2
+"texto, selecionados",2,2016-2019,3,condição necessário,2,2
+"texto, selecionados",2,2016-2019,4,economia mundial,2,2
+"texto, selecionados",2,2016-2019,5,pequeno empresa,2,2
+"texto, selecionados",2,2016-2019,6,economia catarinense,2,1
+"texto, selecionados",2,2016-2019,7,empreendedor individual,2,1
+"texto, selecionados",2,2016-2019,8,empresa empreendedor,2,1
+"texto, selecionados",2,2016-2019,9,inovação tecnológico,2,1
+"texto, selecionados",2,2020-2023,1,científico tecnológico,3,2
+"texto, selecionados",2,2020-2023,2,ampliar acesso,2,2
+"texto, selecionados",2,2020-2023,3,condição necessário,2,2
+"texto, selecionados",2,2020-2023,4,pequeno empresa,2,2
+"texto, selecionados",2,2020-2023,5,comercial cooperação,2,1
+"texto, selecionados",2,2020-2023,6,cooperação internacional,2,1
+"texto, selecionados",2,2020-2023,7,cultural social,2,1
+"texto, selecionados",2,2020-2023,8,desenvolvimento regional,2,1
+"texto, selecionados",2,2020-2023,9,economia catarinense,2,1
+"texto, selecionados",2,2020-2023,10,econômico política,2,1
+"texto, selecionados",2,2024-2027,1,desenvolvimento econômico,4,4
+"texto, selecionados",2,2024-2027,2,aumento competitividade,2,2
+"texto, selecionados",2,2024-2027,3,competitividade economia,2,2
+"texto, selecionados",2,2024-2027,4,emprego qualificar,2,2
+"texto, selecionados",2,2024-2027,5,empresa catarinense,2,2
+"texto, selecionados",2,2024-2027,6,geração emprego,2,2
+"texto, selecionados",2,2024-2027,7,promover desenvolvimento,2,2
+"texto, selecionados",2,2024-2027,8,economia catarinense,2,1
+"texto, selecionados",2,2024-2027,9,empreendedor individual,2,1
+"texto, selecionados",2,2024-2027,10,nacional internacional,2,1
+"texto, selecionados",3,2012-2015,1,ambiente acadêmico empresarial,2,1
+"texto, selecionados",3,2012-2015,2,empresa empreendedor individual,2,1
+"texto, selecionados",3,2016-2019,1,empresa empreendedor individual,2,1
+"texto, selecionados",3,2020-2023,1,comercial cooperação internacional,2,1
+"texto, selecionados",3,2020-2023,2,cooperação internacional área,2,1
+"texto, selecionados",3,2020-2023,3,econômico política cultural,2,1
+"texto, selecionados",3,2020-2023,4,empresa empreendedor individual,2,1
+"texto, selecionados",3,2020-2023,5,internacional missão promoção,2,1
+"texto, selecionados",3,2020-2023,6,internacional área econômico,2,1
+"texto, selecionados",3,2020-2023,7,missão promoção comercial,2,1
+"texto, selecionados",3,2020-2023,8,pesquisa científico tecnológico,2,1
+"texto, selecionados",3,2020-2023,9,política cultural social,2,1
+"texto, selecionados",3,2020-2023,10,promoção comercial cooperação,2,1
+"subações, selecionados",2,2004-2007,1,micro pequeno,4,3
+"subações, selecionados",2,2004-2007,2,desenvolvimento produção,4,1
+"subações, selecionados",2,2004-2007,3,implantação projeto,3,2
+"subações, selecionados",2,2004-2007,4,manutenção equipamento,3,1
+"subações, selecionados",2,2004-2007,5,produto serviço,2,2
+"subações, selecionados",2,2004-2007,6,rural pesqueiro,2,2
+"subações, selecionados",2,2004-2007,7,agregação produto,2,1
+"subações, selecionados",2,2004-2007,8,capacitação gestor,2,1
+"subações, selecionados",2,2004-2007,9,comércio exterior,2,1
+"subações, selecionados",2,2004-2007,10,cooperação internacional,2,1
+"subações, selecionados",2,2008-2011,1,estudo projeto,5,1
+"subações, selecionados",2,2008-2011,2,creditício empresa,3,1
+"subações, selecionados",2,2008-2011,3,levantamentos estudo,3,1
+"subações, selecionados",2,2008-2011,4,desenvolvimento tecnológico,2,2
+"subações, selecionados",2,2008-2011,5,comércio exterior,2,1
+"subações, selecionados",2,2008-2011,6,cooperação internacional,2,1
+"subações, selecionados",2,2008-2011,7,creditício desenvolvimento,2,1
+"subações, selecionados",2,2008-2011,8,cálculo publicação,2,1
+"subações, selecionados",2,2008-2011,9,equipamento tecnológico,2,1
+"subações, selecionados",2,2008-2011,10,projeto engenharia,2,1
+"subações, selecionados",2,2012-2015,1,construção centro,3,3
+"subações, selecionados",2,2012-2015,2,ciência tecnologia,3,2
+"subações, selecionados",2,2012-2015,3,agricultura orgânico,2,1
+"subações, selecionados",2,2012-2015,4,capacitação treinamento,2,1
+"subações, selecionados",2,2012-2015,5,centro inovação,2,1
+"subações, selecionados",2,2012-2015,6,desenvolvimento regional,2,1
+"subações, selecionados",2,2012-2015,7,econômico tecnológico,2,1
+"subações, selecionados",2,2012-2015,8,fomento pesquisa,2,1
+"subações, selecionados",2,2012-2015,9,inovação tecnológico,2,1
+"subações, selecionados",2,2012-2015,10,modalidade lotérico,2,1
+"subações, selecionados",2,2016-2019,1,financeiro projeto,4,1
+"subações, selecionados",2,2016-2019,2,centro inovação,2,2
+"subações, selecionados",2,2016-2019,3,inovação tecnológico,2,2
+"subações, selecionados",2,2016-2019,4,projeto pesquisa,2,2
+"subações, selecionados",2,2016-2019,5,projeto programa,2,2
+"subações, selecionados",2,2016-2019,6,capacitação treinamento,2,1
+"subações, selecionados",2,2016-2019,7,construção centro,2,1
+"subações, selecionados",2,2016-2019,8,fomentar desenvolvimento,2,1
+"subações, selecionados",2,2016-2019,9,pequeno empresa,2,1
+"subações, selecionados",2,2016-2019,10,área industrial,2,1
+"subações, selecionados",2,2020-2023,1,fomentar desenvolvimento,3,1
+"subações, selecionados",2,2020-2023,2,gestão público,3,1
+"subações, selecionados",2,2020-2023,3,inovação gestão,3,1
+"subações, selecionados",2,2020-2023,4,projeto pesquisa,2,2
+"subações, selecionados",2,2020-2023,5,projeto programa,2,2
+"subações, selecionados",2,2020-2023,6,desenvolvimento produto,2,1
+"subações, selecionados",2,2020-2023,7,evento relacionar,2,1
+"subações, selecionados",2,2020-2023,8,fomentar projeto,2,1
+"subações, selecionados",2,2020-2023,9,fomentar realização,2,1
+"subações, selecionados",2,2020-2023,10,incentivo programa,2,1
+"subações, selecionados",2,2024-2027,1,fomentar projeto,2,2
+"subações, selecionados",2,2024-2027,2,informação comunicação,2,2
+"subações, selecionados",2,2024-2027,3,qualificação capacitação,2,2
+"subações, selecionados",2,2024-2027,4,tecnologia informação,2,2
+"subações, selecionados",2,2024-2027,5,fomentar desenvolvimento,2,1
+"subações, selecionados",2,2024-2027,6,projeto desenvolvimento,2,1
+"subações, selecionados",2,2024-2027,7,projeto incentivo,2,1
+"subações, selecionados",2,2024-2027,8,rural pesqueiro,2,1
+"subações, selecionados",2,2024-2027,9,unidade regional,2,1
+"subações, selecionados",3,2004-2007,1,desenvolvimento fruticultura clima,2,1
+"subações, selecionados",3,2004-2007,2,implantação projeto desenvolvimento,2,1
+"subações, selecionados",3,2004-2007,3,micro pequeno empresa,2,1
+"subações, selecionados",3,2008-2011,1,levantamentos estudo projeto,3,1
+"subações, selecionados",3,2012-2015,1,centro inovação tecnológico,2,1
+"subações, selecionados",3,2012-2015,2,ciência tecnologia inovação,2,1
+"subações, selecionados",3,2012-2015,3,econômico tecnológico sustentabilidade,2,1
+"subações, selecionados",3,2012-2015,4,tecnológico sustentabilidade ambiental,2,1
+"subações, selecionados",3,2016-2019,1,centro inovação tecnológico,2,2
+"subações, selecionados",3,2020-2023,1,inovação gestão público,3,1
+"subações, selecionados",3,2020-2023,2,fomentar desenvolvimento produto,2,1
+"subações, selecionados",3,2020-2023,3,fomentar realização evento,2,1
+"subações, selecionados",3,2020-2023,4,incentivo programa projeto,2,1
+"subações, selecionados",3,2020-2023,5,realização evento relacionar,2,1
+"subações, selecionados",3,2024-2027,1,tecnologia informação comunicação,2,2

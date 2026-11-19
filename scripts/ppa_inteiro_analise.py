@@ -366,6 +366,89 @@ def item7_bigramas(f, top=10):
     return t
 
 
+_PRODUTO = re.compile(r" [A-ZÀ-Ú][^ ]*(?: [^A-ZÀ-Ú ][^ ]*)*$")
+
+
+def nome_subacao(texto, periodo):
+    """Nome da subação sem o produto e a unidade de medida que o PDF cola no fim.
+
+    2012-2027: "Apoio creditício ... - BADESC Operação de crédito realizada unidade" -> o produto começa
+    na última palavra com maiúscula seguida só de palavras sem maiúscula ("Operação de crédito
+    realizada unidade"). 2004-2011: o produto fica na linha da ação; o nome termina só com a unidade
+    ("... Unidade", "... Experimento"), que sai. Em 2004-2007 o nome já vem cortado pela coluna do PDF.
+    """
+    nome = str(texto).split(" | ")[-1].strip()
+    sem_ultima = (nome.rsplit(" ", 1)[0] if " " in nome else nome).strip(" -")
+    if periodo == PER[0]:
+        # 2004-2007: nomes Com Iniciais Maiúsculas (o spaCy os lê como nome próprio e descarta):
+        # tira o sufixo " - SIGLA/REGIÃO" e passa para minúsculas
+        return sem_ultima.split(" - ")[0].lower()
+    if periodo in PER[:2]:
+        return sem_ultima
+    m = _PRODUTO.search(nome)
+    if m and m.start() > 0:
+        return nome[:m.start()].strip(" -")
+    return sem_ultima
+
+
+def lemas_nomes_subacoes(s):
+    """Lemas dos nomes limpos das subações (sem produto e unidade), com cache em saidas/."""
+    arq = SAIDAS / "ppa_inteiro_subacoes_nomes.csv"
+    if arq.exists():
+        return pd.read_csv(arq, encoding="utf-8", dtype={"programa": str, "subacao": str}, keep_default_na=False)
+    import spacy
+    nlp = spacy.load("pt_core_news_lg", disable=["ner", "parser"])
+    u = s[["periodo", "programa", "selecionado", "subacao", "texto", "valor"]].copy()
+    u["nome"] = [nome_subacao(t, q) for t, q in zip(u.texto, u.periodo)]
+    nomes = u["nome"].drop_duplicates().tolist()
+    lema = lambda doc: " ".join(tk.lemma_.lower() for tk in doc if not tk.is_stop and not tk.is_punct
+                                and not tk.is_space and tk.is_alpha and tk.pos_ in {"NOUN", "VERB", "ADJ"})
+    mapa = dict(zip(nomes, (lema(d) for d in nlp.pipe(nomes, batch_size=128))))
+    u["lemas_nome"] = u["nome"].map(mapa)
+    u = u.drop(columns=["texto"])
+    u.to_csv(arq, index=False, encoding="utf-8")
+    return u
+
+
+def item7_ngramas(f, ns=(2, 3), top=10, minimo=2):
+    """n-gramas de lemas vizinhos dentro da mesma frase (depois de tirar stopwords), por PPA.
+
+    Recortes: texto (objetivo + justificativa) do PPA inteiro; texto dos selecionados; nomes das
+    subações dos selecionados, sem produto e unidade (nome_subacao); nome igual repetido no mesmo
+    programa conta uma vez, para não inflar com a repetição regional das SDRs.
+    Ordem: ocorrências, depois nº de programas em que o n-grama aparece. Só entram n-gramas com pelo
+    menos `minimo` ocorrências (com 1 ocorrência a ordem seria alfabética, sem informação).
+    """
+    s = pd.read_csv(SAIDAS / "ppa_inteiro_subacoes.csv", encoding="utf-8", dtype={"programa": str, "subacao": str},
+                    keep_default_na=False)
+    sub = lemas_nomes_subacoes(s)
+    sub = sub[sub.selecionado.astype(int) == 1].drop_duplicates(["periodo", "programa", "lemas_nome"])
+    recortes = {
+        "texto, PPA inteiro": list(zip(f.periodo, f.codigo, f.lemas)),
+        "texto, selecionados": list(zip(f.loc[f.selecionado == 1, "periodo"], f.loc[f.selecionado == 1, "codigo"],
+                                        f.loc[f.selecionado == 1, "lemas"])),
+        "subações, selecionados": list(zip(sub.periodo, sub.programa, sub.lemas_nome.str.split())),
+    }
+    linhas = []
+    for recorte, docs in recortes.items():
+        for n in ns:
+            for q in PER:
+                oc, progs = Counter(), {}
+                for per, cod, ls in docs:
+                    if per != q:
+                        continue
+                    for g in zip(*(ls[i:] for i in range(n))):
+                        oc[g] += 1
+                        progs.setdefault(g, set()).add(cod)
+                ordem = sorted((g for g in oc if oc[g] >= minimo), key=lambda g: (-oc[g], -len(progs[g]), g))[:top]
+                for k, g in enumerate(ordem, 1):
+                    linhas.append({"recorte": recorte, "n": n, "periodo": q, "posição": k, "ngrama": " ".join(g),
+                                   "ocorrências": oc[g], "programas": len(progs[g])})
+    t = pd.DataFrame(linhas)
+    t.to_csv(SAIDAS / "ppa_inteiro_ngramas.csv", index=False, encoding="utf-8")
+    return t
+
+
 def item8_coocorrencia(f, alvos=("inovação", "competitividade", "indústria", "tecnologia", "empresa"), top=6):
     linhas = []
     for alvo in alvos:

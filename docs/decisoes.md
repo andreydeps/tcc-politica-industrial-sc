@@ -2,6 +2,9 @@
 
 Registro curto do que foi decidido e por quê. Adicionar novas entradas no topo.
 
+## 2026-11-19
+- Bigramas e trigramas (pedido do Dominik): item 7 do `notebooks/analise_ppa_inteiro.ipynb` passa a mostrar n-gramas de 2 e 3 lemas (`item7_ngramas`) em três recortes: texto do PPA inteiro, texto dos selecionados e nomes das subações dos selecionados. Regras do assistente (a revisar): lemas vizinhos na mesma frase, sem stopwords; só n-gramas com 2 ou mais ocorrências (com 1, a ordem seria alfabética); nas subações, nome sem o produto e a unidade de medida que o PDF cola no fim (`nome_subacao`: de 2012 em diante corta na última palavra com maiúscula seguida só de minúsculas; em 2004-2011 tira a última palavra, a unidade) e nome repetido no mesmo programa conta uma vez. Em 2004-2007 os nomes das subações vêm Com Iniciais Maiúsculas e o spaCy os descartava como nome próprio: passam para minúsculas, sem o sufixo " - SIGLA/REGIÃO". Falha conhecida: produto todo em maiúsculas iniciais ("Processo Aprimorado") deixa uma palavra a mais no nome.
+
 ## 2026-11-13 (redes: aprovação PRELIMINAR do Andrey, a revisar)
 Direção nova: olhar todos os programas (coocorrências, comparação de subações, oferta e demanda pelo público-alvo, redes), possivelmente sem ponte com o ICE. Notebook `notebooks/redes_ppa.ipynb`; regras em `scripts/redes_regras.py`; funções em `scripts/redes.py`. `networkx` acrescentado ao requirements.
 
